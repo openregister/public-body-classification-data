@@ -26,4 +26,4 @@ bind_rows(eng, sct, wls) %>%
   select(`official-name`, organisation) %>%
   rename("name" = `official-name`) %>%
   bind_rows(select(org, name, organisation)) %>%
-  write_tsv(file.path(here(), "lists", "organisation.tsv"))
+  write_csv(file.path(here(), "lists", "organisation.csv"))
