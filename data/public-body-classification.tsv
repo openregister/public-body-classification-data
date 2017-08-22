@@ -1,0 +1,16 @@
+public-sector-classification	name	start-date	end-date
+S.11001	Public non-financial corporation
+S.11003	Foreign controlled non-financial corporation
+S.12	Public financial corporation
+S.121	Central bank (public)
+S.12201	Public deposit-taking financial corporation except the central bank
+S.12301	Public money market fund
+S.12401	Public non-money-market-fund investment fund
+S.12501	Public other financial intermediary, except insurance corporations and pension funds
+S.12601	Public financial auxilliary
+S.12701	Public captive financial institution or money lender
+S.12703	Foreign controlled captive financial institution or money lender
+S.12801	Public insurance corporation
+S.12901	Public pension fund
+S.1311	Central government (excluding social security funds)
+S.1313	Local government (excluding social security funds)
