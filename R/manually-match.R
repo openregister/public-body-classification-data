@@ -22,7 +22,10 @@ library(here)
 
 # Load data
 join_path <- file.path(here(), "lists", "manually-joined.csv")
-join_file <- read_csv(join_path)
+join_file <-
+  join_path %>%
+  read_csv() %>%
+  filter(!is.na(name))
 candidates <- read_csv(file.path(here(), "lists", "organisation.csv"))
 target <- ""
 
