@@ -118,7 +118,8 @@ ui <- pageWithSidebar(
   mainPanel(
     radioButtons("target",
                  label = NULL,
-                 choices = ""),
+                 choices = "",
+                 width = "100%"),
     div(),
     radioButtons("match",
                  label = NULL,
