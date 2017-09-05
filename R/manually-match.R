@@ -65,7 +65,6 @@ server <- function(input, output, session) {
   })
   save_state <- function() {
     if (isolate(input$match) != "") {
-      cat(target, " : ", isolate(input$match), "\n")
       join_file[join_file$name == target, "name_1"] <<- isolate(input$match)
       write_csv(join_file, join_path)
     }
