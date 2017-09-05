@@ -63,6 +63,10 @@ server <- function(input, output, session) {
                          choices = top_candidates,
                          selected = "")
     }
+    output$table <-
+      renderTable(left_join(data_frame(name = unname(top_candidates)),
+                             candidates,
+                             by = "name"))
     target <<- record$name
     updateRadioButtons(session,
                        "target",
@@ -96,9 +100,10 @@ server <- function(input, output, session) {
     save_state()
   })
 }
-ui <- pageWithSidebar(
+ui <- fluidPage(
   headerPanel("Registers Data Matcher"),
   sidebarPanel(
+    width = 2,
     selectInput("method",
               "Matching algorithm",
               "jw",
@@ -116,11 +121,12 @@ ui <- pageWithSidebar(
                  max = nrow(join_file))
   ),
   mainPanel(
+    width = 4,
     radioButtons("target",
                  label = NULL,
                  choices = "",
                  width = "100%"),
-    div(),
+    br(),
     radioButtons("match",
                  label = NULL,
                  choices = c(c("None selected" = ""), "Please wait ..."),
@@ -128,7 +134,12 @@ ui <- pageWithSidebar(
                  width = "100%"),
     actionButton("previousButton", "Previous"),
     actionButton("nextButton", "Next"),
-    actionButton("saveButton", "Save")
+    actionButton("saveButton", "Save")),
+  mainPanel(
+    width = 6,
+    br(),
+    br(),
+    tableOutput("table")
   )
 )
 shinyApp(ui, server)

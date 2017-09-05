@@ -23,7 +23,7 @@ wls <-
   mutate(organisation = paste0("principa-local-authority:", `principal-local-authority`))
 
 bind_rows(eng, sct, wls) %>%
-  select(`official-name`, organisation) %>%
+  select(`official-name`, organisation, `start-date`, `end-date`) %>%
   rename("name" = `official-name`) %>%
   bind_rows(select(org, name, organisation)) %>%
   write_csv(file.path(here(), "lists", "organisation.csv"))

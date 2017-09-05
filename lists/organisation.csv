@@ -1,1389 +1,1389 @@
-name,organisation
-Birmingham City Council,local-authority-eng:BIR
-Borough Council of King's Lynn and West Norfolk,local-authority-eng:KIN
-Greater London Authority,local-authority-eng:GLA
-City of London Corporation,local-authority-eng:LND
-Worthing Borough Council,local-authority-eng:WOT
-Mid Sussex District Council,local-authority-eng:MSS
-Horsham District Council,local-authority-eng:HOR
-Crawley Borough Council,local-authority-eng:CRW
-Chichester District Council,local-authority-eng:CHI
-Arun District Council,local-authority-eng:ARU
-Adur District Council,local-authority-eng:ADU
-West Sussex County Council,local-authority-eng:WSX
-Wyre Forest District Council,local-authority-eng:WYE
-Wychavon District Council,local-authority-eng:WYC
-Worcester City Council,local-authority-eng:WOC
-Redditch Borough Council,local-authority-eng:RED
-Malvern Hills District Council,local-authority-eng:MAV
-Bromsgrove District Council,local-authority-eng:BRM
-Worcestershire County Council,local-authority-eng:WOR
-Warwick District Council,local-authority-eng:WAW
-Stratford-on-Avon District Council,local-authority-eng:STR
-Rugby Borough Council,local-authority-eng:RUG
-Nuneaton and Bedworth Borough Council,local-authority-eng:NUN
-North Warwickshire Borough Council,local-authority-eng:NWA
-Warwickshire County Council,local-authority-eng:WAR
-Tamworth Borough Council,local-authority-eng:TAW
-Staffordshire Moorlands District Council,local-authority-eng:STF
-Stafford Borough Council,local-authority-eng:STA
-South Staffordshire Council,local-authority-eng:SST
-Newcastle-under-Lyme Borough Council,local-authority-eng:NEC
-Lichfield District Council,local-authority-eng:LIF
-East Staffordshire Borough Council,local-authority-eng:EST
-Cannock Chase District Council,local-authority-eng:CAN
-Staffordshire County Council,local-authority-eng:STS
-Woking Borough Council,local-authority-eng:WOI
-Waverley Borough Council,local-authority-eng:WAE
-Tandridge District Council,local-authority-eng:TAN
-Surrey Heath Borough Council,local-authority-eng:SUR
-Spelthorne Borough Council,local-authority-eng:SPE
-Runnymede Borough Council,local-authority-eng:RUN
-Reigate and Banstead Borough Council,local-authority-eng:REI
-Mole Valley District Council,local-authority-eng:MOL
-Guildford Borough Council,local-authority-eng:GRT
-Epsom and Ewell Borough Council,local-authority-eng:EPS
-Elmbridge Borough Council,local-authority-eng:ELM
-Surrey County Council,local-authority-eng:SRY
-West Somerset District Council,local-authority-eng:WSO
-Taunton Deane Borough Council,local-authority-eng:TAU
-South Somerset District Council,local-authority-eng:SSO
-Sedgemoor District Council,local-authority-eng:SEG
-Mendip District Council,local-authority-eng:MEN
-Somerset County Council,local-authority-eng:SOM
-Waveney District Council,local-authority-eng:WAV
-Suffolk Coastal District Council,local-authority-eng:SUF
-St Edmundsbury Borough Council,local-authority-eng:SED
-Mid Suffolk District Council,local-authority-eng:MSU
-Ipswich Borough Council,local-authority-eng:IPS
-Forest Heath District Council,local-authority-eng:FOR
-Babergh District Council,local-authority-eng:BAB
-Suffolk County Council,local-authority-eng:SFK
-West Oxfordshire District Council,local-authority-eng:WOX
-Vale of White Horse District Council,local-authority-eng:VAL
-South Oxfordshire District Council,local-authority-eng:SOX
-Oxford City Council,local-authority-eng:OXO
-Cherwell District Council,local-authority-eng:CHR
-Oxfordshire County Council,local-authority-eng:OXF
-Selby District Council,local-authority-eng:SEL
-Scarborough Borough Council,local-authority-eng:SCE
-Ryedale District Council,local-authority-eng:RYE
-Richmondshire District Council,local-authority-eng:RIH
-Harrogate Borough Council,local-authority-eng:HAG
-Hambleton District Council,local-authority-eng:HAE
-Craven District Council,local-authority-eng:CRA
-North Yorkshire County Council,local-authority-eng:NYK
-Rushcliffe Borough Council,local-authority-eng:RUS
-Newark and Sherwood District Council,local-authority-eng:NEA
-Mansfield District Council,local-authority-eng:MAS
-Gedling Borough Council,local-authority-eng:GED
-Broxtowe Borough Council,local-authority-eng:BRT
-Bassetlaw District Council,local-authority-eng:BAE
-Ashfield District Council,local-authority-eng:ASH
-Nottinghamshire County Council,local-authority-eng:NTT
-Wellingborough Borough Council,local-authority-eng:WEL
-South Northamptonshire Council,local-authority-eng:SNR
-Northampton Borough Council,local-authority-eng:NOR
-Kettering Borough Council,local-authority-eng:KET
-East Northamptonshire Council,local-authority-eng:ENO
-Daventry District Council,local-authority-eng:DAV
-Corby Borough Council,local-authority-eng:COR
-Northamptonshire County Council,local-authority-eng:NTH
-South Norfolk District Council,local-authority-eng:SNO
-Norwich City Council,local-authority-eng:NOW
-North Norfolk District Council,local-authority-eng:NNO
-Great Yarmouth Borough Council,local-authority-eng:GRY
-Broadland District Council,local-authority-eng:BRO
-Breckland District Council,local-authority-eng:BRE
-Norfolk County Council,local-authority-eng:NFK
-West Lindsey District Council,local-authority-eng:WLI
-South Kesteven District Council,local-authority-eng:SKE
-South Holland District Council,local-authority-eng:SHO
-North Kesteven District Council,local-authority-eng:NKE
-City of Lincoln Council,local-authority-eng:LIC
-East Lindsey District Council,local-authority-eng:ELI
-Boston Borough Council,local-authority-eng:BOT
-Lincolnshire County Council,local-authority-eng:LIN
-Oadby and Wigston Borough Council,local-authority-eng:OAD
-North West Leicestershire District Council,local-authority-eng:NWL
-Melton Borough Council,local-authority-eng:MEL
-Hinckley and Bosworth Borough Council,local-authority-eng:HIN
-Harborough District Council,local-authority-eng:HAO
-Charnwood Borough Council,local-authority-eng:CHA
-Blaby District Council,local-authority-eng:BLA
-Leicestershire County Council,local-authority-eng:LEC
-Wyre Borough Council,local-authority-eng:WYR
-West Lancashire Borough Council,local-authority-eng:WLA
-South Ribble Borough Council,local-authority-eng:SRI
-Rossendale Borough Council,local-authority-eng:ROS
-Ribble Valley Borough Council,local-authority-eng:RIB
-Preston City Council,local-authority-eng:PRE
-Pendle Borough Council,local-authority-eng:PEN
-Lancaster City Council,local-authority-eng:LAC
-Hyndburn Borough Council,local-authority-eng:HYN
-Fylde Borough Council,local-authority-eng:FYL
-Chorley Borough Council,local-authority-eng:CHO
-Burnley Borough Council,local-authority-eng:BUN
-Lancashire County Council,local-authority-eng:LAN
-Tunbridge Wells Borough Council,local-authority-eng:TUN
-Tonbridge and Malling Borough Council,local-authority-eng:TON
-Thanet District Council,local-authority-eng:THA
-Swale Borough Council,local-authority-eng:SWL
-Shepway District Council,local-authority-eng:SHE
-Sevenoaks District Council,local-authority-eng:SEV
-Maidstone Borough Council,local-authority-eng:MAI
-Gravesham Borough Council,local-authority-eng:GRA
-Dover District Council,local-authority-eng:DOV
-Dartford Borough Council,local-authority-eng:DAR
-Canterbury City Council,local-authority-eng:CAT
-Ashford Borough Council,local-authority-eng:ASF
-Kent County Council,local-authority-eng:KEN
-Welwyn Hatfield Borough Council,local-authority-eng:WEW
-Watford Borough Council,local-authority-eng:WAT
-Three Rivers District Council,local-authority-eng:THE
-Stevenage Borough Council,local-authority-eng:STV
-St Albans City and District Council,local-authority-eng:SAL
-North Hertfordshire District Council,local-authority-eng:NHE
-Hertsmere Borough Council,local-authority-eng:HER
-East Hertfordshire District Council,local-authority-eng:EHE
-Dacorum Borough Council,local-authority-eng:DAC
-Broxbourne Borough Council,local-authority-eng:BRX
-Hertfordshire County Council,local-authority-eng:HRT
-Winchester City Council,local-authority-eng:WIN
-Test Valley Borough Council,local-authority-eng:TES
-Rushmoor Borough Council,local-authority-eng:RUH
-New Forest District Council,local-authority-eng:NEW
-Havant Borough Council,local-authority-eng:HAA
-Hart District Council,local-authority-eng:HAT
-Gosport Borough Council,local-authority-eng:GOS
-Fareham Borough Council,local-authority-eng:FAR
-Eastleigh Borough Council,local-authority-eng:EAT
-East Hampshire District Council,local-authority-eng:EHA
-Basingstoke and Deane Borough Council,local-authority-eng:BAN
-Hampshire County Council,local-authority-eng:HAM
-Tewkesbury Borough Council,local-authority-eng:TEW
-Stroud District Council,local-authority-eng:STO
-Gloucester City Council,local-authority-eng:GLO
-Forest of Dean District Council,local-authority-eng:FOE
-Cotswold District Council,local-authority-eng:COT
-Cheltenham Borough Council,local-authority-eng:CHT
-Gloucestershire County Council,local-authority-eng:GLS
-City of Westminster,local-authority-eng:WSM
-London Borough of Wandsworth,local-authority-eng:WND
-London Borough of Waltham Forest,local-authority-eng:WFT
-London Borough of Tower Hamlets,local-authority-eng:TWH
-London Borough of Southwark,local-authority-eng:SWK
-London Borough of Sutton,local-authority-eng:STN
-London Borough of Richmond upon Thames,local-authority-eng:RIC
-London Borough of Redbridge,local-authority-eng:RDB
-London Borough of Newham,local-authority-eng:NWM
-London Borough of Merton,local-authority-eng:MRT
-London Borough of Lewisham,local-authority-eng:LEW
-London Borough of Lambeth,local-authority-eng:LBH
-Royal Borough of Kingston upon Thames,local-authority-eng:KTT
-Royal Borough of Kensington and Chelsea,local-authority-eng:KEC
-London Borough of Islington,local-authority-eng:ISL
-London Borough of Haringey,local-authority-eng:HRY
-London Borough of Harrow,local-authority-eng:HRW
-London Borough of Hounslow,local-authority-eng:HNS
-London Borough of Hammersmith & Fulham,local-authority-eng:HMF
-London Borough of Hillingdon,local-authority-eng:HIL
-London Borough of Hackney,local-authority-eng:HCK
-London Borough of Havering,local-authority-eng:HAV
-Royal Borough of Greenwich,local-authority-eng:GRE
-London Borough of Enfield,local-authority-eng:ENF
-London Borough of Ealing,local-authority-eng:EAL
-London Borough of Croydon,local-authority-eng:CRY
-London Borough of Camden,local-authority-eng:CMD
-London Borough of Bromley,local-authority-eng:BRY
-London Borough of Barnet,local-authority-eng:BNE
-London Borough of Bexley,local-authority-eng:BEX
-London Borough of Brent,local-authority-eng:BEN
-London Borough of Barking and Dagenham,local-authority-eng:BDG
-Wealden District Council,local-authority-eng:WEA
-Rother District Council,local-authority-eng:ROH
-Lewes District Council,local-authority-eng:LEE
-Hastings Borough Council,local-authority-eng:HAS
-Eastbourne Borough Council,local-authority-eng:EAS
-East Sussex County Council,local-authority-eng:ESX
-Uttlesford District Council,local-authority-eng:UTT
-Tendring District Council,local-authority-eng:TEN
-Rochford District Council,local-authority-eng:ROC
-Maldon District Council,local-authority-eng:MAL
-Harlow District Council,local-authority-eng:HAR
-Epping Forest District Council,local-authority-eng:EPP
-Colchester Borough Council,local-authority-eng:COL
-Chelmsford City Council,local-authority-eng:CHL
-Castle Point Borough Council,local-authority-eng:CAS
-Brentwood Borough Council,local-authority-eng:BRW
-Braintree District Council,local-authority-eng:BRA
-Basildon Borough Council,local-authority-eng:BAI
-Essex County Council,local-authority-eng:ESS
-Weymouth and Portland Borough Council,local-authority-eng:WEY
-West Dorset District Council,local-authority-eng:WDO
-Purbeck District Council,local-authority-eng:PUR
-North Dorset District Council,local-authority-eng:NDO
-East Dorset District Council,local-authority-eng:EDO
-Christchurch Borough Council,local-authority-eng:CHC
-Dorset County Council,local-authority-eng:DOR
-West Devon Borough Council,local-authority-eng:WDE
-Torridge District Council,local-authority-eng:TOR
-Teignbridge District Council,local-authority-eng:TEI
-South Hams District Council,local-authority-eng:SHA
-North Devon District Council,local-authority-eng:NDE
-Mid Devon District Council,local-authority-eng:MDE
-Exeter City Council,local-authority-eng:EXE
-East Devon District Council,local-authority-eng:EDE
-Devon County Council,local-authority-eng:DEV
-South Derbyshire District Council,local-authority-eng:SDE
-North East Derbyshire District Council,local-authority-eng:NED
-High Peak Borough Council,local-authority-eng:HIG
-Erewash Borough Council,local-authority-eng:ERE
-Derbyshire Dales District Council,local-authority-eng:DEB
-Chesterfield Borough Council,local-authority-eng:CHS
-Bolsover District Council,local-authority-eng:BOS
-Amber Valley Borough Council,local-authority-eng:AMB
-Derbyshire County Council,local-authority-eng:DBY
-Derby City Council,local-authority-eng:DER
-South Lakeland District Council,local-authority-eng:SLA
-Eden District Council,local-authority-eng:EDN
-Copeland Borough Council,local-authority-eng:COP
-Carlisle City Council,local-authority-eng:CAR
-Barrow-in-Furness Borough Council,local-authority-eng:BAR
-Allerdale Borough Council,local-authority-eng:ALL
-Cumbria County Council,local-authority-eng:CMA
-South Cambridgeshire District Council,local-authority-eng:SCA
-Huntingdonshire District Council,local-authority-eng:HUN
-Fenland District Council,local-authority-eng:FEN
-East Cambridgeshire District Council,local-authority-eng:ECA
-Cambridge City Council,local-authority-eng:CAB
-Cambridgeshire County Council,local-authority-eng:CAM
-Wycombe District Council,local-authority-eng:WYO
-South Bucks District Council,local-authority-eng:SBU
-Chiltern District Council,local-authority-eng:CHN
-Aylesbury Vale District Council,local-authority-eng:AYL
-Buckinghamshire County Council,local-authority-eng:BKM
-City of York Council,local-authority-eng:YOR
-Warrington Borough Council,local-authority-eng:WRT
-Wirral Borough Council,local-authority-eng:WRL
-Wokingham Borough Council,local-authority-eng:WOK
-Royal Borough of Windsor and Maidenhead,local-authority-eng:WNM
-City of Wolverhampton Council,local-authority-eng:WLV
-Walsall Metropolitan Borough Council,local-authority-eng:WLL
-Wakefield Metropolitan District Council,local-authority-eng:WKF
-Wiltshire Council,local-authority-eng:WIL
-Wigan Metropolitan Borough Council,local-authority-eng:WGN
-West Berkshire Council,local-authority-eng:WBK
-Trafford Metropolitan Borough Council,local-authority-eng:TRF
-Torbay Council,local-authority-eng:TOB
-Thurrock Council,local-authority-eng:THR
-Telford & Wrekin Council,local-authority-eng:TFW
-Tameside Metropolitan Borough Council,local-authority-eng:TAM
-Swindon Borough Council,local-authority-eng:SWD
-South Tyneside Council,local-authority-eng:STY
-Stockton-on-Tees Borough Council,local-authority-eng:STT
-Southampton City Council,local-authority-eng:STH
-Stoke-on-Trent City Council,local-authority-eng:STE
-Southend-on-Sea Borough Council,local-authority-eng:SOS
-Solihull Metropolitan Borough Council,local-authority-eng:SOL
-Sunderland City Council,local-authority-eng:SND
-Slough Borough Council,local-authority-eng:SLG
-Salford City Council,local-authority-eng:SLF
-Stockport Metropolitan Borough Council,local-authority-eng:SKP
-Shropshire Council,local-authority-eng:SHR
-St Helens Council,local-authority-eng:SHN
-Sheffield City Council,local-authority-eng:SHF
-South Gloucestershire Council,local-authority-eng:SGC
-Sefton Metropolitan Borough Council,local-authority-eng:SFT
-Sandwell Metropolitan Borough Council,local-authority-eng:SAW
-Rutland County Council,local-authority-eng:RUT
-Rotherham Metropolitan Borough Council,local-authority-eng:ROT
-Reading Borough Council,local-authority-eng:RDG
-Rochdale Metropolitan Borough Council,local-authority-eng:RCH
-Redcar and Cleveland Borough Council,local-authority-eng:RCC
-Peterborough City Council,local-authority-eng:PTE
-Portsmouth City Council,local-authority-eng:POR
-Borough of Poole,local-authority-eng:POL
-Plymouth City Council,local-authority-eng:PLY
-Oldham Metropolitan Borough Council,local-authority-eng:OLD
-North Tyneside Council,local-authority-eng:NTY
-North Somerset  Council,local-authority-eng:NSM
-North Lincolnshire Council,local-authority-eng:NLN
-Nottingham City Council,local-authority-eng:NGM
-Newcastle City Council,local-authority-eng:NET
-North East Lincolnshire Council,local-authority-eng:NEL
-Northumberland County Council,local-authority-eng:NBL
-Milton Keynes Council,local-authority-eng:MIK
-Medway Council,local-authority-eng:MDW
-Middlesbrough Borough Council,local-authority-eng:MDB
-Manchester City Council,local-authority-eng:MAN
-Luton Borough Council,local-authority-eng:LUT
-Liverpool City Council,local-authority-eng:LIV
-Leeds City Council,local-authority-eng:LDS
-Leicester City Council,local-authority-eng:LCE
-Knowsley Metropolitan Borough Council,local-authority-eng:KWL
-Kirklees Council,local-authority-eng:KIR
-Hull City Council,local-authority-eng:KHL
-Isle of Wight Council,local-authority-eng:IOW
-Council of the Isles of Scilly,local-authority-eng:IOS
-Hartlepool Borough Council,local-authority-eng:HPL
-Herefordshire Council,local-authority-eng:HEF
-Halton Borough Council,local-authority-eng:HAL
-Gateshead Metropolitan Borough Council,local-authority-eng:GAT
-East Riding of Yorkshire Council,local-authority-eng:ERY
-Durham County Council,local-authority-eng:DUR
-Dudley Metropolitan Borough Council,local-authority-eng:DUD
-Doncaster Metropolitan Borough Council,local-authority-eng:DNC
-Darlington Borough Council,local-authority-eng:DAL
-Coventry City Council,local-authority-eng:COV
-Cornwall Council,local-authority-eng:CON
-Calderdale Metropolitan Borough Council,local-authority-eng:CLD
-Cheshire West and Chester Council,local-authority-eng:CHW
-Cheshire East Council,local-authority-eng:CHE
-Central Bedfordshire Council,local-authority-eng:CBF
-Bury Metropolitan Borough Council,local-authority-eng:BUR
-Bristol City Council,local-authority-eng:BST
-City of Bradford Metropolitan District Council,local-authority-eng:BRD
-Bracknell Forest Council,local-authority-eng:BRC
-Blackpool Borough Council,local-authority-eng:BPL
-Bolton Metropolitan Borough Council,local-authority-eng:BOL
-Barnsley Metropolitan Borough Council,local-authority-eng:BNS
-Brighton and Hove City Council,local-authority-eng:BNH
-Bournemouth Borough Council,local-authority-eng:BMH
-Bedford Borough Council,local-authority-eng:BDF
-Blackburn with Darwen Borough Council,local-authority-eng:BBD
-Bath and North East Somerset Council,local-authority-eng:BAS
-Shetland Islands Council,local-authority-sct:ZET
-The West Lothian Council,local-authority-sct:WLN
-The West Dunbartonshire Council,local-authority-sct:WDU
-The Stirling Council,local-authority-sct:STG
-The South Lanarkshire Council,local-authority-sct:SLK
-The Scottish Borders Council,local-authority-sct:SCB
-The South Ayrshire Council,local-authority-sct:SAY
-The Renfrewshire Council,local-authority-sct:RFW
-The Perth and Kinross Council,local-authority-sct:PKN
-Orkney Islands Council,local-authority-sct:ORK
-The North Lanarkshire Council,local-authority-sct:NLK
-The North Ayrshire Council,local-authority-sct:NAY
-The Moray Council,local-authority-sct:MRY
-The Midlothian Council,local-authority-sct:MLN
-The Inverclyde Council,local-authority-sct:IVC
-The Highland Council,local-authority-sct:HLD
-The Glasgow City Council,local-authority-sct:GLG
-The Fife Council,local-authority-sct:FIF
-The Falkirk Council,local-authority-sct:FAL
-The East Renfrewshire Council,local-authority-sct:ERW
-Comhairle nan Eilean Siar,local-authority-sct:ELS
-The East Lothian Council,local-authority-sct:ELN
-The East Dunbartonshire Council,local-authority-sct:EDU
-The City of Edinburgh Council,local-authority-sct:EDH
-The East Ayrshire Council,local-authority-sct:EAY
-The Dundee City Council,local-authority-sct:DND
-The Dumfries and Galloway Council,local-authority-sct:DGY
-The Clackmannanshire Council,local-authority-sct:CLK
-The Angus Council,local-authority-sct:ANS
-The Argyll and Bute Council,local-authority-sct:AGB
-The Aberdeen City Council,local-authority-sct:ABE
-The Aberdeenshire Council,local-authority-sct:ABD
-Rhondda Cynon Taf County Borough Council,principa-local-authority:RCT
-Wrexham County Borough Council,principa-local-authority:WRX
-Vale of Glamorgan Council,principa-local-authority:VGL
-Torfaen County Borough Council,principa-local-authority:TOF
-City and County of Swansea Council,principa-local-authority:SWA
-Powys County Council,principa-local-authority:POW
-Pembrokeshire County Council,principa-local-authority:PEM
-Newport City Council,principa-local-authority:NWP
-Neath Port Talbot County Borough Council,principa-local-authority:NTL
-Merthyr Tydfil County Borough Council,principa-local-authority:MTY
-Monmouthshire County Council,principa-local-authority:MON
-Gwynedd Council,principa-local-authority:GWN
-Flintshire County Council,principa-local-authority:FLN
-Denbighshire County Council,principa-local-authority:DEN
-Conwy County Borough Council,principa-local-authority:CWY
-City of Cardiff Council,principa-local-authority:CRF
-Carmarthenshire County Council,principa-local-authority:CMN
-Ceredigion County Council,principa-local-authority:CGN
-Caerphilly County Borough Council,principa-local-authority:CAY
-Blaenau Gwent County Borough Council,principa-local-authority:BGW
-Bridgend County Borough Council,principa-local-authority:BGE
-Isle of Anglesey County Council,principa-local-authority:AGY
-"Department for Digital, Culture, Media and Sport",government-organisation:D5
-Scottish Government,government-organisation:DA1020
-Regulator of Social Housing,government-organisation:PB1218
-Education and Skills Funding Agency,government-organisation:EO1216
-Judicial Office,government-organisation:OT1215
-Institute for Apprenticeships,government-organisation:PB1214
-Her Majesty’s Prison and Probation Service,government-organisation:EA1213
-Northern Ireland Housing Executive,government-organisation:PB1212
-National Cyber Security Centre,government-organisation:OT1211
-Preventing Sexual Violence Initiative,government-organisation:OT1210
-Her Majesty's Government Communications Centre,government-organisation:OT1209
-Academy for Social Justice Commissioning,government-organisation:OT1208
-Rail Safety and Standards Board,government-organisation:OT1207
-Defence and Security Accelerator,government-organisation:OT1206
-Valuation Tribunal for England,government-organisation:PB1204
-The Electoral Commission,government-organisation:IM1203
-NHS Digital,government-organisation:PB1202
-Cabinet Office Board,government-organisation:OT1201
-Civil Service Board,government-organisation:OT1200
-NHS Improvement,government-organisation:PB1199
-"Department for Business, Energy & Industrial Strategy",government-organisation:D1198
-Department for Exiting the European Union,government-organisation:D1197
-Department for International Trade,government-organisation:D1196
-Iraq Inquiry,government-organisation:OT1195
-Central Advisory Committee on Compensation,government-organisation:PB1194
-Social Mobility Commission,government-organisation:PB1193
-Pubs Code Adjudicator,government-organisation:OT1192
-Defence Safety Authority,government-organisation:OT1191
-Lammy Review,government-organisation:OT1190
-Regulatory Delivery,government-organisation:OT1189
-Office of Financial Sanctions Implementation,government-organisation:OT1187
-UK Government Investments,government-organisation:OT1186
-Independent Dormant Assets Commission,government-organisation:PB1185
-Porton Biopharma Limited,government-organisation:OT1184
-"Digital, data and technology professions",government-organisation:OT1182
-National Data Guardian,government-organisation:OT1180
-The Executive Office (Northern Ireland),government-organisation:OT1179
-"Department of Agriculture, Environment and Rural Affairs (Northern Ireland)",government-organisation:OT1178
-Department of Finance (Northern Ireland),government-organisation:OT1177
-Department for Infrastructure (Northern Ireland),government-organisation:OT1176
-Department of Health (Northern Ireland),government-organisation:OT1175
-Department for the Economy (Northern Ireland),government-organisation:OT1174
-Department for Communities (Northern Ireland),government-organisation:OT1173
-Committee on Fuel Poverty,government-organisation:PB1172
-UK Holocaust Memorial Foundation,government-organisation:PB1171
-Financial Services Trade and Investment Board,government-organisation:OT1169
-Service Complaints Ombudsman,government-organisation:OT1168
-Civil Service Fast Track Apprenticeship,government-organisation:OT1167
-Infrastructure and Projects Authority,government-organisation:OT1166
-Historic England,government-organisation:PB1164
-National Infrastructure Commission,government-organisation:OT1161
-Commercial Court,government-organisation:CO1159
-Ebbsfleet Development Corporation,government-organisation:PB1154
-Defence and Security Media Advisory Committee,government-organisation:OT1153
-Disabled People’s Employment Corporation,government-organisation:PB1152
-Payment Systems Regulator,government-organisation:OT1151
-Radioactive Waste Management,government-organisation:OT1150
-Independent Commission on Freedom of Information,government-organisation:PB1149
-British Business Bank,government-organisation:OT1148
-"Department of Culture, Arts and Leisure Northern Ireland",government-organisation:DA1146
-Accelerated Access Review,government-organisation:OT1137
-Independent Anti-slavery Commissioner,government-organisation:IM1123
-Independent Family Returns Panel,government-organisation:OT1122
-Civil Service Fast Stream,government-organisation:OT1121
-Oil and Gas Authority,government-organisation:EA1119
-Transport Focus,government-organisation:PB1118
-Office of Rail and Road,government-organisation:D1117
-Government Commercial Function,government-organisation:OT1116
-Highways England,government-organisation:EA1114
-Defence Electronics and Components Agency,government-organisation:EA1113
-United Kingdom Reserve Forces Association,government-organisation:OT1112
-Third Party Campaigning Review,government-organisation:OT1111
-National Measurement and Regulation Office,government-organisation:EA1109
-Government Legal Department,government-organisation:D1108
-Schools Commissioners Group,government-organisation:OT1107
-Estyn,government-organisation:DA1105
-NHS Wales Informatics Service,government-organisation:OT1104
-Natural Resources Wales,government-organisation:OT1103
-Careers Wales,government-organisation:OT1102
-Welsh Language Commissioner,government-organisation:OT1101
-Independent Complaints Reviewer,government-organisation:OT1099
-Single Source Regulations Office,government-organisation:PB1093
-Office of the Registrar of Consultant Lobbyists,government-organisation:OT1091
-National Information Board,government-organisation:OT1090
-National Counter Terrorism Security Office,government-organisation:OT1089
-Higher Education Statistics Agency,government-organisation:OT1088
-Veterans UK,government-organisation:OT1087
-Stabilisation Unit,government-organisation:OT1086
-Financial Conduct Authority,government-organisation:OT1085
-Government Internal Audit Agency,government-organisation:EA1084
-Police Remuneration Review Body,government-organisation:PB1083
-Financial Services Organisation,government-organisation:OT1082
-Regeneration Investment Organisation,government-organisation:OT1081
-District Valuer Services (DVS),government-organisation:OT1080
-Animal and Plant Health Agency,government-organisation:EA1079
-Innovate UK,government-organisation:PB1078
-Public Health Wales,government-organisation:OT1077
-Civil Service Resourcing,government-organisation:OT1076
-National Records of Scotland,government-organisation:OT1075
-Information Services Division (Scotland),government-organisation:OT1074
-Department of Justice (Northern Ireland),government-organisation:D1073
-Agri-Food and Biosciences Institute (Northern Ireland),government-organisation:PB1072
-Military Aviation Authority,government-organisation:OT1071
-Government Security Profession,government-organisation:OT1070
-Immigration Enforcement,government-organisation:OT1069
-UKTI Life Sciences Organisation,government-organisation:OT1068
-UKTI Education,government-organisation:OT1067
-Office for Disability Issues,government-organisation:OT1066
-Reserve Forces' and Cadets' Associations,government-organisation:OT1065
-Centre for Defence Enterprise,government-organisation:OT1064
-Civil Nuclear Constabulary,government-organisation:OT1063
-Company Names Tribunal,government-organisation:PB1062
-Government Chemist,government-organisation:OT1061
-Rural Development Programme for England Network,government-organisation:OT1060
-Office for Nuclear Regulation,government-organisation:PC1059
-The Jeffrey Review,government-organisation:OT1058
-Macur Review,government-organisation:OT1057
-Government Digital Service,government-organisation:OT1056
-Civil Service Reform,government-organisation:OT1055
-Medical Profession,government-organisation:OT1054
-Government IT Profession,government-organisation:OT1053
-Intelligence Analysis,government-organisation:OT1052
-British Cattle Movement Service,government-organisation:OT1051
-Government Corporate Finance Profession,government-organisation:OT1050
-Government Occupational Psychology Profession,government-organisation:OT1049
-Government Knowledge & Information Management Profession,government-organisation:OT1048
-Government Veterinary Services,government-organisation:OT1047
-Government Tax Profession,government-organisation:OT1046
-Government Planning Inspectors,government-organisation:OT1045
-Government Planning Profession,government-organisation:OT1044
-Government Social Research Profession,government-organisation:OT1043
-Government Operational Research Service,government-organisation:OT1042
-Government Statistical Service,government-organisation:OT1041
-Government Science & Engineering Profession,government-organisation:OT1040
-Government Property Profession,government-organisation:OT1039
-Internal Audit Profession,government-organisation:OT1038
-Government Economic Service,government-organisation:OT1037
-Human Resources Profession,government-organisation:OT1036
-Government Finance Profession,government-organisation:OT1035
-Government Communication Service,government-organisation:OT1034
-Government Legal Service,government-organisation:OT1033
-Procurement profession,government-organisation:OT1032
-Project Delivery Profession,government-organisation:OT1031
-Policy Profession,government-organisation:OT1030
-Operational Delivery Profession,government-organisation:OT1029
-Civil Service,government-organisation:CS1028
-Office of the Schools Adjudicator,government-organisation:OT1027
-Department for International Trade Defence & Security Organisation,government-organisation:OT1026
-Academy for Justice Commissioning,government-organisation:OT1025
-HM Nautical Almanac Office,government-organisation:OT1023
-UK Co-ordinating Body,government-organisation:OT1022
-Northern Ireland Executive,government-organisation:DA1021
-Welsh Government,government-organisation:DA1019
-Mid Staffordshire NHS Foundation Trust Public Inquiry 2010,government-organisation:OT1018
-Independent Medical Expert Group,government-organisation:PB1017
-Bank of England,government-organisation:OT1016
-Crown Commercial Service,government-organisation:EA1015
-Office of the Identity Commissioner,government-organisation:OT1014
-Lyons Inquiry into Local Government,government-organisation:OT1013
-Administrative Justice and Tribunals Council Welsh Committee,government-organisation:OT1012
-Veterinary Residues Committee,government-organisation:OT1011
-Eliasch Review,government-organisation:OT1010
-Varney Review,government-organisation:OT1009
-Cooksey Review,government-organisation:OT1008
-Leitch Review of Skills,government-organisation:OT1007
-Barker Review of Land Use Planning,government-organisation:OT1006
-Gowers Review of Intellectual Property,government-organisation:OT1005
-United Kingdom Blood Transfusion Services,government-organisation:OT1004
-Northern Ireland Judicial Appointments Ombudsman,government-organisation:OT1003
-"Department of the Environment, Transport and the Regions",government-organisation:OT1002
-Broadcasting Standards Commission,government-organisation:OT1001
-Further and Higher Education Funding Councils for Wales,government-organisation:OT1000
-Natural Resources Institute,government-organisation:OT999
-Examination team on child care procedures and practice in North Wales,government-organisation:OT998
-Her Majesty's Magistrates Courts Service Inspectorate,government-organisation:OT997
-Board of Banking Supervision,government-organisation:OT996
-Independent Television Commission,government-organisation:OT995
-Legal Aid Board,government-organisation:OT994
-Department of National Heritage,government-organisation:OT993
-Chemical and Biological Defence Establishment,government-organisation:OT992
-Welsh Development Agency,government-organisation:OT991
-Scottish Hospital Trust,government-organisation:OT989
-Ancient Monuments Board for Scotland,government-organisation:OT988
-National Museums of Scotland,government-organisation:OT987
-Inquiry into the supervision of the Bank of Credit and Commerce International,government-organisation:OT984
-Polytechnics and Colleges Funding Council,government-organisation:OT980
-Office of the Data Protection Registrar,government-organisation:OT979
-Oftel,government-organisation:OT978
-Office of Telecommunications,government-organisation:OT977
-Office of the Lay Observer,government-organisation:OT976
-Nature Conservancy Council,government-organisation:OT975
-Exchequer and Audit Department,government-organisation:D974
-Council on Tribunals,government-organisation:PB973
-Azelle Rodney Inquiry,government-organisation:OT972
-Professional Standards Authority for Health and Social Care,government-organisation:OT971
-Royal Mail,government-organisation:PC970
-Mid Staffordshire NHS Foundation Trust Public Inquiry 2013,government-organisation:OT969
-Patrick Finucane Review,government-organisation:OT968
-Leveson Inquiry,government-organisation:OT967
-Hillsborough Independent Panel,government-organisation:OT966
-Creative Scotland,government-organisation:OT964
-Baha Mousa Inquiry,government-organisation:OT963
-Public Prosecution Service for Northern Ireland,government-organisation:OT962
-Firebuy,government-organisation:OT961
-Young People's Learning Agency,government-organisation:EA960
-North West Development Agency,government-organisation:EA959
-Mull of Kintyre Review,government-organisation:OT958
-English Institute of Sport,government-organisation:OT957
-Qualifications and Curriculum Development Agency,government-organisation:EA956
-Office for Tenants and Social Landlords,government-organisation:EA955
-Rosemary Nelson Inquiry,government-organisation:OT954
-SITPRO,government-organisation:OT953
-Redfern Inquiry,government-organisation:OT952
-Billy Wright Inquiry,government-organisation:OT951
-CO2Sense,government-organisation:OT950
-Asset Protection Agency,government-organisation:EA949
-Infrastructure Planning Commission,government-organisation:OT947
-Royal Trustees' Office,government-organisation:OT946
-Office of the Health Professions Adjudicator,government-organisation:OT945
-Bloody Sunday Inquiry,government-organisation:OT944
-Office of the Commissioner for Protection Against Unlawful Industrial Action,government-organisation:OT941
-Office of the Commissioner for the Rights of Trade Union Members,government-organisation:OT940
-School Food Trust,government-organisation:OT938
-Northern Ireland Law Commission,government-organisation:OT937
-"Museums, Libraries and Archives Council",government-organisation:OT936
-Northern Ireland Police Fund,government-organisation:OT935
-Tenant Services Authority,government-organisation:EA934
-Nimrod Review,government-organisation:OT933
-British Educational Communications and Technology Agency,government-organisation:EA932
-Working Ventures UK,government-organisation:OT930
-National College for School Leadership,government-organisation:EA929
-Capacitybuilders,government-organisation:OT928
-Advantage West Midlands,government-organisation:EA927
-Child Maintenance and Enforcement Commission,government-organisation:OT926
-ICL Inquiry,government-organisation:OT925
-"Pension, Disability and Carers Service",government-organisation:EA924
-Yorkshire Forward,government-organisation:EA923
-Northwest Business Link,government-organisation:EA922
-One North East,government-organisation:EA921
-Northwest Regional Development Agency,government-organisation:EA920
-South East England Development Agency,government-organisation:EA919
-South West of England Regional Development Agency,government-organisation:EA918
-East of England Development Agency,government-organisation:EA917
-Local Better Regulation Office,government-organisation:OT916
-Children's Workforce Development Council,government-organisation:OT915
-Independent Safeguarding Authority,government-organisation:OT914
-Parole Commissioners for Northern Ireland,government-organisation:OT913
-East Midlands Development Agency (emda),government-organisation:EA912
-Buying Solutions,government-organisation:OT911
-Phoenix Sports,government-organisation:OT910
-Commission for the Compact,government-organisation:OT909
-Wales Audit Office,government-organisation:OT908
-Professional Oversight Board,government-organisation:OT906
-Sutherland Inquiry,government-organisation:OT905
-National Policing Improvement Agency,government-organisation:EA904
-Personal Accounts Delivery Authority,government-organisation:OT903
-Horticultural Development Council,government-organisation:OT902
-Renewable Fuels Agency,government-organisation:EA901
-Animal Health,government-organisation:EA900
-NHS Information Centre,government-organisation:OT899
-Postgraduate Medical Education and Training Board,government-organisation:OT897
-Investors in People UK,government-organisation:OT896
-Standards Board for England,government-organisation:OT895
-Design Council,government-organisation:OT893
-National School of Government,government-organisation:OT891
-Commission for Rural Communities,government-organisation:OT890
-Healthcare Commission,government-organisation:OT889
-British Potato Council,government-organisation:OT887
-English Sports Council,government-organisation:OT886
-Identity and Passport Service,government-organisation:OT885
-Defence Vetting Agency,government-organisation:EA884
-Defence Bills Agency,government-organisation:EA883
-"People, Pay and Pensions Agency",government-organisation:EA882
-Northern Ireland Judicial Appointments Commission,government-organisation:OT880
-Rent Service,government-organisation:EA879
-British Forces Post Office,government-organisation:OT878
-Life Sentence Review Commissioners,government-organisation:OT877
-Meat and Livestock Commission,government-organisation:OT876
-Particle Physics and Astronomy Research Council,government-organisation:OT875
-English Partnerships,government-organisation:EA874
-Meat Hygiene Service,government-organisation:EA873
-Pesticides Safety Directorate,government-organisation:OT872
-Enterprise Ulster,government-organisation:OT871
-Food Safety Promotion Board,government-organisation:PB870
-Waterways Ireland,government-organisation:OT869
-National Museums and Galleries of Northern Ireland,government-organisation:OT868
-Revenue and Customs Prosecutions Office,government-organisation:OT867
-Western Health and Social Services Board,government-organisation:OT866
-Eastern Health and Social Services Board,government-organisation:OT865
-Southern Health and Social Services Board,government-organisation:OT864
-Northern Health and Social Services Board,government-organisation:OT863
-Loughs Agency,government-organisation:OT862
-Ashington Education Action Zone,government-organisation:OT861
-National Patient Safety Agency,government-organisation:EA860
-State Veterinary Service,government-organisation:OT859
-Western Education and Library Board,government-organisation:OT858
-South Eastern Education and Library Board,government-organisation:OT857
-Northern Ireland Practice and Education Council,government-organisation:OT856
-Department for Employment and Learning,government-organisation:D854
-"Department of Culture, Arts and Leisure",government-organisation:D853
-New Opportunities Fund,government-organisation:OT852
-Milk Development Council,government-organisation:OT851
-UK Film Council,government-organisation:OT850
-Livestock and Meat Commission for Northern Ireland,government-organisation:OT849
-Defence Transport and Movements Agency,government-organisation:EA848
-Appeals Service Agency,government-organisation:EA847
-Central Office of Information,government-organisation:OT846
-Pension Service,government-organisation:OT845
-UK Government Decontamination Service,government-organisation:EA844
-Marine Fisheries Agency,government-organisation:EA843
-Commission for Architecture and the Built Environment (CABE),government-organisation:PB842
-Council for the Central Laboratory of the Research Councils,government-organisation:OT841
-Thurrock Thames Gateway Development Corporation,government-organisation:OT840
-Northern Ireland Commissioner for Children and Young People,government-organisation:OT838
-Criminal Injuries Compensation Appeals Panel,government-organisation:OT837
-Defence Medical Education and Training Agency,government-organisation:EA836
-Housing Corporation,government-organisation:EA835
-Postal Services Commission,government-organisation:OT834
-English Nature,government-organisation:EA833
-Police Information Technology Organisation,government-organisation:EA832
-Roads Service,government-organisation:OT831
-Government Car and Despatch Agency,government-organisation:EA830
-Criminal Injuries Compensation Appeals Panel for Northern Ireland,government-organisation:EA829
-Northern Ireland Ombudsman,government-organisation:OT828
-Office of the Legal Services Ombudsman,government-organisation:OT827
-Public Lending Right Office,government-organisation:OT826
-Forest Service,government-organisation:OT825
-Commission for Social Care Inspection,government-organisation:OT824
-Disposal Services Agency,government-organisation:EA823
-Commission for Patient and Public Involvement in Health,government-organisation:OT822
-Central Science Laboratory,government-organisation:EA821
-Northern Ireland Tourist Board,government-organisation:OT820
-Central Police Training and Development Authority,government-organisation:OT819
-Disability and Carers Service,government-organisation:OT818
-OGCbuyingsolutions,government-organisation:OT817
-Army Base Repair Organisation,government-organisation:EA816
-Council for Healthcare Regulatory Excellence,government-organisation:OT814
-Defence Communication Services Agency,government-organisation:EA813
-Forensic Science Service,government-organisation:OT812
-H.M. Inspectorate of Court Administration,government-organisation:OT811
-Northern Ireland Child Support Agency,government-organisation:EA810
-General Consumer Council for Northern Ireland,government-organisation:OT809
-Driver and Vehicle Testing Agency,government-organisation:EA808
-Fisheries Conservancy Board for Northern Ireland,government-organisation:OT807
-Prescription Pricing Authority,government-organisation:OT806
-NHS Professionals,government-organisation:OT805
-NHS Logistics Authority,government-organisation:OT804
-NHS Institute for Innovation and Improvement,government-organisation:OT803
-NHS Direct National Health Service Trust,government-organisation:OT802
-NHS Appointments Commission,government-organisation:OT801
-Mental Health Act Commission,government-organisation:OT800
-Dental Vocational Training Authority,government-organisation:OT799
-Dental Practice Board,government-organisation:OT798
-Northern Ireland Prison Service,government-organisation:EA797
-Business Development Service,government-organisation:OT796
-Special EU Programmes Body,government-organisation:OT795
-Strategic Rail Authority,government-organisation:OT794
-Food from Britain,government-organisation:OT793
-Health Protection Agency,government-organisation:EA792
-Northern Ireland Health and Social Services Estates Agency,government-organisation:EA791
-Training and Development Agency for Schools,government-organisation:EA790
-Defence Storage and Distribution Agency,government-organisation:EA789
-Environment and Heritage Service,government-organisation:EA788
-Football Licensing Authority,government-organisation:OT787
-Adult Learning Inspectorate,government-organisation:OT786
-Defence Procurement Agency,government-organisation:EA785
-Veterinary Laboratories Agency,government-organisation:EA784
-Northern Ireland Legal Services Commission,government-organisation:OT783
-Zahid Mubarek Inquiry,government-organisation:OT782
-North East Education and Library Board,government-organisation:OT781
-Court of Judicature of Northern Ireland,government-organisation:OT780
-Equality Commission for Northern Ireland,government-organisation:OT779
-Council for Catholic Maintained Schools,government-organisation:OT778
-North Stockton Education Action Zone,government-organisation:OT777
-South Bradford Education Action Zone,government-organisation:OT776
-UK Transplant,government-organisation:OT775
-National Blood Authority,government-organisation:OT774
-Deepcut Review,government-organisation:OT773
-Criminal Justice Inspection Northern Ireland,government-organisation:OT772
-Building Research Establishment,government-organisation:EA771
-Northern Ireland Social Care Council,government-organisation:OT770
-Armagh Observatory and Planetarium,government-organisation:OT769
-East Cleveland Education Action Zone,government-organisation:OT768
-Speke Garston Education Action Zone,government-organisation:OT767
-Barrow Education Action Zone,government-organisation:OT766
-Learning and Skills Council,government-organisation:EA765
-Scottish Sports Council,government-organisation:EA764
-Scottish Arts Council,government-organisation:OT762
-Northern Ireland Authority for Energy Regulation,government-organisation:OT761
-Community Development Foundation,government-organisation:OT760
-Fire Authority for Northern Ireland,government-organisation:OT759
-Northern Ireland Local Government Officers' Superannuation Committee,government-organisation:OT758
-Home-Grown Cereals Authority,government-organisation:OT757
-Social Security Agency,government-organisation:EA756
-Crown Agents Holding and Realisation Board,government-organisation:OT754
-Department of Agriculture and Rural Development,government-organisation:D753
-Labour Relations Agency,government-organisation:EA752
-Staff Commission for Education and Library Boards,government-organisation:OT751
-"Department of Enterprise, Trade and Investment",government-organisation:D750
-Office of the First Minister and Deputy First Minister,government-organisation:OT749
-Department for Social Development,government-organisation:D748
-Department for Regional Development,government-organisation:D747
-"Department of Health, Social Services and Public Safety",government-organisation:D746
-Office of the Oversight Commissioner,government-organisation:OT745
-Office of the Chief Electoral Officer for Northern Ireland,government-organisation:OT744
-Community Fund,government-organisation:OT743
-H.M. Customs and Excise,government-organisation:OT742
-General Social Care Council,government-organisation:OT741
-Arts Council of Northern Ireland,government-organisation:EA740
-Plymouth Education Action Zone,government-organisation:OT739
-Heart of Slough Education Action Zone,government-organisation:OT738
-South East England Virtual Education Action Zone,government-organisation:OT737
-Great Yarmouth Education Action Zone,government-organisation:OT736
-Warship Support Agency,government-organisation:EA735
-Sports Council for Wales,government-organisation:OT734
-Gas and Electricity Consumer Council (Energywatch),government-organisation:OT733
-Consumer Council for Postal Services,government-organisation:OT732
-Arts Council of Wales,government-organisation:OT731
-National Radiological Protection Board,government-organisation:OT730
-Countryside Agency,government-organisation:EA729
-Police Complaints Authority,government-organisation:OT727
-Criminal Records Bureau,government-organisation:OT726
-Northern Ireland Court Service,government-organisation:EA725
-Hearing Aid Council,government-organisation:OT724
-National Probation Service,government-organisation:OT723
-South East Sheffield Education Action Zone,government-organisation:OT722
-Alcohol Education and Research Council,government-organisation:OT721
-Defence Intelligence and Security Centre,government-organisation:OT720
-Millennium Commission,government-organisation:OT719
-UK Passport Service,government-organisation:OT718
-Defence Aviation Repair Agency,government-organisation:EA717
-NHS Purchasing and Supply Agency,government-organisation:EA716
-General Teaching Council for England,government-organisation:EA715
-Planning Service,government-organisation:OT714
-Defence Estates,government-organisation:OT713
-National Weights and Measures Laboratory,government-organisation:OT712
-Disability Rights Commission,government-organisation:OT711
-Equal Opportunities Commission,government-organisation:OT710
-NHS Estates,government-organisation:OT709
-Wakefield Education Action Zone,government-organisation:OT708
-Compensation Agency,government-organisation:EA707
-Armed Forces Personnel Administration Agency,government-organisation:EA706
-Medical Supplies Agency,government-organisation:EA705
-National Criminal Intelligence Service,government-organisation:EA704
-National Crime Squad,government-organisation:OT703
-Dingle Granby Toxteth Education Action Zone,government-organisation:OT702
-Northern Ireland Statistics and Research Agency,government-organisation:EA701
-Land Registers of Northern Ireland,government-organisation:EA700
-Assets Recovery Agency,government-organisation:EA698
-Youth Justice Agency of Northern Ireland,government-organisation:EA697
-Forensic Science Northern Ireland,government-organisation:EA696
-Ordnance Survey of Northern Ireland,government-organisation:EA695
-Sports Council for Northern Ireland,government-organisation:OT694
-Ministry of Defence Police and Guarding Agency,government-organisation:EA693
-National Treatment Agency for Substance Misuse,government-organisation:EA692
-Family Health Services Appeal Authority,government-organisation:OT691
-Counter Fraud and Security Management Service,government-organisation:OT690
-Water Service (Northern Ireland),government-organisation:EA689
-Sentence Review Commissioners,government-organisation:OT688
-Valuation and Lands Agency,government-organisation:EA687
-H.M. Inspectorate of Explosives for Northern Ireland,government-organisation:OT686
-Defence Analytical Services Agency,government-organisation:EA685
-Bridgwater Education Action Zone,government-organisation:OT684
-Commission for Health Improvement,government-organisation:OT683
-Hybu Cig Cymru - Meat Promotion Wales,government-organisation:OT681
-Kent and Somerset Education Action Zone,government-organisation:OT680
-Hastings and St Leonards Education Action Zone,government-organisation:OT679
-Hackney Education Action Zone,government-organisation:OT678
-Clacton and Harwich Education Action Zone,government-organisation:OT677
-Commission for Racial Equality,government-organisation:OT676
-Northern Ireland Social Security Agency,government-organisation:EA675
-East Manchester Education Action Zone,government-organisation:OT674
-Gloucester Education Action Zone,government-organisation:OT673
-North Gillingham Education Action Zone,government-organisation:OT672
-Coventry Education Action Zone,government-organisation:OT671
-"Camborne, Pool and Redruth Education Action Zone",government-organisation:OT670
-Ellesmere Port Education Action Zone,government-organisation:OT669
-Wythenshawe Education Action Zone,government-organisation:OT668
-North West Shropshire Education Action Zone,government-organisation:OT667
-Bristol Education Action Zone,government-organisation:OT666
-Corby Education Action Zone,government-organisation:OT665
-Downham and Bellingham Education Action Zone,government-organisation:OT664
-Leigh Park Education Action Zone,government-organisation:OT663
-Bedford Education Action Zone,government-organisation:OT662
-Parliamentary Contributory Pension Fund,government-organisation:OT661
-Public Health Laboratory Service Board,government-organisation:EA660
-Probation Board for Northern Ireland,government-organisation:OT659
-"National Endowment for Science, Technology and the Arts",government-organisation:OT658
-Police Service of Northern Ireland,government-organisation:OT657
-National Biological Standards Board,government-organisation:EA656
-Southend Education Action Zone,government-organisation:OT655
-Peterlee Education Action Zone,government-organisation:OT654
-Sunderland Education Action Zone,government-organisation:OT653
-Stoke Education Action Zone,government-organisation:OT652
-North Islington Education Action Zone,government-organisation:OT651
-Easington and Seaham Education Action Zone,government-organisation:OT650
-Northern Ireland Policing Board,government-organisation:OT649
-Withernsea and Southern Holderness Education Action Zone,government-organisation:OT648
-Telford and Wrekin Education Action Zone,government-organisation:OT647
-North East Derbyshire Coalfields Education Action Zone,government-organisation:OT646
-Westminster Education Action Zone,government-organisation:OT645
-"Northern Ireland Council for the Curriculum, Examinations and Assessment",government-organisation:OT644
-Dudley Education Action Zone,government-organisation:OT643
-Scottish Screen,government-organisation:OT642
-Hamilton Oxford Education Action Zone,government-organisation:OT641
-Bolton Education Action Zone,government-organisation:OT640
-Wednesbury Education Action Zone,government-organisation:OT639
-Wolverhampton Education Action Zone,government-organisation:OT638
-Greenwich Education Action Zone,government-organisation:OT637
-Office of the Police Ombudsman for Northern Ireland,government-organisation:OT636
-Equitable Life Inquiry,government-organisation:OT635
-Northern Ireland Audit Office,government-organisation:OT634
-NHS Pensions Agency,government-organisation:EA633
-Kitts Green and Shard End Education Action Zone,government-organisation:OT632
-Department of Inland Revenue,government-organisation:D631
-Rivers Agency,government-organisation:EA630
-National Care Standards Commission,government-organisation:OT629
-Derby North East Education Action Zone,government-organisation:OT628
-Public Accounts Commission,government-organisation:OT627
-Gaming Board for Great Britain,government-organisation:OT626
-Qualifications and Curriculum Authority,government-organisation:EA624
-Royal Liverpool Childrens Inquiry,government-organisation:OT622
-Independent Review of Police Officer and Staff Remuneration and Conditions,government-organisation:OT619
-Office of HM Paymaster General,government-organisation:OT618
-Independent Review of the UK Postal Services Sector,government-organisation:OT616
-Independent Monitoring Commission,government-organisation:OT615
-Statistics Commission,government-organisation:OT614
-Scottish Law Commission,government-organisation:OT612
-"Department for Business, Enterprise and Regulatory Reform",government-organisation:D611
-Office for Criminal Justice Reform,government-organisation:OT610
-"Department for Children, Schools and Families",government-organisation:D609
-"Department for Innovation, Universities and Skills",government-organisation:D608
-Royal Commission on Environmental Pollution,government-organisation:OT606
-Department of Finance and Personnel for Northern Ireland,government-organisation:D605
-Review Body for Nursing and Other Health Professions,government-organisation:OT604
-HM Courts Service,government-organisation:EA601
-Office of the Legal Services Complaints Commissioner,government-organisation:OT600
-Kerr / Haslam Inquiry,government-organisation:OT599
-Department of Constitutional Affairs,government-organisation:D598
-Shipman Inquiry,government-organisation:OT597
-Victoria Climbié Inquiry,government-organisation:OT596
-Lord Chancellor's Department,government-organisation:D595
-Board of Inland Revenue,government-organisation:OT594
-Royal Commission on Criminal Justice,government-organisation:OT593
-Monopolies and Mergers Commission,government-organisation:OT592
-Department of the Environment (Northern Ireland),government-organisation:D591
-Welsh Office,government-organisation:OT590
-Animal Procedures Committee,government-organisation:OT589
-Firearms Consultative Committee,government-organisation:OT588
-Department for Constitutional Affairs,government-organisation:D587
-Department of Trade and Industry,government-organisation:D586
-Department of Education (Northern Ireland),government-organisation:D585
-Department of Social Security,government-organisation:D584
-Department for Education and Skills,government-organisation:D583
-Scottish Office,government-organisation:D582
-Queen's Harbour Master,government-organisation:OT581
-National Crime Agency Remuneration Review Body,government-organisation:PB580
-Independent Case Examiner,government-organisation:OT579
-Social Science Research Committee,government-organisation:PB578
-General Advisory Committee on Science,government-organisation:PB577
-"Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment",government-organisation:PB576
-Advisory Committee on the Microbiological Safety of Food,government-organisation:PB575
-Advisory Committee on Novel Foods and Processes,government-organisation:PB574
-Advisory Committee on Animal Feedingstuffs,government-organisation:PB573
-Wave Hub,government-organisation:OT572
-Tate,government-organisation:PB571
-Driver and Vehicle Standards Agency,government-organisation:EA570
-Better Regulation Delivery Office,government-organisation:OT569
-Centre for the Protection of National Infrastructure,government-organisation:OT567
-Open Public Services,government-organisation:OT566
-Morecambe Bay Investigation,government-organisation:OT565
-Bona Vacantia,government-organisation:OT564
-CESG,government-organisation:OT563
-Healthcare UK,government-organisation:OT559
-National Crime Agency,government-organisation:PB558
-Export Control Organisation,government-organisation:OT557
-Legal Aid Agency,government-organisation:EA556
-Government Office for Science,government-organisation:OT555
-UK Visas and Immigration,government-organisation:OT554
-Office of the Regulator of Community Interest Companies,government-organisation:OT553
-Surveillance Camera Commissioner,government-organisation:OT552
-Groceries Code Adjudicator,government-organisation:OT551
-Competition and Markets Authority,government-organisation:D550
-Government Estates Management,government-organisation:OT549
-Biometrics Commissioner,government-organisation:OT548
-Yorkshire Dales National Park Authority,government-organisation:OT547
-South Downs National Park Authority,government-organisation:OT546
-Peak District National Park Authority,government-organisation:OT545
-Northumberland National Park Authority,government-organisation:OT543
-National College for Teaching and Leadership,government-organisation:EA541
-Infrastructure UK,government-organisation:OT540
-Health Education England,government-organisation:OT539
-Health and Social Care Information Centre,government-organisation:OT538
-Deputy Prime Minister's Office,government-organisation:OT537
-Forensic Science Regulator,government-organisation:OT536
-Border Force,government-organisation:OT535
-Animals in Science Committee,government-organisation:PB534
-Broadmoor Hospital investigation,government-organisation:OT533
-"Prime Minister's Office, 10 Downing Street",government-organisation:OT532
-NHS Pay Review Body,government-organisation:PB531
-Review Body on Doctors' and Dentists' Remuneration,government-organisation:PB530
-NHS Business Services Authority,government-organisation:OT529
-Independent Reconfiguration Panel,government-organisation:PB527
-"Committee on Mutagenicity of Chemicals in Food, Consumer Products and the Environment",government-organisation:PB526
-Commission on Human Medicines,government-organisation:PB525
-British Pharmacopoeia Commission,government-organisation:PB524
-Administration of Radioactive Substances Advisory Committee,government-organisation:PB523
-Advisory Committee on Clinical Excellence Awards,government-organisation:OT522
-Insolvency Practitioners Tribunal,government-organisation:PB521
-Behavioural Insights Team,government-organisation:OT520
-The Parliamentary and Health Service Ombudsman,government-organisation:OT519
-The McKay Commission,government-organisation:OT518
-Commissioner for Public Appointments,government-organisation:OT517
-Criminal Procedure Rule Committee,government-organisation:PB516
-Office of the Parliamentary Counsel,government-organisation:OT515
-Office for Low Emission Vehicles,government-organisation:OT514
-Interception of Communications Commissioner,government-organisation:OT513
-Intelligence Services Commissioner,government-organisation:OT512
-Independent Reviewer of Terrorism Legislation,government-organisation:OT511
-Social Mobility and Child Poverty Commission,government-organisation:PB510
-Disclosure and Barring Service,government-organisation:PB509
-Board of Trustees of the Royal Botanic Gardens Kew,government-organisation:PB508
-Efficiency and Reform Group,government-organisation:OT507
-Government Equalities Office,government-organisation:OT506
-National security and intelligence,government-organisation:OT505
-Chief Fire and Rescue Adviser,government-organisation:OT504
-Local Government Ombudsman,government-organisation:PB503
-Office for Life Sciences,government-organisation:OT502
-West Northamptonshire Development Corporation,government-organisation:PB501
-The Shareholder Executive,government-organisation:PB500
-Joint Forces Command,government-organisation:OT498
-Defence Infrastructure Organisation,government-organisation:OT496
-Defence Equipment and Support,government-organisation:OT495
-Airports Commission,government-organisation:OT494
-London and Continental Railways Ltd,government-organisation:PC493
-Chevening Scholarship Programme,government-organisation:OT492
-Advisory Panel on Public Sector Information,government-organisation:PB491
-NHS Litigation Authority,government-organisation:OT488
-NHS Blood and Transplant,government-organisation:OT486
-NHS Trust Development Authority,government-organisation:OT484
-Health Research Authority,government-organisation:OT483
-NHS England,government-organisation:PB481
-Public Health England,government-organisation:EA480
-Review Board for Government Contracts,government-organisation:PB477
-National Institute for Health and Care Excellence,government-organisation:PB474
-Marine Accident Investigation Branch,government-organisation:PC472
-Civil Aviation Authority,government-organisation:PC469
-Trust ports,government-organisation:PC468
-BRB (Residuary) Ltd,government-organisation:PC467
-Railway Heritage Committee,government-organisation:PB466
-Traffic Commissioners for Great Britain,government-organisation:PB465
-Passenger Focus,government-organisation:PB464
-Northern Lighthouse Board,government-organisation:PB463
-Trinity House,government-organisation:PB462
-British Transport Police Authority,government-organisation:PB461
-High Speed Two (HS2) Limited,government-organisation:PB460
-Directly Operated Railways Limited,government-organisation:PB459
-Police Negotiating Board,government-organisation:PB458
-Office of Surveillance Commissioners,government-organisation:PB457
-Independent Police Complaints Commission,government-organisation:PB456
-Tribunal Procedure Committee,government-organisation:PB448
-Prison Service Pay Review Body,government-organisation:PB446
-Insolvency Rules Committee,government-organisation:PB445
-"Independent Monitoring Boards of Prisons, Immigration, Removal Centres and Short Term Holding Rooms",government-organisation:OT444
-Independent Advisory Panel on Deaths in Custody,government-organisation:PB443
-Family Procedure Rule Committee,government-organisation:PB442
-Family Justice Council,government-organisation:PB441
-Civil Procedure Rule Committee,government-organisation:PB440
-The Advisory Council on National Records and Archives,government-organisation:PB438
-Advisory Committees on Justices of the Peace,government-organisation:PB437
-Administrative Justice and Tribunals Council,government-organisation:PB436
-Supreme Court of the United Kingdom,government-organisation:D435
-Royal Mint Advisory Committee,government-organisation:PB434
-The Adjudicator’s Office,government-organisation:OT433
-Boundary Commission for Wales,government-organisation:OT432
-Boundary Commission for Scotland,government-organisation:OT431
-Parades Commission for Northern Ireland,government-organisation:OT430
-Northern Ireland Human Rights Commission,government-organisation:OT429
-Boundary Commission for Northern Ireland,government-organisation:OT428
-BBC World Service,government-organisation:PC427
-Great Britain-China Centre,government-organisation:PB426
-Drinking Water Inspectorate,government-organisation:OT425
-Plant Varieties and Seeds Tribunal,government-organisation:PB423
-Agricultural Dwelling House Advisory Committees (x16),government-organisation:PB421
-Agricultural Wages Committee,government-organisation:PB420
-National Forest Company,government-organisation:PB415
-School Teachers' Review Body,government-organisation:PB414
-Office of the Children's Commissioner,government-organisation:PB413
-Defence Sixth Form College,government-organisation:OT411
-Royal Navy Submarine Museum,government-organisation:OT409
-"Defence, Press and Broadcasting Advisory Committee",government-organisation:OT408
-Service Prosecuting Authority,government-organisation:OT406
-Defence Academy of the United Kingdom,government-organisation:OT405
-Service Complaints Commissioner,government-organisation:OT404
-Veterans Advisory and Pensions Committees,government-organisation:PB403
-Scientific Advisory Committee on the Medical Implications of Less-Lethal Weapons,government-organisation:PB402
-The Oil and Pipelines Agency,government-organisation:PB401
-Nuclear Research Advisory Council,government-organisation:PB400
-National Employer Advisory Board,government-organisation:PB399
-Defence Scientific Advisory Council,government-organisation:PB397
-Defence Nuclear Safety Committee,government-organisation:PB396
-Central Advisory Committee on Pensions and Compensation,government-organisation:PB395
-Armed Forces' Pay Review Body,government-organisation:PB394
-Advisory Group on Military Medicine,government-organisation:PB393
-Advisory Committee on Conscientious Objectors,government-organisation:PB392
-Heritage Lottery Fund (administered by the NHMF),government-organisation:PC390
-Historic Royal Palaces,government-organisation:PC389
-BBC,government-organisation:PC388
-S4C,government-organisation:PC387
-Channel 4,government-organisation:PC386
-Ofcom,government-organisation:OT385
-Treasure Valuation Committee,government-organisation:PB383
-The Reviewing Committee on the Export of Works of Art and Objects of Cultural Interest,government-organisation:PB382
-The Theatres Trust,government-organisation:PB380
-Victoria and Albert Museum,government-organisation:PB378
-UK Anti-Doping,government-organisation:PB377
-VisitEngland,government-organisation:PB376
-Valuation Tribunal Service,government-organisation:PB375
-London Thames Gateway Development Corporation,government-organisation:PB374
-Leasehold Advisory Service,government-organisation:PB373
-Housing Ombudsman,government-organisation:PB372
-Senior Salaries Review Body,government-organisation:PB368
-Security Vetting Appeals Panel,government-organisation:PB367
-Civil Service Commission,government-organisation:PB366
-Government Procurement Service,government-organisation:EA365
-UK Green Investment Bank,government-organisation:OT360
-Land Registration Rule Committee,government-organisation:PB358
-Export Guarantees Advisory Council,government-organisation:PB357
-Consumer Futures,government-organisation:PB356
-Copyright Tribunal,government-organisation:PB355
-Regulatory Policy Committee,government-organisation:PB354
-Competition Commission,government-organisation:PB353
-Office of Fair Trading,government-organisation:D352
-Remploy Ltd,government-organisation:PB350
-Independent Living Fund,government-organisation:PB349
-Pension Protection Fund,government-organisation:PB348
-HM Crown Prosecution Service Inspectorate,government-organisation:OT347
-Audit Commission,government-organisation:PC343
-Privy Council Office,government-organisation:OT342
-House of Lords Appointments Commission,government-organisation:IM341
-Boundary Commission for England,government-organisation:PB337
-Advisory Committee on Business Appointments,government-organisation:PB336
-Independent Commission for Aid Impact,government-organisation:IM335
-Judicial Appointments and Conduct Ombudsman,government-organisation:IM333
-Legal Services Board,government-organisation:IM332
-The Legal Ombudsman,government-organisation:IM329
-Official Solicitor and Public Trustee,government-organisation:OT328
-Prisons and Probation Ombudsman,government-organisation:IM327
-Victims' Commissioner,government-organisation:PB326
-HM Inspectorate of Probation,government-organisation:IM325
-HM Inspectorate of Prisons,government-organisation:IM324
-HM Prison Service,government-organisation:EA321
-Criminal Cases Review Commission,government-organisation:IM320
-Competition Service,government-organisation:PB318
-Biotechnology and Biological Sciences Research Council,government-organisation:PB317
-Westminster Foundation for Democracy,government-organisation:OT316
-Marshall Aid Commemoration Commission,government-organisation:OT315
-British Council,government-organisation:OT313
-Fleet Air Arm Museum,government-organisation:PB311
-Royal Marines Museum,government-organisation:PB310
-Royal Air Force Museum,government-organisation:PB308
-National Army Museum,government-organisation:PB307
-Government Communications Headquarters,government-organisation:OT306
-Secret Intelligence Service,government-organisation:OT305
-The Security Service,government-organisation:OT304
-Office for National Statistics,government-organisation:D303
-Youth Justice Board for England and Wales,government-organisation:PB302
-Parole Board,government-organisation:PB301
-Legal Services Commission,government-organisation:PB300
-Judicial Appointments Commission,government-organisation:PB299
-Information Commissioner's Office,government-organisation:PB298
-Criminal Injuries Compensation Authority,government-organisation:PB297
-Victims' Advisory Panel,government-organisation:PB296
-Sentencing Council for England and Wales,government-organisation:PB295
-Law Commission,government-organisation:PB294
-Civil Justice Council,government-organisation:PB293
-Royal Museums Greenwich,government-organisation:PB291
-National Museum of the Royal Navy,government-organisation:PB290
-Independent Chief Inspector of Borders and Immigration,government-organisation:OT284
-HM Inspectorate of Constabulary,government-organisation:OT281
-Police Discipline Appeals Tribunal,government-organisation:PB278
-Police Arbitration Tribunal,government-organisation:PB277
-National DNA Database Ethics Group,government-organisation:PB276
-Migration Advisory Committee,government-organisation:PB275
-Technical Advisory Board,government-organisation:PB274
-Police Advisory Board for England and Wales,government-organisation:PB273
-Advisory Council on the Misuse of Drugs,government-organisation:PB271
-Investigatory Powers Tribunal,government-organisation:PB270
-Equality and Human Rights Commission,government-organisation:OT269
-Office of Manpower Economics,government-organisation:PB266
-Serious Organised Crime Agency,government-organisation:PB265
-Security Industry Authority,government-organisation:PB264
-Office of the Immigration Services Commissioner,government-organisation:PB263
-Office of Tax Simplification,government-organisation:OT261
-Office for Budget Responsibility,government-organisation:PB260
-UK Financial Investments Limited,government-organisation:PC259
-Foreign Compensation Commission,government-organisation:PB257
-Monitor,government-organisation:PB255
-Human Tissue Authority,government-organisation:PB254
-Human Fertilisation and Embryology Authority,government-organisation:PB253
-Care Quality Commission,government-organisation:PB251
-Rail Accident Investigation Branch,government-organisation:OT249
-Air Accidents Investigation Branch,government-organisation:OT248
-Disabled Persons Transport Advisory Committee,government-organisation:PB247
-The Children and Family Court Advisory and Support Service,government-organisation:PB246
-Standards and Testing Agency,government-organisation:EA243
-Education Funding Agency,government-organisation:EA242
-UK Export Finance,government-organisation:D241
-The Water Services Regulation Authority,government-organisation:D240
-National Employment Savings Trust (NEST) Corporation,government-organisation:OT237
-Pensions Ombudsman,government-organisation:PB236
-Pension Protection Fund Ombudsman,government-organisation:PB235
-The Pensions Regulator,government-organisation:PB234
-The Pensions Advisory Service,government-organisation:PB233
-Social Security Advisory Committee,government-organisation:PB232
-Industrial Injuries Advisory Council,government-organisation:PB231
-Equality 2025,government-organisation:PB230
-Commonwealth Scholarship Commission in the UK,government-organisation:PB226
-North York Moors National Park Authority,government-organisation:OT223
-New Forest National Park Authority,government-organisation:OT222
-Lake District National Park Authority,government-organisation:OT220
-Exmoor National Park Authority,government-organisation:OT219
-Dartmoor National Park Authority,government-organisation:OT217
-Broads Authority,government-organisation:OT216
-Covent Garden Market Authority,government-organisation:OT214
-Veterinary Products Committee,government-organisation:PB212
-Science Advisory Council,government-organisation:PB211
-Independent Agricultural Appeals Panel,government-organisation:PB210
-Advisory Committee on Releases to the Environment,government-organisation:PB209
-Advisory Committee on Pesticides,government-organisation:PB208
-Health and Safety Executive,government-organisation:PB207
-Sea Fish Industry Authority,government-organisation:OT205
-Agriculture and Horticulture Development Board,government-organisation:OT204
-Natural England,government-organisation:PB202
-Joint Nature Conservation Committee,government-organisation:PB201
-Gangmasters Licensing Authority,government-organisation:PB200
-Environment Agency,government-organisation:EA199
-Consumer Council for Water,government-organisation:PB198
-Nuclear Decommissioning Authority,government-organisation:PB197
-Committee on Climate Change,government-organisation:PB196
-Coal Authority,government-organisation:PB195
-Civil Nuclear Police Authority,government-organisation:PB194
-Nuclear Liabilities Financing Assurance Board,government-organisation:PB193
-Fuel Poverty Advisory Group,government-organisation:PB192
-Committee on Radioactive Waste Management,government-organisation:PB191
-Sport England,government-organisation:PB190
-British Film Institute,government-organisation:PB189
-Big Lottery Fund,government-organisation:PB188
-Wallace Collection,government-organisation:PB187
-VisitBritain,government-organisation:PB186
-UK Sport,government-organisation:PB185
-Sports Grounds Safety Authority,government-organisation:PB184
-Sir John Soane's Museum,government-organisation:PB183
-Royal Armouries Museum,government-organisation:PB182
-Olympic Delivery Authority,government-organisation:PB181
-Natural History Museum,government-organisation:PB180
-National Portrait Gallery,government-organisation:PB179
-National Museums Liverpool,government-organisation:PB178
-Science Museum Group,government-organisation:PB177
-National Heritage Memorial Fund,government-organisation:PB175
-National Gallery,government-organisation:PB174
-Imperial War Museum,government-organisation:PB172
-Horniman Public Museum and Public Park Trust,government-organisation:PB171
-Geffrye Museum,government-organisation:PB170
-Gambling Commission,government-organisation:PB169
-English Heritage,government-organisation:PB168
-British Museum,government-organisation:PB167
-British Library,government-organisation:PB166
-Arts Council England,government-organisation:PB165
-Architects Registration Board,government-organisation:PC163
-Homes and Communities Agency,government-organisation:PB161
-Building Regulations Advisory Committee,government-organisation:PB160
-Committee on Standards in Public Life,government-organisation:PB158
-Industrial Development Advisory Board,government-organisation:OT152
-Central Arbitration Committee,government-organisation:PB148
-Capital for Enterprise Limited,government-organisation:PB147
-Competition Appeal Tribunal,government-organisation:PB140
-Certification Officer,government-organisation:PB139
-UK Commission for Employment and Skills,government-organisation:PB138
-UK Atomic Energy Authority,government-organisation:PB137
-Technology Strategy Board,government-organisation:PB136
-Science and Technology Facilities Council,government-organisation:PB135
-Office for Fair Access,government-organisation:PB134
-Natural Environment Research Council,government-organisation:PB133
-Medical Research Council,government-organisation:PB132
-Engineering Construction Industry Training Board,government-organisation:PB131
-Engineering and Physical Sciences Research Council,government-organisation:PB130
-Economic and Social Research Council,government-organisation:PB129
-Construction Industry Training Board,government-organisation:PB126
-British Hallmarking Council,government-organisation:PB124
-Arts and Humanities Research Council,government-organisation:PB123
-Low Pay Commission,government-organisation:PB122
-Council for Science and Technology,government-organisation:PB121
-Higher Education Funding Council for England,government-organisation:PB120
-Horserace Betting Levy Board,government-organisation:PB118
-UK Trade & Investment,government-organisation:D117
-UK Statistics Authority,government-organisation:D116
-Serious Fraud Office,government-organisation:D115
-Royal Mint,government-organisation:EA114
-Office of Rail Regulation,government-organisation:D110
-Ofqual,government-organisation:D109
-Ofgem,government-organisation:D108
-Ofsted,government-organisation:D106
-NS&I,government-organisation:EA104
-Government Actuary's Department,government-organisation:D103
-Food Standards Agency,government-organisation:D102
-Crown Prosecution Service,government-organisation:D101
-The Crown Estate,government-organisation:OT100
-The Charity Commission,government-organisation:D98
-Valuation Office Agency,government-organisation:EA87
-Skills Funding Agency,government-organisation:EA86
-Forestry Commission,government-organisation:D85
-UK Debt Management Office,government-organisation:EA82
-Vehicle Certification Agency,government-organisation:EA80
-Vehicle and Operator Services Agency,government-organisation:EA79
-Maritime and Coastguard Agency,government-organisation:EA78
-Highways Agency,government-organisation:EA77
-Driving Standards Agency,government-organisation:EA75
-Driver and Vehicle Licensing Agency,government-organisation:EA74
-HM Courts & Tribunals Service,government-organisation:EA73
-Office of the Public Guardian,government-organisation:EA72
-The National Archives,government-organisation:EA71
-National Offender Management Service,government-organisation:EA70
-HM Land Registry,government-organisation:D69
-UK Border Agency,government-organisation:EA67
-HM Passport Office,government-organisation:EA66
-Medicines and Healthcare products Regulatory Agency,government-organisation:EA63
-Wilton Park,government-organisation:EA62
-FCO Services,government-organisation:EA61
-Veterinary Medicines Directorate,government-organisation:EA60
-Rural Payments Agency,government-organisation:EA58
-Marine Management Organisation,government-organisation:PB57
-The Food and Environment Research Agency,government-organisation:EA56
-Forest Enterprise (England),government-organisation:EA55
-Forest Research,government-organisation:EA54
-"Centre for Environment, Fisheries and Aquaculture Science",government-organisation:EA53
-Animal Health and Veterinary Laboratories Agency,government-organisation:EA52
-UK Hydrographic Office,government-organisation:EA51
-Service Personnel and Veterans Agency,government-organisation:EA50
-Service Children's Education,government-organisation:EA49
-Met Office,government-organisation:EA46
-Defence Support Group,government-organisation:EA44
-Defence Science and Technology Laboratory,government-organisation:EA42
-Royal Parks,government-organisation:EA41
-Queen Elizabeth II Conference Centre,government-organisation:EA40
-Planning Inspectorate,government-organisation:EA39
-Ordnance Survey,government-organisation:D38
-Fire Service College,government-organisation:EA37
-Intellectual Property Office,government-organisation:EA34
-National Measurement Office,government-organisation:EA33
-The Insolvency Service,government-organisation:EA32
-UK Space Agency,government-organisation:EA31
-Treasury Solicitor’s Department,government-organisation:D30
-National Fraud Authority,government-organisation:PB29
-"Advisory, Conciliation and Arbitration Service",government-organisation:PB28
-Student Loans Company,government-organisation:PB27
-Companies House,government-organisation:EA26
-HM Revenue & Customs,government-organisation:D25
-Office of the Secretary of State for Wales,government-organisation:D24
-Scotland Office,government-organisation:D23
-Office of the Leader of the House of Lords,government-organisation:D22
-Office of the Leader of the House of Commons,government-organisation:D21
-Office of the Advocate General for Scotland,government-organisation:D20
-Northern Ireland Office,government-organisation:D19
-Ministry of Justice,government-organisation:D18
-Ministry of Defence,government-organisation:D17
-Home Office,government-organisation:D16
-HM Treasury,government-organisation:D15
-Foreign & Commonwealth Office,government-organisation:D13
-Department of Health,government-organisation:D12
-Department of Energy & Climate Change,government-organisation:D11
-Department for Work and Pensions,government-organisation:D10
-Department for Transport,government-organisation:D9
-Department for International Development,government-organisation:D8
-"Department for Environment, Food & Rural Affairs",government-organisation:D7
-Department for Education,government-organisation:D6
-Department for Communities and Local Government,government-organisation:D4
-"Department for Business, Innovation & Skills",government-organisation:D3
-Cabinet Office,government-organisation:D2
-Attorney General's Office,government-organisation:D1
+name,organisation,start-date,end-date
+Birmingham City Council,local-authority-eng:BIR,1986-07-01,NA
+Borough Council of King's Lynn and West Norfolk,local-authority-eng:KIN,NA,NA
+Greater London Authority,local-authority-eng:GLA,1905-06-22,NA
+City of London Corporation,local-authority-eng:LND,1905-06-28,NA
+Worthing Borough Council,local-authority-eng:WOT,1905-06-25,NA
+Mid Sussex District Council,local-authority-eng:MSS,1974-04-01,NA
+Horsham District Council,local-authority-eng:HOR,1974-04-01,NA
+Crawley Borough Council,local-authority-eng:CRW,1974-04-01,NA
+Chichester District Council,local-authority-eng:CHI,1974-04-01,NA
+Arun District Council,local-authority-eng:ARU,NA,NA
+Adur District Council,local-authority-eng:ADU,NA,NA
+West Sussex County Council,local-authority-eng:WSX,NA,NA
+Wyre Forest District Council,local-authority-eng:WYE,NA,NA
+Wychavon District Council,local-authority-eng:WYC,NA,NA
+Worcester City Council,local-authority-eng:WOC,NA,NA
+Redditch Borough Council,local-authority-eng:RED,NA,NA
+Malvern Hills District Council,local-authority-eng:MAV,NA,NA
+Bromsgrove District Council,local-authority-eng:BRM,NA,NA
+Worcestershire County Council,local-authority-eng:WOR,NA,NA
+Warwick District Council,local-authority-eng:WAW,NA,NA
+Stratford-on-Avon District Council,local-authority-eng:STR,NA,NA
+Rugby Borough Council,local-authority-eng:RUG,NA,NA
+Nuneaton and Bedworth Borough Council,local-authority-eng:NUN,NA,NA
+North Warwickshire Borough Council,local-authority-eng:NWA,NA,NA
+Warwickshire County Council,local-authority-eng:WAR,NA,NA
+Tamworth Borough Council,local-authority-eng:TAW,NA,NA
+Staffordshire Moorlands District Council,local-authority-eng:STF,NA,NA
+Stafford Borough Council,local-authority-eng:STA,NA,NA
+South Staffordshire Council,local-authority-eng:SST,NA,NA
+Newcastle-under-Lyme Borough Council,local-authority-eng:NEC,NA,NA
+Lichfield District Council,local-authority-eng:LIF,NA,NA
+East Staffordshire Borough Council,local-authority-eng:EST,NA,NA
+Cannock Chase District Council,local-authority-eng:CAN,NA,NA
+Staffordshire County Council,local-authority-eng:STS,NA,NA
+Woking Borough Council,local-authority-eng:WOI,NA,NA
+Waverley Borough Council,local-authority-eng:WAE,NA,NA
+Tandridge District Council,local-authority-eng:TAN,NA,NA
+Surrey Heath Borough Council,local-authority-eng:SUR,NA,NA
+Spelthorne Borough Council,local-authority-eng:SPE,NA,NA
+Runnymede Borough Council,local-authority-eng:RUN,NA,NA
+Reigate and Banstead Borough Council,local-authority-eng:REI,NA,NA
+Mole Valley District Council,local-authority-eng:MOL,NA,NA
+Guildford Borough Council,local-authority-eng:GRT,NA,NA
+Epsom and Ewell Borough Council,local-authority-eng:EPS,NA,NA
+Elmbridge Borough Council,local-authority-eng:ELM,NA,NA
+Surrey County Council,local-authority-eng:SRY,NA,NA
+West Somerset District Council,local-authority-eng:WSO,NA,NA
+Taunton Deane Borough Council,local-authority-eng:TAU,NA,NA
+South Somerset District Council,local-authority-eng:SSO,NA,NA
+Sedgemoor District Council,local-authority-eng:SEG,NA,NA
+Mendip District Council,local-authority-eng:MEN,NA,NA
+Somerset County Council,local-authority-eng:SOM,NA,NA
+Waveney District Council,local-authority-eng:WAV,NA,NA
+Suffolk Coastal District Council,local-authority-eng:SUF,NA,NA
+St Edmundsbury Borough Council,local-authority-eng:SED,NA,NA
+Mid Suffolk District Council,local-authority-eng:MSU,NA,NA
+Ipswich Borough Council,local-authority-eng:IPS,NA,NA
+Forest Heath District Council,local-authority-eng:FOR,NA,NA
+Babergh District Council,local-authority-eng:BAB,NA,NA
+Suffolk County Council,local-authority-eng:SFK,NA,NA
+West Oxfordshire District Council,local-authority-eng:WOX,NA,NA
+Vale of White Horse District Council,local-authority-eng:VAL,NA,NA
+South Oxfordshire District Council,local-authority-eng:SOX,NA,NA
+Oxford City Council,local-authority-eng:OXO,NA,NA
+Cherwell District Council,local-authority-eng:CHR,NA,NA
+Oxfordshire County Council,local-authority-eng:OXF,NA,NA
+Selby District Council,local-authority-eng:SEL,NA,NA
+Scarborough Borough Council,local-authority-eng:SCE,NA,NA
+Ryedale District Council,local-authority-eng:RYE,NA,NA
+Richmondshire District Council,local-authority-eng:RIH,NA,NA
+Harrogate Borough Council,local-authority-eng:HAG,NA,NA
+Hambleton District Council,local-authority-eng:HAE,NA,NA
+Craven District Council,local-authority-eng:CRA,NA,NA
+North Yorkshire County Council,local-authority-eng:NYK,NA,NA
+Rushcliffe Borough Council,local-authority-eng:RUS,NA,NA
+Newark and Sherwood District Council,local-authority-eng:NEA,NA,NA
+Mansfield District Council,local-authority-eng:MAS,NA,NA
+Gedling Borough Council,local-authority-eng:GED,NA,NA
+Broxtowe Borough Council,local-authority-eng:BRT,NA,NA
+Bassetlaw District Council,local-authority-eng:BAE,NA,NA
+Ashfield District Council,local-authority-eng:ASH,NA,NA
+Nottinghamshire County Council,local-authority-eng:NTT,NA,NA
+Wellingborough Borough Council,local-authority-eng:WEL,NA,NA
+South Northamptonshire Council,local-authority-eng:SNR,NA,NA
+Northampton Borough Council,local-authority-eng:NOR,NA,NA
+Kettering Borough Council,local-authority-eng:KET,NA,NA
+East Northamptonshire Council,local-authority-eng:ENO,NA,NA
+Daventry District Council,local-authority-eng:DAV,NA,NA
+Corby Borough Council,local-authority-eng:COR,NA,NA
+Northamptonshire County Council,local-authority-eng:NTH,NA,NA
+South Norfolk District Council,local-authority-eng:SNO,NA,NA
+Norwich City Council,local-authority-eng:NOW,NA,NA
+North Norfolk District Council,local-authority-eng:NNO,NA,NA
+Great Yarmouth Borough Council,local-authority-eng:GRY,NA,NA
+Broadland District Council,local-authority-eng:BRO,NA,NA
+Breckland District Council,local-authority-eng:BRE,NA,NA
+Norfolk County Council,local-authority-eng:NFK,NA,NA
+West Lindsey District Council,local-authority-eng:WLI,NA,NA
+South Kesteven District Council,local-authority-eng:SKE,NA,NA
+South Holland District Council,local-authority-eng:SHO,NA,NA
+North Kesteven District Council,local-authority-eng:NKE,NA,NA
+City of Lincoln Council,local-authority-eng:LIC,NA,NA
+East Lindsey District Council,local-authority-eng:ELI,NA,NA
+Boston Borough Council,local-authority-eng:BOT,NA,NA
+Lincolnshire County Council,local-authority-eng:LIN,NA,NA
+Oadby and Wigston Borough Council,local-authority-eng:OAD,NA,NA
+North West Leicestershire District Council,local-authority-eng:NWL,NA,NA
+Melton Borough Council,local-authority-eng:MEL,NA,NA
+Hinckley and Bosworth Borough Council,local-authority-eng:HIN,NA,NA
+Harborough District Council,local-authority-eng:HAO,NA,NA
+Charnwood Borough Council,local-authority-eng:CHA,NA,NA
+Blaby District Council,local-authority-eng:BLA,NA,NA
+Leicestershire County Council,local-authority-eng:LEC,NA,NA
+Wyre Borough Council,local-authority-eng:WYR,NA,NA
+West Lancashire Borough Council,local-authority-eng:WLA,NA,NA
+South Ribble Borough Council,local-authority-eng:SRI,NA,NA
+Rossendale Borough Council,local-authority-eng:ROS,NA,NA
+Ribble Valley Borough Council,local-authority-eng:RIB,NA,NA
+Preston City Council,local-authority-eng:PRE,NA,NA
+Pendle Borough Council,local-authority-eng:PEN,NA,NA
+Lancaster City Council,local-authority-eng:LAC,NA,NA
+Hyndburn Borough Council,local-authority-eng:HYN,NA,NA
+Fylde Borough Council,local-authority-eng:FYL,NA,NA
+Chorley Borough Council,local-authority-eng:CHO,NA,NA
+Burnley Borough Council,local-authority-eng:BUN,NA,NA
+Lancashire County Council,local-authority-eng:LAN,NA,NA
+Tunbridge Wells Borough Council,local-authority-eng:TUN,NA,NA
+Tonbridge and Malling Borough Council,local-authority-eng:TON,NA,NA
+Thanet District Council,local-authority-eng:THA,NA,NA
+Swale Borough Council,local-authority-eng:SWL,NA,NA
+Shepway District Council,local-authority-eng:SHE,NA,NA
+Sevenoaks District Council,local-authority-eng:SEV,NA,NA
+Maidstone Borough Council,local-authority-eng:MAI,NA,NA
+Gravesham Borough Council,local-authority-eng:GRA,NA,NA
+Dover District Council,local-authority-eng:DOV,NA,NA
+Dartford Borough Council,local-authority-eng:DAR,NA,NA
+Canterbury City Council,local-authority-eng:CAT,NA,NA
+Ashford Borough Council,local-authority-eng:ASF,NA,NA
+Kent County Council,local-authority-eng:KEN,NA,NA
+Welwyn Hatfield Borough Council,local-authority-eng:WEW,NA,NA
+Watford Borough Council,local-authority-eng:WAT,NA,NA
+Three Rivers District Council,local-authority-eng:THE,NA,NA
+Stevenage Borough Council,local-authority-eng:STV,NA,NA
+St Albans City and District Council,local-authority-eng:SAL,NA,NA
+North Hertfordshire District Council,local-authority-eng:NHE,NA,NA
+Hertsmere Borough Council,local-authority-eng:HER,NA,NA
+East Hertfordshire District Council,local-authority-eng:EHE,NA,NA
+Dacorum Borough Council,local-authority-eng:DAC,NA,NA
+Broxbourne Borough Council,local-authority-eng:BRX,NA,NA
+Hertfordshire County Council,local-authority-eng:HRT,NA,NA
+Winchester City Council,local-authority-eng:WIN,NA,NA
+Test Valley Borough Council,local-authority-eng:TES,NA,NA
+Rushmoor Borough Council,local-authority-eng:RUH,NA,NA
+New Forest District Council,local-authority-eng:NEW,NA,NA
+Havant Borough Council,local-authority-eng:HAA,NA,NA
+Hart District Council,local-authority-eng:HAT,NA,NA
+Gosport Borough Council,local-authority-eng:GOS,NA,NA
+Fareham Borough Council,local-authority-eng:FAR,NA,NA
+Eastleigh Borough Council,local-authority-eng:EAT,NA,NA
+East Hampshire District Council,local-authority-eng:EHA,NA,NA
+Basingstoke and Deane Borough Council,local-authority-eng:BAN,NA,NA
+Hampshire County Council,local-authority-eng:HAM,NA,NA
+Tewkesbury Borough Council,local-authority-eng:TEW,NA,NA
+Stroud District Council,local-authority-eng:STO,NA,NA
+Gloucester City Council,local-authority-eng:GLO,NA,NA
+Forest of Dean District Council,local-authority-eng:FOE,NA,NA
+Cotswold District Council,local-authority-eng:COT,NA,NA
+Cheltenham Borough Council,local-authority-eng:CHT,NA,NA
+Gloucestershire County Council,local-authority-eng:GLS,NA,NA
+City of Westminster,local-authority-eng:WSM,NA,NA
+London Borough of Wandsworth,local-authority-eng:WND,NA,NA
+London Borough of Waltham Forest,local-authority-eng:WFT,NA,NA
+London Borough of Tower Hamlets,local-authority-eng:TWH,NA,NA
+London Borough of Southwark,local-authority-eng:SWK,NA,NA
+London Borough of Sutton,local-authority-eng:STN,NA,NA
+London Borough of Richmond upon Thames,local-authority-eng:RIC,NA,NA
+London Borough of Redbridge,local-authority-eng:RDB,NA,NA
+London Borough of Newham,local-authority-eng:NWM,NA,NA
+London Borough of Merton,local-authority-eng:MRT,NA,NA
+London Borough of Lewisham,local-authority-eng:LEW,NA,NA
+London Borough of Lambeth,local-authority-eng:LBH,NA,NA
+Royal Borough of Kingston upon Thames,local-authority-eng:KTT,NA,NA
+Royal Borough of Kensington and Chelsea,local-authority-eng:KEC,NA,NA
+London Borough of Islington,local-authority-eng:ISL,NA,NA
+London Borough of Haringey,local-authority-eng:HRY,NA,NA
+London Borough of Harrow,local-authority-eng:HRW,NA,NA
+London Borough of Hounslow,local-authority-eng:HNS,NA,NA
+London Borough of Hammersmith & Fulham,local-authority-eng:HMF,NA,NA
+London Borough of Hillingdon,local-authority-eng:HIL,NA,NA
+London Borough of Hackney,local-authority-eng:HCK,NA,NA
+London Borough of Havering,local-authority-eng:HAV,NA,NA
+Royal Borough of Greenwich,local-authority-eng:GRE,NA,NA
+London Borough of Enfield,local-authority-eng:ENF,NA,NA
+London Borough of Ealing,local-authority-eng:EAL,NA,NA
+London Borough of Croydon,local-authority-eng:CRY,NA,NA
+London Borough of Camden,local-authority-eng:CMD,NA,NA
+London Borough of Bromley,local-authority-eng:BRY,NA,NA
+London Borough of Barnet,local-authority-eng:BNE,NA,NA
+London Borough of Bexley,local-authority-eng:BEX,NA,NA
+London Borough of Brent,local-authority-eng:BEN,NA,NA
+London Borough of Barking and Dagenham,local-authority-eng:BDG,NA,NA
+Wealden District Council,local-authority-eng:WEA,NA,NA
+Rother District Council,local-authority-eng:ROH,NA,NA
+Lewes District Council,local-authority-eng:LEE,NA,NA
+Hastings Borough Council,local-authority-eng:HAS,NA,NA
+Eastbourne Borough Council,local-authority-eng:EAS,NA,NA
+East Sussex County Council,local-authority-eng:ESX,NA,NA
+Uttlesford District Council,local-authority-eng:UTT,NA,NA
+Tendring District Council,local-authority-eng:TEN,NA,NA
+Rochford District Council,local-authority-eng:ROC,NA,NA
+Maldon District Council,local-authority-eng:MAL,NA,NA
+Harlow District Council,local-authority-eng:HAR,NA,NA
+Epping Forest District Council,local-authority-eng:EPP,NA,NA
+Colchester Borough Council,local-authority-eng:COL,NA,NA
+Chelmsford City Council,local-authority-eng:CHL,NA,NA
+Castle Point Borough Council,local-authority-eng:CAS,NA,NA
+Brentwood Borough Council,local-authority-eng:BRW,NA,NA
+Braintree District Council,local-authority-eng:BRA,NA,NA
+Basildon Borough Council,local-authority-eng:BAI,NA,NA
+Essex County Council,local-authority-eng:ESS,NA,NA
+Weymouth and Portland Borough Council,local-authority-eng:WEY,NA,NA
+West Dorset District Council,local-authority-eng:WDO,NA,NA
+Purbeck District Council,local-authority-eng:PUR,NA,NA
+North Dorset District Council,local-authority-eng:NDO,NA,NA
+East Dorset District Council,local-authority-eng:EDO,NA,NA
+Christchurch Borough Council,local-authority-eng:CHC,NA,NA
+Dorset County Council,local-authority-eng:DOR,NA,NA
+West Devon Borough Council,local-authority-eng:WDE,NA,NA
+Torridge District Council,local-authority-eng:TOR,NA,NA
+Teignbridge District Council,local-authority-eng:TEI,NA,NA
+South Hams District Council,local-authority-eng:SHA,NA,NA
+North Devon District Council,local-authority-eng:NDE,NA,NA
+Mid Devon District Council,local-authority-eng:MDE,NA,NA
+Exeter City Council,local-authority-eng:EXE,NA,NA
+East Devon District Council,local-authority-eng:EDE,NA,NA
+Devon County Council,local-authority-eng:DEV,NA,NA
+South Derbyshire District Council,local-authority-eng:SDE,NA,NA
+North East Derbyshire District Council,local-authority-eng:NED,NA,NA
+High Peak Borough Council,local-authority-eng:HIG,NA,NA
+Erewash Borough Council,local-authority-eng:ERE,NA,NA
+Derbyshire Dales District Council,local-authority-eng:DEB,NA,NA
+Chesterfield Borough Council,local-authority-eng:CHS,NA,NA
+Bolsover District Council,local-authority-eng:BOS,NA,NA
+Amber Valley Borough Council,local-authority-eng:AMB,NA,NA
+Derbyshire County Council,local-authority-eng:DBY,NA,NA
+Derby City Council,local-authority-eng:DER,NA,NA
+South Lakeland District Council,local-authority-eng:SLA,NA,NA
+Eden District Council,local-authority-eng:EDN,NA,NA
+Copeland Borough Council,local-authority-eng:COP,NA,NA
+Carlisle City Council,local-authority-eng:CAR,NA,NA
+Barrow-in-Furness Borough Council,local-authority-eng:BAR,NA,NA
+Allerdale Borough Council,local-authority-eng:ALL,NA,NA
+Cumbria County Council,local-authority-eng:CMA,NA,NA
+South Cambridgeshire District Council,local-authority-eng:SCA,NA,NA
+Huntingdonshire District Council,local-authority-eng:HUN,NA,NA
+Fenland District Council,local-authority-eng:FEN,NA,NA
+East Cambridgeshire District Council,local-authority-eng:ECA,NA,NA
+Cambridge City Council,local-authority-eng:CAB,NA,NA
+Cambridgeshire County Council,local-authority-eng:CAM,NA,NA
+Wycombe District Council,local-authority-eng:WYO,NA,NA
+South Bucks District Council,local-authority-eng:SBU,NA,NA
+Chiltern District Council,local-authority-eng:CHN,NA,NA
+Aylesbury Vale District Council,local-authority-eng:AYL,NA,NA
+Buckinghamshire County Council,local-authority-eng:BKM,1905-06-19,NA
+City of York Council,local-authority-eng:YOR,1905-06-18,NA
+Warrington Borough Council,local-authority-eng:WRT,1905-06-20,NA
+Wirral Borough Council,local-authority-eng:WRL,1974-04-01,NA
+Wokingham Borough Council,local-authority-eng:WOK,1905-06-20,NA
+Royal Borough of Windsor and Maidenhead,local-authority-eng:WNM,1905-06-20,NA
+City of Wolverhampton Council,local-authority-eng:WLV,1974-04-01,NA
+Walsall Metropolitan Borough Council,local-authority-eng:WLL,1974-04-01,NA
+Wakefield Metropolitan District Council,local-authority-eng:WKF,1974-04-01,NA
+Wiltshire Council,local-authority-eng:WIL,2009-04-01,NA
+Wigan Metropolitan Borough Council,local-authority-eng:WGN,1974-04-01,NA
+West Berkshire Council,local-authority-eng:WBK,1905-06-20,NA
+Trafford Metropolitan Borough Council,local-authority-eng:TRF,1974-04-01,NA
+Torbay Council,local-authority-eng:TOB,1905-06-20,NA
+Thurrock Council,local-authority-eng:THR,1905-06-20,NA
+Telford & Wrekin Council,local-authority-eng:TFW,1905-06-20,NA
+Tameside Metropolitan Borough Council,local-authority-eng:TAM,1974-04-01,NA
+Swindon Borough Council,local-authority-eng:SWD,1905-06-20,NA
+South Tyneside Council,local-authority-eng:STY,1974-04-01,NA
+Stockton-on-Tees Borough Council,local-authority-eng:STT,1905-06-18,NA
+Southampton City Council,local-authority-eng:STH,1905-06-19,NA
+Stoke-on-Trent City Council,local-authority-eng:STE,1905-06-20,NA
+Southend-on-Sea Borough Council,local-authority-eng:SOS,1905-06-20,NA
+Solihull Metropolitan Borough Council,local-authority-eng:SOL,1905-05-27,NA
+Sunderland City Council,local-authority-eng:SND,1905-05-27,NA
+Slough Borough Council,local-authority-eng:SLG,1998-04-01,NA
+Salford City Council,local-authority-eng:SLF,1905-05-27,NA
+Stockport Metropolitan Borough Council,local-authority-eng:SKP,1905-05-27,NA
+Shropshire Council,local-authority-eng:SHR,2009-04-01,NA
+St Helens Council,local-authority-eng:SHN,1905-06-08,NA
+Sheffield City Council,local-authority-eng:SHF,1905-06-08,NA
+South Gloucestershire Council,local-authority-eng:SGC,1905-06-18,NA
+Sefton Metropolitan Borough Council,local-authority-eng:SFT,1905-06-08,NA
+Sandwell Metropolitan Borough Council,local-authority-eng:SAW,1905-06-07,NA
+Rutland County Council,local-authority-eng:RUT,1997-04-01,NA
+Rotherham Metropolitan Borough Council,local-authority-eng:ROT,1905-05-27,NA
+Reading Borough Council,local-authority-eng:RDG,1905-05-27,NA
+Rochdale Metropolitan Borough Council,local-authority-eng:RCH,1905-05-27,NA
+Redcar and Cleveland Borough Council,local-authority-eng:RCC,1996-04-01,NA
+Peterborough City Council,local-authority-eng:PTE,1905-06-20,NA
+Portsmouth City Council,local-authority-eng:POR,1905-06-20,NA
+Borough of Poole,local-authority-eng:POL,1997-04-01,NA
+Plymouth City Council,local-authority-eng:PLY,1998-04-01,NA
+Oldham Metropolitan Borough Council,local-authority-eng:OLD,1905-06-07,NA
+North Tyneside Council,local-authority-eng:NTY,1974-04-01,NA
+North Somerset  Council,local-authority-eng:NSM,1996-04-01,NA
+North Lincolnshire Council,local-authority-eng:NLN,1996-04-01,NA
+Nottingham City Council,local-authority-eng:NGM,1905-06-20,NA
+Newcastle City Council,local-authority-eng:NET,1974-04-01,NA
+North East Lincolnshire Council,local-authority-eng:NEL,1996-04-01,NA
+Northumberland County Council,local-authority-eng:NBL,2009-04-01,NA
+Milton Keynes Council,local-authority-eng:MIK,1905-06-19,NA
+Medway Council,local-authority-eng:MDW,1998-04-01,NA
+Middlesbrough Borough Council,local-authority-eng:MDB,1905-06-18,NA
+Manchester City Council,local-authority-eng:MAN,1974-04-01,NA
+Luton Borough Council,local-authority-eng:LUT,1905-06-19,NA
+Liverpool City Council,local-authority-eng:LIV,1905-06-08,NA
+Leeds City Council,local-authority-eng:LDS,1905-06-08,NA
+Leicester City Council,local-authority-eng:LCE,1905-06-19,NA
+Knowsley Metropolitan Borough Council,local-authority-eng:KWL,1974-04-01,NA
+Kirklees Council,local-authority-eng:KIR,1974-04-01,NA
+Hull City Council,local-authority-eng:KHL,1996-04-01,NA
+Isle of Wight Council,local-authority-eng:IOW,1905-06-17,NA
+Council of the Isles of Scilly,local-authority-eng:IOS,1974-04-01,NA
+Hartlepool Borough Council,local-authority-eng:HPL,1905-06-18,NA
+Herefordshire Council,local-authority-eng:HEF,1998-04-01,NA
+Halton Borough Council,local-authority-eng:HAL,1998-04-01,NA
+Gateshead Metropolitan Borough Council,local-authority-eng:GAT,1974-04-01,NA
+East Riding of Yorkshire Council,local-authority-eng:ERY,1996-04-01,NA
+Durham County Council,local-authority-eng:DUR,2009-04-01,NA
+Dudley Metropolitan Borough Council,local-authority-eng:DUD,1974-04-01,NA
+Doncaster Metropolitan Borough Council,local-authority-eng:DNC,1974-04-01,NA
+Darlington Borough Council,local-authority-eng:DAL,1997-04-01,NA
+Coventry City Council,local-authority-eng:COV,1974-04-01,NA
+Cornwall Council,local-authority-eng:CON,2009-04-01,NA
+Calderdale Metropolitan Borough Council,local-authority-eng:CLD,1974-04-01,NA
+Cheshire West and Chester Council,local-authority-eng:CHW,2009-04-01,NA
+Cheshire East Council,local-authority-eng:CHE,2009-04-01,NA
+Central Bedfordshire Council,local-authority-eng:CBF,2009-04-01,NA
+Bury Metropolitan Borough Council,local-authority-eng:BUR,1974-04-01,NA
+Bristol City Council,local-authority-eng:BST,1905-06-18,NA
+City of Bradford Metropolitan District Council,local-authority-eng:BRD,1974-04-01,NA
+Bracknell Forest Council,local-authority-eng:BRC,1998-04-01,NA
+Blackpool Borough Council,local-authority-eng:BPL,1905-06-20,NA
+Bolton Metropolitan Borough Council,local-authority-eng:BOL,1974-04-01,NA
+Barnsley Metropolitan Borough Council,local-authority-eng:BNS,1974-04-01,NA
+Brighton and Hove City Council,local-authority-eng:BNH,1905-06-19,NA
+Bournemouth Borough Council,local-authority-eng:BMH,1905-06-19,NA
+Bedford Borough Council,local-authority-eng:BDF,2009-04-01,NA
+Blackburn with Darwen Borough Council,local-authority-eng:BBD,1998-04-01,NA
+Bath and North East Somerset Council,local-authority-eng:BAS,1996-04-01,NA
+Shetland Islands Council,local-authority-sct:ZET,1996-04-01,NA
+The West Lothian Council,local-authority-sct:WLN,1996-04-01,NA
+The West Dunbartonshire Council,local-authority-sct:WDU,1996-04-01,NA
+The Stirling Council,local-authority-sct:STG,1996-04-01,NA
+The South Lanarkshire Council,local-authority-sct:SLK,1996-04-01,NA
+The Scottish Borders Council,local-authority-sct:SCB,1996-04-01,NA
+The South Ayrshire Council,local-authority-sct:SAY,1996-04-01,NA
+The Renfrewshire Council,local-authority-sct:RFW,1996-04-01,NA
+The Perth and Kinross Council,local-authority-sct:PKN,1996-04-01,NA
+Orkney Islands Council,local-authority-sct:ORK,1996-04-01,NA
+The North Lanarkshire Council,local-authority-sct:NLK,1996-04-01,NA
+The North Ayrshire Council,local-authority-sct:NAY,1996-04-01,NA
+The Moray Council,local-authority-sct:MRY,1996-04-01,NA
+The Midlothian Council,local-authority-sct:MLN,1996-04-01,NA
+The Inverclyde Council,local-authority-sct:IVC,1996-04-01,NA
+The Highland Council,local-authority-sct:HLD,1996-04-01,NA
+The Glasgow City Council,local-authority-sct:GLG,1996-04-01,NA
+The Fife Council,local-authority-sct:FIF,1996-04-01,NA
+The Falkirk Council,local-authority-sct:FAL,1996-04-01,NA
+The East Renfrewshire Council,local-authority-sct:ERW,1996-04-01,NA
+Comhairle nan Eilean Siar,local-authority-sct:ELS,1996-04-01,NA
+The East Lothian Council,local-authority-sct:ELN,1996-04-01,NA
+The East Dunbartonshire Council,local-authority-sct:EDU,1996-04-01,NA
+The City of Edinburgh Council,local-authority-sct:EDH,1996-04-01,NA
+The East Ayrshire Council,local-authority-sct:EAY,1996-04-01,NA
+The Dundee City Council,local-authority-sct:DND,1996-04-01,NA
+The Dumfries and Galloway Council,local-authority-sct:DGY,1996-04-01,NA
+The Clackmannanshire Council,local-authority-sct:CLK,1996-04-01,NA
+The Angus Council,local-authority-sct:ANS,1996-04-01,NA
+The Argyll and Bute Council,local-authority-sct:AGB,1996-04-01,NA
+The Aberdeen City Council,local-authority-sct:ABE,1996-04-01,NA
+The Aberdeenshire Council,local-authority-sct:ABD,1996-04-01,NA
+Rhondda Cynon Taf County Borough Council,principa-local-authority:RCT,1996-04-01,NA
+Wrexham County Borough Council,principa-local-authority:WRX,1996-04-01,NA
+Vale of Glamorgan Council,principa-local-authority:VGL,1996-04-01,NA
+Torfaen County Borough Council,principa-local-authority:TOF,1996-04-01,NA
+City and County of Swansea Council,principa-local-authority:SWA,1996-04-01,NA
+Powys County Council,principa-local-authority:POW,1996-04-01,NA
+Pembrokeshire County Council,principa-local-authority:PEM,1996-04-01,NA
+Newport City Council,principa-local-authority:NWP,1996-04-01,NA
+Neath Port Talbot County Borough Council,principa-local-authority:NTL,1996-04-01,NA
+Merthyr Tydfil County Borough Council,principa-local-authority:MTY,1996-04-01,NA
+Monmouthshire County Council,principa-local-authority:MON,1996-04-01,NA
+Gwynedd Council,principa-local-authority:GWN,1996-04-01,NA
+Flintshire County Council,principa-local-authority:FLN,1996-04-01,NA
+Denbighshire County Council,principa-local-authority:DEN,1996-04-01,NA
+Conwy County Borough Council,principa-local-authority:CWY,1996-04-01,NA
+City of Cardiff Council,principa-local-authority:CRF,1996-04-01,NA
+Carmarthenshire County Council,principa-local-authority:CMN,1996-04-01,NA
+Ceredigion County Council,principa-local-authority:CGN,1996-04-01,NA
+Caerphilly County Borough Council,principa-local-authority:CAY,1996-04-01,NA
+Blaenau Gwent County Borough Council,principa-local-authority:BGW,1996-04-01,NA
+Bridgend County Borough Council,principa-local-authority:BGE,1996-04-01,NA
+Isle of Anglesey County Council,principa-local-authority:AGY,1996-04-01,NA
+"Department for Digital, Culture, Media and Sport",government-organisation:D5,NA,NA
+Scottish Government,government-organisation:DA1020,NA,NA
+Regulator of Social Housing,government-organisation:PB1218,NA,NA
+Education and Skills Funding Agency,government-organisation:EO1216,NA,NA
+Judicial Office,government-organisation:OT1215,NA,NA
+Institute for Apprenticeships,government-organisation:PB1214,NA,NA
+Her Majesty’s Prison and Probation Service,government-organisation:EA1213,NA,NA
+Northern Ireland Housing Executive,government-organisation:PB1212,NA,NA
+National Cyber Security Centre,government-organisation:OT1211,NA,NA
+Preventing Sexual Violence Initiative,government-organisation:OT1210,NA,NA
+Her Majesty's Government Communications Centre,government-organisation:OT1209,NA,NA
+Academy for Social Justice Commissioning,government-organisation:OT1208,NA,NA
+Rail Safety and Standards Board,government-organisation:OT1207,NA,NA
+Defence and Security Accelerator,government-organisation:OT1206,NA,NA
+Valuation Tribunal for England,government-organisation:PB1204,NA,NA
+The Electoral Commission,government-organisation:IM1203,NA,NA
+NHS Digital,government-organisation:PB1202,NA,NA
+Cabinet Office Board,government-organisation:OT1201,NA,NA
+Civil Service Board,government-organisation:OT1200,NA,NA
+NHS Improvement,government-organisation:PB1199,NA,NA
+"Department for Business, Energy & Industrial Strategy",government-organisation:D1198,NA,NA
+Department for Exiting the European Union,government-organisation:D1197,NA,NA
+Department for International Trade,government-organisation:D1196,NA,NA
+Iraq Inquiry,government-organisation:OT1195,NA,NA
+Central Advisory Committee on Compensation,government-organisation:PB1194,NA,NA
+Social Mobility Commission,government-organisation:PB1193,NA,NA
+Pubs Code Adjudicator,government-organisation:OT1192,NA,NA
+Defence Safety Authority,government-organisation:OT1191,NA,NA
+Lammy Review,government-organisation:OT1190,NA,NA
+Regulatory Delivery,government-organisation:OT1189,NA,NA
+Office of Financial Sanctions Implementation,government-organisation:OT1187,NA,NA
+UK Government Investments,government-organisation:OT1186,NA,NA
+Independent Dormant Assets Commission,government-organisation:PB1185,NA,NA
+Porton Biopharma Limited,government-organisation:OT1184,NA,NA
+"Digital, data and technology professions",government-organisation:OT1182,NA,NA
+National Data Guardian,government-organisation:OT1180,NA,NA
+The Executive Office (Northern Ireland),government-organisation:OT1179,NA,NA
+"Department of Agriculture, Environment and Rural Affairs (Northern Ireland)",government-organisation:OT1178,NA,NA
+Department of Finance (Northern Ireland),government-organisation:OT1177,NA,NA
+Department for Infrastructure (Northern Ireland),government-organisation:OT1176,NA,NA
+Department of Health (Northern Ireland),government-organisation:OT1175,NA,NA
+Department for the Economy (Northern Ireland),government-organisation:OT1174,NA,NA
+Department for Communities (Northern Ireland),government-organisation:OT1173,NA,NA
+Committee on Fuel Poverty,government-organisation:PB1172,NA,NA
+UK Holocaust Memorial Foundation,government-organisation:PB1171,NA,NA
+Financial Services Trade and Investment Board,government-organisation:OT1169,NA,NA
+Service Complaints Ombudsman,government-organisation:OT1168,NA,NA
+Civil Service Fast Track Apprenticeship,government-organisation:OT1167,NA,NA
+Infrastructure and Projects Authority,government-organisation:OT1166,NA,NA
+Historic England,government-organisation:PB1164,NA,NA
+National Infrastructure Commission,government-organisation:OT1161,NA,NA
+Commercial Court,government-organisation:CO1159,NA,NA
+Ebbsfleet Development Corporation,government-organisation:PB1154,NA,NA
+Defence and Security Media Advisory Committee,government-organisation:OT1153,NA,NA
+Disabled People’s Employment Corporation,government-organisation:PB1152,NA,NA
+Payment Systems Regulator,government-organisation:OT1151,NA,NA
+Radioactive Waste Management,government-organisation:OT1150,NA,NA
+Independent Commission on Freedom of Information,government-organisation:PB1149,NA,NA
+British Business Bank,government-organisation:OT1148,NA,NA
+"Department of Culture, Arts and Leisure Northern Ireland",government-organisation:DA1146,NA,NA
+Accelerated Access Review,government-organisation:OT1137,NA,NA
+Independent Anti-slavery Commissioner,government-organisation:IM1123,NA,NA
+Independent Family Returns Panel,government-organisation:OT1122,NA,NA
+Civil Service Fast Stream,government-organisation:OT1121,NA,NA
+Oil and Gas Authority,government-organisation:EA1119,NA,NA
+Transport Focus,government-organisation:PB1118,NA,NA
+Office of Rail and Road,government-organisation:D1117,NA,NA
+Government Commercial Function,government-organisation:OT1116,NA,NA
+Highways England,government-organisation:EA1114,NA,NA
+Defence Electronics and Components Agency,government-organisation:EA1113,NA,NA
+United Kingdom Reserve Forces Association,government-organisation:OT1112,NA,NA
+Third Party Campaigning Review,government-organisation:OT1111,NA,NA
+National Measurement and Regulation Office,government-organisation:EA1109,NA,NA
+Government Legal Department,government-organisation:D1108,NA,NA
+Schools Commissioners Group,government-organisation:OT1107,NA,NA
+Estyn,government-organisation:DA1105,NA,NA
+NHS Wales Informatics Service,government-organisation:OT1104,NA,NA
+Natural Resources Wales,government-organisation:OT1103,NA,NA
+Careers Wales,government-organisation:OT1102,NA,NA
+Welsh Language Commissioner,government-organisation:OT1101,NA,NA
+Independent Complaints Reviewer,government-organisation:OT1099,NA,NA
+Single Source Regulations Office,government-organisation:PB1093,NA,NA
+Office of the Registrar of Consultant Lobbyists,government-organisation:OT1091,NA,NA
+National Information Board,government-organisation:OT1090,NA,NA
+National Counter Terrorism Security Office,government-organisation:OT1089,NA,NA
+Higher Education Statistics Agency,government-organisation:OT1088,NA,NA
+Veterans UK,government-organisation:OT1087,NA,NA
+Stabilisation Unit,government-organisation:OT1086,NA,NA
+Financial Conduct Authority,government-organisation:OT1085,NA,NA
+Government Internal Audit Agency,government-organisation:EA1084,NA,NA
+Police Remuneration Review Body,government-organisation:PB1083,NA,NA
+Financial Services Organisation,government-organisation:OT1082,NA,NA
+Regeneration Investment Organisation,government-organisation:OT1081,NA,NA
+District Valuer Services (DVS),government-organisation:OT1080,NA,NA
+Animal and Plant Health Agency,government-organisation:EA1079,NA,NA
+Innovate UK,government-organisation:PB1078,NA,NA
+Public Health Wales,government-organisation:OT1077,NA,NA
+Civil Service Resourcing,government-organisation:OT1076,NA,NA
+National Records of Scotland,government-organisation:OT1075,NA,NA
+Information Services Division (Scotland),government-organisation:OT1074,NA,NA
+Department of Justice (Northern Ireland),government-organisation:D1073,NA,NA
+Agri-Food and Biosciences Institute (Northern Ireland),government-organisation:PB1072,NA,NA
+Military Aviation Authority,government-organisation:OT1071,NA,NA
+Government Security Profession,government-organisation:OT1070,NA,NA
+Immigration Enforcement,government-organisation:OT1069,NA,NA
+UKTI Life Sciences Organisation,government-organisation:OT1068,NA,NA
+UKTI Education,government-organisation:OT1067,NA,NA
+Office for Disability Issues,government-organisation:OT1066,NA,NA
+Reserve Forces' and Cadets' Associations,government-organisation:OT1065,NA,NA
+Centre for Defence Enterprise,government-organisation:OT1064,NA,NA
+Civil Nuclear Constabulary,government-organisation:OT1063,NA,NA
+Company Names Tribunal,government-organisation:PB1062,NA,NA
+Government Chemist,government-organisation:OT1061,NA,NA
+Rural Development Programme for England Network,government-organisation:OT1060,NA,NA
+Office for Nuclear Regulation,government-organisation:PC1059,NA,NA
+The Jeffrey Review,government-organisation:OT1058,NA,NA
+Macur Review,government-organisation:OT1057,NA,NA
+Government Digital Service,government-organisation:OT1056,NA,NA
+Civil Service Reform,government-organisation:OT1055,NA,NA
+Medical Profession,government-organisation:OT1054,NA,NA
+Government IT Profession,government-organisation:OT1053,NA,NA
+Intelligence Analysis,government-organisation:OT1052,NA,NA
+British Cattle Movement Service,government-organisation:OT1051,NA,NA
+Government Corporate Finance Profession,government-organisation:OT1050,NA,NA
+Government Occupational Psychology Profession,government-organisation:OT1049,NA,NA
+Government Knowledge & Information Management Profession,government-organisation:OT1048,NA,NA
+Government Veterinary Services,government-organisation:OT1047,NA,NA
+Government Tax Profession,government-organisation:OT1046,NA,NA
+Government Planning Inspectors,government-organisation:OT1045,NA,NA
+Government Planning Profession,government-organisation:OT1044,NA,NA
+Government Social Research Profession,government-organisation:OT1043,NA,NA
+Government Operational Research Service,government-organisation:OT1042,NA,NA
+Government Statistical Service,government-organisation:OT1041,NA,NA
+Government Science & Engineering Profession,government-organisation:OT1040,NA,NA
+Government Property Profession,government-organisation:OT1039,NA,NA
+Internal Audit Profession,government-organisation:OT1038,NA,NA
+Government Economic Service,government-organisation:OT1037,NA,NA
+Human Resources Profession,government-organisation:OT1036,NA,NA
+Government Finance Profession,government-organisation:OT1035,NA,NA
+Government Communication Service,government-organisation:OT1034,NA,NA
+Government Legal Service,government-organisation:OT1033,NA,NA
+Procurement profession,government-organisation:OT1032,NA,NA
+Project Delivery Profession,government-organisation:OT1031,NA,NA
+Policy Profession,government-organisation:OT1030,NA,NA
+Operational Delivery Profession,government-organisation:OT1029,NA,NA
+Civil Service,government-organisation:CS1028,NA,NA
+Office of the Schools Adjudicator,government-organisation:OT1027,NA,NA
+Department for International Trade Defence & Security Organisation,government-organisation:OT1026,NA,NA
+Academy for Justice Commissioning,government-organisation:OT1025,NA,NA
+HM Nautical Almanac Office,government-organisation:OT1023,NA,NA
+UK Co-ordinating Body,government-organisation:OT1022,NA,NA
+Northern Ireland Executive,government-organisation:DA1021,NA,NA
+Welsh Government,government-organisation:DA1019,NA,NA
+Mid Staffordshire NHS Foundation Trust Public Inquiry 2010,government-organisation:OT1018,NA,NA
+Independent Medical Expert Group,government-organisation:PB1017,NA,NA
+Bank of England,government-organisation:OT1016,NA,NA
+Crown Commercial Service,government-organisation:EA1015,NA,NA
+Office of the Identity Commissioner,government-organisation:OT1014,NA,NA
+Lyons Inquiry into Local Government,government-organisation:OT1013,NA,NA
+Administrative Justice and Tribunals Council Welsh Committee,government-organisation:OT1012,NA,NA
+Veterinary Residues Committee,government-organisation:OT1011,NA,NA
+Eliasch Review,government-organisation:OT1010,NA,NA
+Varney Review,government-organisation:OT1009,NA,NA
+Cooksey Review,government-organisation:OT1008,NA,NA
+Leitch Review of Skills,government-organisation:OT1007,NA,NA
+Barker Review of Land Use Planning,government-organisation:OT1006,NA,NA
+Gowers Review of Intellectual Property,government-organisation:OT1005,NA,NA
+United Kingdom Blood Transfusion Services,government-organisation:OT1004,NA,NA
+Northern Ireland Judicial Appointments Ombudsman,government-organisation:OT1003,NA,NA
+"Department of the Environment, Transport and the Regions",government-organisation:OT1002,NA,NA
+Broadcasting Standards Commission,government-organisation:OT1001,NA,NA
+Further and Higher Education Funding Councils for Wales,government-organisation:OT1000,NA,NA
+Natural Resources Institute,government-organisation:OT999,NA,NA
+Examination team on child care procedures and practice in North Wales,government-organisation:OT998,NA,NA
+Her Majesty's Magistrates Courts Service Inspectorate,government-organisation:OT997,NA,NA
+Board of Banking Supervision,government-organisation:OT996,NA,NA
+Independent Television Commission,government-organisation:OT995,NA,NA
+Legal Aid Board,government-organisation:OT994,NA,NA
+Department of National Heritage,government-organisation:OT993,NA,NA
+Chemical and Biological Defence Establishment,government-organisation:OT992,NA,NA
+Welsh Development Agency,government-organisation:OT991,NA,NA
+Scottish Hospital Trust,government-organisation:OT989,NA,NA
+Ancient Monuments Board for Scotland,government-organisation:OT988,NA,NA
+National Museums of Scotland,government-organisation:OT987,NA,NA
+Inquiry into the supervision of the Bank of Credit and Commerce International,government-organisation:OT984,NA,NA
+Polytechnics and Colleges Funding Council,government-organisation:OT980,NA,NA
+Office of the Data Protection Registrar,government-organisation:OT979,NA,NA
+Oftel,government-organisation:OT978,NA,NA
+Office of Telecommunications,government-organisation:OT977,NA,NA
+Office of the Lay Observer,government-organisation:OT976,NA,NA
+Nature Conservancy Council,government-organisation:OT975,NA,NA
+Exchequer and Audit Department,government-organisation:D974,NA,NA
+Council on Tribunals,government-organisation:PB973,NA,NA
+Azelle Rodney Inquiry,government-organisation:OT972,NA,NA
+Professional Standards Authority for Health and Social Care,government-organisation:OT971,NA,NA
+Royal Mail,government-organisation:PC970,NA,NA
+Mid Staffordshire NHS Foundation Trust Public Inquiry 2013,government-organisation:OT969,NA,NA
+Patrick Finucane Review,government-organisation:OT968,NA,NA
+Leveson Inquiry,government-organisation:OT967,NA,NA
+Hillsborough Independent Panel,government-organisation:OT966,NA,NA
+Creative Scotland,government-organisation:OT964,NA,NA
+Baha Mousa Inquiry,government-organisation:OT963,NA,NA
+Public Prosecution Service for Northern Ireland,government-organisation:OT962,NA,NA
+Firebuy,government-organisation:OT961,NA,NA
+Young People's Learning Agency,government-organisation:EA960,NA,NA
+North West Development Agency,government-organisation:EA959,NA,NA
+Mull of Kintyre Review,government-organisation:OT958,NA,NA
+English Institute of Sport,government-organisation:OT957,NA,NA
+Qualifications and Curriculum Development Agency,government-organisation:EA956,NA,NA
+Office for Tenants and Social Landlords,government-organisation:EA955,NA,NA
+Rosemary Nelson Inquiry,government-organisation:OT954,NA,NA
+SITPRO,government-organisation:OT953,NA,NA
+Redfern Inquiry,government-organisation:OT952,NA,NA
+Billy Wright Inquiry,government-organisation:OT951,NA,NA
+CO2Sense,government-organisation:OT950,NA,NA
+Asset Protection Agency,government-organisation:EA949,NA,NA
+Infrastructure Planning Commission,government-organisation:OT947,NA,NA
+Royal Trustees' Office,government-organisation:OT946,NA,NA
+Office of the Health Professions Adjudicator,government-organisation:OT945,NA,NA
+Bloody Sunday Inquiry,government-organisation:OT944,NA,NA
+Office of the Commissioner for Protection Against Unlawful Industrial Action,government-organisation:OT941,NA,NA
+Office of the Commissioner for the Rights of Trade Union Members,government-organisation:OT940,NA,NA
+School Food Trust,government-organisation:OT938,NA,NA
+Northern Ireland Law Commission,government-organisation:OT937,NA,NA
+"Museums, Libraries and Archives Council",government-organisation:OT936,NA,NA
+Northern Ireland Police Fund,government-organisation:OT935,NA,NA
+Tenant Services Authority,government-organisation:EA934,NA,NA
+Nimrod Review,government-organisation:OT933,NA,NA
+British Educational Communications and Technology Agency,government-organisation:EA932,NA,NA
+Working Ventures UK,government-organisation:OT930,NA,NA
+National College for School Leadership,government-organisation:EA929,NA,NA
+Capacitybuilders,government-organisation:OT928,NA,NA
+Advantage West Midlands,government-organisation:EA927,NA,NA
+Child Maintenance and Enforcement Commission,government-organisation:OT926,NA,NA
+ICL Inquiry,government-organisation:OT925,NA,NA
+"Pension, Disability and Carers Service",government-organisation:EA924,NA,NA
+Yorkshire Forward,government-organisation:EA923,NA,NA
+Northwest Business Link,government-organisation:EA922,NA,NA
+One North East,government-organisation:EA921,NA,NA
+Northwest Regional Development Agency,government-organisation:EA920,NA,NA
+South East England Development Agency,government-organisation:EA919,NA,NA
+South West of England Regional Development Agency,government-organisation:EA918,NA,NA
+East of England Development Agency,government-organisation:EA917,NA,NA
+Local Better Regulation Office,government-organisation:OT916,NA,NA
+Children's Workforce Development Council,government-organisation:OT915,NA,NA
+Independent Safeguarding Authority,government-organisation:OT914,NA,NA
+Parole Commissioners for Northern Ireland,government-organisation:OT913,NA,NA
+East Midlands Development Agency (emda),government-organisation:EA912,NA,NA
+Buying Solutions,government-organisation:OT911,NA,NA
+Phoenix Sports,government-organisation:OT910,NA,NA
+Commission for the Compact,government-organisation:OT909,NA,NA
+Wales Audit Office,government-organisation:OT908,NA,NA
+Professional Oversight Board,government-organisation:OT906,NA,NA
+Sutherland Inquiry,government-organisation:OT905,NA,NA
+National Policing Improvement Agency,government-organisation:EA904,NA,NA
+Personal Accounts Delivery Authority,government-organisation:OT903,NA,NA
+Horticultural Development Council,government-organisation:OT902,NA,NA
+Renewable Fuels Agency,government-organisation:EA901,NA,NA
+Animal Health,government-organisation:EA900,NA,NA
+NHS Information Centre,government-organisation:OT899,NA,NA
+Postgraduate Medical Education and Training Board,government-organisation:OT897,NA,NA
+Investors in People UK,government-organisation:OT896,NA,NA
+Standards Board for England,government-organisation:OT895,NA,NA
+Design Council,government-organisation:OT893,NA,NA
+National School of Government,government-organisation:OT891,NA,NA
+Commission for Rural Communities,government-organisation:OT890,NA,NA
+Healthcare Commission,government-organisation:OT889,NA,NA
+British Potato Council,government-organisation:OT887,NA,NA
+English Sports Council,government-organisation:OT886,NA,NA
+Identity and Passport Service,government-organisation:OT885,NA,NA
+Defence Vetting Agency,government-organisation:EA884,NA,NA
+Defence Bills Agency,government-organisation:EA883,NA,NA
+"People, Pay and Pensions Agency",government-organisation:EA882,NA,NA
+Northern Ireland Judicial Appointments Commission,government-organisation:OT880,NA,NA
+Rent Service,government-organisation:EA879,NA,NA
+British Forces Post Office,government-organisation:OT878,NA,NA
+Life Sentence Review Commissioners,government-organisation:OT877,NA,NA
+Meat and Livestock Commission,government-organisation:OT876,NA,NA
+Particle Physics and Astronomy Research Council,government-organisation:OT875,NA,NA
+English Partnerships,government-organisation:EA874,NA,NA
+Meat Hygiene Service,government-organisation:EA873,NA,NA
+Pesticides Safety Directorate,government-organisation:OT872,NA,NA
+Enterprise Ulster,government-organisation:OT871,NA,NA
+Food Safety Promotion Board,government-organisation:PB870,NA,NA
+Waterways Ireland,government-organisation:OT869,NA,NA
+National Museums and Galleries of Northern Ireland,government-organisation:OT868,NA,NA
+Revenue and Customs Prosecutions Office,government-organisation:OT867,NA,NA
+Western Health and Social Services Board,government-organisation:OT866,NA,NA
+Eastern Health and Social Services Board,government-organisation:OT865,NA,NA
+Southern Health and Social Services Board,government-organisation:OT864,NA,NA
+Northern Health and Social Services Board,government-organisation:OT863,NA,NA
+Loughs Agency,government-organisation:OT862,NA,NA
+Ashington Education Action Zone,government-organisation:OT861,NA,NA
+National Patient Safety Agency,government-organisation:EA860,NA,NA
+State Veterinary Service,government-organisation:OT859,NA,NA
+Western Education and Library Board,government-organisation:OT858,NA,NA
+South Eastern Education and Library Board,government-organisation:OT857,NA,NA
+Northern Ireland Practice and Education Council,government-organisation:OT856,NA,NA
+Department for Employment and Learning,government-organisation:D854,NA,NA
+"Department of Culture, Arts and Leisure",government-organisation:D853,NA,NA
+New Opportunities Fund,government-organisation:OT852,NA,NA
+Milk Development Council,government-organisation:OT851,NA,NA
+UK Film Council,government-organisation:OT850,NA,NA
+Livestock and Meat Commission for Northern Ireland,government-organisation:OT849,NA,NA
+Defence Transport and Movements Agency,government-organisation:EA848,NA,NA
+Appeals Service Agency,government-organisation:EA847,NA,NA
+Central Office of Information,government-organisation:OT846,NA,NA
+Pension Service,government-organisation:OT845,NA,NA
+UK Government Decontamination Service,government-organisation:EA844,NA,NA
+Marine Fisheries Agency,government-organisation:EA843,NA,NA
+Commission for Architecture and the Built Environment (CABE),government-organisation:PB842,NA,NA
+Council for the Central Laboratory of the Research Councils,government-organisation:OT841,NA,NA
+Thurrock Thames Gateway Development Corporation,government-organisation:OT840,NA,NA
+Northern Ireland Commissioner for Children and Young People,government-organisation:OT838,NA,NA
+Criminal Injuries Compensation Appeals Panel,government-organisation:OT837,NA,NA
+Defence Medical Education and Training Agency,government-organisation:EA836,NA,NA
+Housing Corporation,government-organisation:EA835,NA,NA
+Postal Services Commission,government-organisation:OT834,NA,NA
+English Nature,government-organisation:EA833,NA,NA
+Police Information Technology Organisation,government-organisation:EA832,NA,NA
+Roads Service,government-organisation:OT831,NA,NA
+Government Car and Despatch Agency,government-organisation:EA830,NA,NA
+Criminal Injuries Compensation Appeals Panel for Northern Ireland,government-organisation:EA829,NA,NA
+Northern Ireland Ombudsman,government-organisation:OT828,NA,NA
+Office of the Legal Services Ombudsman,government-organisation:OT827,NA,NA
+Public Lending Right Office,government-organisation:OT826,NA,NA
+Forest Service,government-organisation:OT825,NA,NA
+Commission for Social Care Inspection,government-organisation:OT824,NA,NA
+Disposal Services Agency,government-organisation:EA823,NA,NA
+Commission for Patient and Public Involvement in Health,government-organisation:OT822,NA,NA
+Central Science Laboratory,government-organisation:EA821,NA,NA
+Northern Ireland Tourist Board,government-organisation:OT820,NA,NA
+Central Police Training and Development Authority,government-organisation:OT819,NA,NA
+Disability and Carers Service,government-organisation:OT818,NA,NA
+OGCbuyingsolutions,government-organisation:OT817,NA,NA
+Army Base Repair Organisation,government-organisation:EA816,NA,NA
+Council for Healthcare Regulatory Excellence,government-organisation:OT814,NA,NA
+Defence Communication Services Agency,government-organisation:EA813,NA,NA
+Forensic Science Service,government-organisation:OT812,NA,NA
+H.M. Inspectorate of Court Administration,government-organisation:OT811,NA,NA
+Northern Ireland Child Support Agency,government-organisation:EA810,NA,NA
+General Consumer Council for Northern Ireland,government-organisation:OT809,NA,NA
+Driver and Vehicle Testing Agency,government-organisation:EA808,NA,NA
+Fisheries Conservancy Board for Northern Ireland,government-organisation:OT807,NA,NA
+Prescription Pricing Authority,government-organisation:OT806,NA,NA
+NHS Professionals,government-organisation:OT805,NA,NA
+NHS Logistics Authority,government-organisation:OT804,NA,NA
+NHS Institute for Innovation and Improvement,government-organisation:OT803,NA,NA
+NHS Direct National Health Service Trust,government-organisation:OT802,NA,NA
+NHS Appointments Commission,government-organisation:OT801,NA,NA
+Mental Health Act Commission,government-organisation:OT800,NA,NA
+Dental Vocational Training Authority,government-organisation:OT799,NA,NA
+Dental Practice Board,government-organisation:OT798,NA,NA
+Northern Ireland Prison Service,government-organisation:EA797,NA,NA
+Business Development Service,government-organisation:OT796,NA,NA
+Special EU Programmes Body,government-organisation:OT795,NA,NA
+Strategic Rail Authority,government-organisation:OT794,NA,NA
+Food from Britain,government-organisation:OT793,NA,NA
+Health Protection Agency,government-organisation:EA792,NA,NA
+Northern Ireland Health and Social Services Estates Agency,government-organisation:EA791,NA,NA
+Training and Development Agency for Schools,government-organisation:EA790,NA,NA
+Defence Storage and Distribution Agency,government-organisation:EA789,NA,NA
+Environment and Heritage Service,government-organisation:EA788,NA,NA
+Football Licensing Authority,government-organisation:OT787,NA,NA
+Adult Learning Inspectorate,government-organisation:OT786,NA,NA
+Defence Procurement Agency,government-organisation:EA785,NA,NA
+Veterinary Laboratories Agency,government-organisation:EA784,NA,NA
+Northern Ireland Legal Services Commission,government-organisation:OT783,NA,NA
+Zahid Mubarek Inquiry,government-organisation:OT782,NA,NA
+North East Education and Library Board,government-organisation:OT781,NA,NA
+Court of Judicature of Northern Ireland,government-organisation:OT780,NA,NA
+Equality Commission for Northern Ireland,government-organisation:OT779,NA,NA
+Council for Catholic Maintained Schools,government-organisation:OT778,NA,NA
+North Stockton Education Action Zone,government-organisation:OT777,NA,NA
+South Bradford Education Action Zone,government-organisation:OT776,NA,NA
+UK Transplant,government-organisation:OT775,NA,NA
+National Blood Authority,government-organisation:OT774,NA,NA
+Deepcut Review,government-organisation:OT773,NA,NA
+Criminal Justice Inspection Northern Ireland,government-organisation:OT772,NA,NA
+Building Research Establishment,government-organisation:EA771,NA,NA
+Northern Ireland Social Care Council,government-organisation:OT770,NA,NA
+Armagh Observatory and Planetarium,government-organisation:OT769,NA,NA
+East Cleveland Education Action Zone,government-organisation:OT768,NA,NA
+Speke Garston Education Action Zone,government-organisation:OT767,NA,NA
+Barrow Education Action Zone,government-organisation:OT766,NA,NA
+Learning and Skills Council,government-organisation:EA765,NA,NA
+Scottish Sports Council,government-organisation:EA764,NA,NA
+Scottish Arts Council,government-organisation:OT762,NA,NA
+Northern Ireland Authority for Energy Regulation,government-organisation:OT761,NA,NA
+Community Development Foundation,government-organisation:OT760,NA,NA
+Fire Authority for Northern Ireland,government-organisation:OT759,NA,NA
+Northern Ireland Local Government Officers' Superannuation Committee,government-organisation:OT758,NA,NA
+Home-Grown Cereals Authority,government-organisation:OT757,NA,NA
+Social Security Agency,government-organisation:EA756,NA,NA
+Crown Agents Holding and Realisation Board,government-organisation:OT754,NA,NA
+Department of Agriculture and Rural Development,government-organisation:D753,NA,NA
+Labour Relations Agency,government-organisation:EA752,NA,NA
+Staff Commission for Education and Library Boards,government-organisation:OT751,NA,NA
+"Department of Enterprise, Trade and Investment",government-organisation:D750,NA,NA
+Office of the First Minister and Deputy First Minister,government-organisation:OT749,NA,NA
+Department for Social Development,government-organisation:D748,NA,NA
+Department for Regional Development,government-organisation:D747,NA,NA
+"Department of Health, Social Services and Public Safety",government-organisation:D746,NA,NA
+Office of the Oversight Commissioner,government-organisation:OT745,NA,NA
+Office of the Chief Electoral Officer for Northern Ireland,government-organisation:OT744,NA,NA
+Community Fund,government-organisation:OT743,NA,NA
+H.M. Customs and Excise,government-organisation:OT742,NA,NA
+General Social Care Council,government-organisation:OT741,NA,NA
+Arts Council of Northern Ireland,government-organisation:EA740,NA,NA
+Plymouth Education Action Zone,government-organisation:OT739,NA,NA
+Heart of Slough Education Action Zone,government-organisation:OT738,NA,NA
+South East England Virtual Education Action Zone,government-organisation:OT737,NA,NA
+Great Yarmouth Education Action Zone,government-organisation:OT736,NA,NA
+Warship Support Agency,government-organisation:EA735,NA,NA
+Sports Council for Wales,government-organisation:OT734,NA,NA
+Gas and Electricity Consumer Council (Energywatch),government-organisation:OT733,NA,NA
+Consumer Council for Postal Services,government-organisation:OT732,NA,NA
+Arts Council of Wales,government-organisation:OT731,NA,NA
+National Radiological Protection Board,government-organisation:OT730,NA,NA
+Countryside Agency,government-organisation:EA729,NA,NA
+Police Complaints Authority,government-organisation:OT727,NA,NA
+Criminal Records Bureau,government-organisation:OT726,NA,NA
+Northern Ireland Court Service,government-organisation:EA725,NA,NA
+Hearing Aid Council,government-organisation:OT724,NA,NA
+National Probation Service,government-organisation:OT723,NA,NA
+South East Sheffield Education Action Zone,government-organisation:OT722,NA,NA
+Alcohol Education and Research Council,government-organisation:OT721,NA,NA
+Defence Intelligence and Security Centre,government-organisation:OT720,NA,NA
+Millennium Commission,government-organisation:OT719,NA,NA
+UK Passport Service,government-organisation:OT718,NA,NA
+Defence Aviation Repair Agency,government-organisation:EA717,NA,NA
+NHS Purchasing and Supply Agency,government-organisation:EA716,NA,NA
+General Teaching Council for England,government-organisation:EA715,NA,NA
+Planning Service,government-organisation:OT714,NA,NA
+Defence Estates,government-organisation:OT713,NA,NA
+National Weights and Measures Laboratory,government-organisation:OT712,NA,NA
+Disability Rights Commission,government-organisation:OT711,NA,NA
+Equal Opportunities Commission,government-organisation:OT710,NA,NA
+NHS Estates,government-organisation:OT709,NA,NA
+Wakefield Education Action Zone,government-organisation:OT708,NA,NA
+Compensation Agency,government-organisation:EA707,NA,NA
+Armed Forces Personnel Administration Agency,government-organisation:EA706,NA,NA
+Medical Supplies Agency,government-organisation:EA705,NA,NA
+National Criminal Intelligence Service,government-organisation:EA704,NA,NA
+National Crime Squad,government-organisation:OT703,NA,NA
+Dingle Granby Toxteth Education Action Zone,government-organisation:OT702,NA,NA
+Northern Ireland Statistics and Research Agency,government-organisation:EA701,NA,NA
+Land Registers of Northern Ireland,government-organisation:EA700,NA,NA
+Assets Recovery Agency,government-organisation:EA698,NA,NA
+Youth Justice Agency of Northern Ireland,government-organisation:EA697,NA,NA
+Forensic Science Northern Ireland,government-organisation:EA696,NA,NA
+Ordnance Survey of Northern Ireland,government-organisation:EA695,NA,NA
+Sports Council for Northern Ireland,government-organisation:OT694,NA,NA
+Ministry of Defence Police and Guarding Agency,government-organisation:EA693,NA,NA
+National Treatment Agency for Substance Misuse,government-organisation:EA692,NA,NA
+Family Health Services Appeal Authority,government-organisation:OT691,NA,NA
+Counter Fraud and Security Management Service,government-organisation:OT690,NA,NA
+Water Service (Northern Ireland),government-organisation:EA689,NA,NA
+Sentence Review Commissioners,government-organisation:OT688,NA,NA
+Valuation and Lands Agency,government-organisation:EA687,NA,NA
+H.M. Inspectorate of Explosives for Northern Ireland,government-organisation:OT686,NA,NA
+Defence Analytical Services Agency,government-organisation:EA685,NA,NA
+Bridgwater Education Action Zone,government-organisation:OT684,NA,NA
+Commission for Health Improvement,government-organisation:OT683,NA,NA
+Hybu Cig Cymru - Meat Promotion Wales,government-organisation:OT681,NA,NA
+Kent and Somerset Education Action Zone,government-organisation:OT680,NA,NA
+Hastings and St Leonards Education Action Zone,government-organisation:OT679,NA,NA
+Hackney Education Action Zone,government-organisation:OT678,NA,NA
+Clacton and Harwich Education Action Zone,government-organisation:OT677,NA,NA
+Commission for Racial Equality,government-organisation:OT676,NA,NA
+Northern Ireland Social Security Agency,government-organisation:EA675,NA,NA
+East Manchester Education Action Zone,government-organisation:OT674,NA,NA
+Gloucester Education Action Zone,government-organisation:OT673,NA,NA
+North Gillingham Education Action Zone,government-organisation:OT672,NA,NA
+Coventry Education Action Zone,government-organisation:OT671,NA,NA
+"Camborne, Pool and Redruth Education Action Zone",government-organisation:OT670,NA,NA
+Ellesmere Port Education Action Zone,government-organisation:OT669,NA,NA
+Wythenshawe Education Action Zone,government-organisation:OT668,NA,NA
+North West Shropshire Education Action Zone,government-organisation:OT667,NA,NA
+Bristol Education Action Zone,government-organisation:OT666,NA,NA
+Corby Education Action Zone,government-organisation:OT665,NA,NA
+Downham and Bellingham Education Action Zone,government-organisation:OT664,NA,NA
+Leigh Park Education Action Zone,government-organisation:OT663,NA,NA
+Bedford Education Action Zone,government-organisation:OT662,NA,NA
+Parliamentary Contributory Pension Fund,government-organisation:OT661,NA,NA
+Public Health Laboratory Service Board,government-organisation:EA660,NA,NA
+Probation Board for Northern Ireland,government-organisation:OT659,NA,NA
+"National Endowment for Science, Technology and the Arts",government-organisation:OT658,NA,NA
+Police Service of Northern Ireland,government-organisation:OT657,NA,NA
+National Biological Standards Board,government-organisation:EA656,NA,NA
+Southend Education Action Zone,government-organisation:OT655,NA,NA
+Peterlee Education Action Zone,government-organisation:OT654,NA,NA
+Sunderland Education Action Zone,government-organisation:OT653,NA,NA
+Stoke Education Action Zone,government-organisation:OT652,NA,NA
+North Islington Education Action Zone,government-organisation:OT651,NA,NA
+Easington and Seaham Education Action Zone,government-organisation:OT650,NA,NA
+Northern Ireland Policing Board,government-organisation:OT649,NA,NA
+Withernsea and Southern Holderness Education Action Zone,government-organisation:OT648,NA,NA
+Telford and Wrekin Education Action Zone,government-organisation:OT647,NA,NA
+North East Derbyshire Coalfields Education Action Zone,government-organisation:OT646,NA,NA
+Westminster Education Action Zone,government-organisation:OT645,NA,NA
+"Northern Ireland Council for the Curriculum, Examinations and Assessment",government-organisation:OT644,NA,NA
+Dudley Education Action Zone,government-organisation:OT643,NA,NA
+Scottish Screen,government-organisation:OT642,NA,NA
+Hamilton Oxford Education Action Zone,government-organisation:OT641,NA,NA
+Bolton Education Action Zone,government-organisation:OT640,NA,NA
+Wednesbury Education Action Zone,government-organisation:OT639,NA,NA
+Wolverhampton Education Action Zone,government-organisation:OT638,NA,NA
+Greenwich Education Action Zone,government-organisation:OT637,NA,NA
+Office of the Police Ombudsman for Northern Ireland,government-organisation:OT636,NA,NA
+Equitable Life Inquiry,government-organisation:OT635,NA,NA
+Northern Ireland Audit Office,government-organisation:OT634,NA,NA
+NHS Pensions Agency,government-organisation:EA633,NA,NA
+Kitts Green and Shard End Education Action Zone,government-organisation:OT632,NA,NA
+Department of Inland Revenue,government-organisation:D631,NA,NA
+Rivers Agency,government-organisation:EA630,NA,NA
+National Care Standards Commission,government-organisation:OT629,NA,NA
+Derby North East Education Action Zone,government-organisation:OT628,NA,NA
+Public Accounts Commission,government-organisation:OT627,NA,NA
+Gaming Board for Great Britain,government-organisation:OT626,NA,NA
+Qualifications and Curriculum Authority,government-organisation:EA624,NA,NA
+Royal Liverpool Childrens Inquiry,government-organisation:OT622,NA,NA
+Independent Review of Police Officer and Staff Remuneration and Conditions,government-organisation:OT619,NA,NA
+Office of HM Paymaster General,government-organisation:OT618,NA,NA
+Independent Review of the UK Postal Services Sector,government-organisation:OT616,NA,NA
+Independent Monitoring Commission,government-organisation:OT615,NA,NA
+Statistics Commission,government-organisation:OT614,NA,NA
+Scottish Law Commission,government-organisation:OT612,NA,NA
+"Department for Business, Enterprise and Regulatory Reform",government-organisation:D611,NA,NA
+Office for Criminal Justice Reform,government-organisation:OT610,NA,NA
+"Department for Children, Schools and Families",government-organisation:D609,NA,NA
+"Department for Innovation, Universities and Skills",government-organisation:D608,NA,NA
+Royal Commission on Environmental Pollution,government-organisation:OT606,NA,NA
+Department of Finance and Personnel for Northern Ireland,government-organisation:D605,NA,NA
+Review Body for Nursing and Other Health Professions,government-organisation:OT604,NA,NA
+HM Courts Service,government-organisation:EA601,NA,NA
+Office of the Legal Services Complaints Commissioner,government-organisation:OT600,NA,NA
+Kerr / Haslam Inquiry,government-organisation:OT599,NA,NA
+Department of Constitutional Affairs,government-organisation:D598,NA,NA
+Shipman Inquiry,government-organisation:OT597,NA,NA
+Victoria Climbié Inquiry,government-organisation:OT596,NA,NA
+Lord Chancellor's Department,government-organisation:D595,NA,NA
+Board of Inland Revenue,government-organisation:OT594,NA,NA
+Royal Commission on Criminal Justice,government-organisation:OT593,NA,NA
+Monopolies and Mergers Commission,government-organisation:OT592,NA,NA
+Department of the Environment (Northern Ireland),government-organisation:D591,NA,NA
+Welsh Office,government-organisation:OT590,NA,NA
+Animal Procedures Committee,government-organisation:OT589,NA,NA
+Firearms Consultative Committee,government-organisation:OT588,NA,NA
+Department for Constitutional Affairs,government-organisation:D587,NA,NA
+Department of Trade and Industry,government-organisation:D586,NA,NA
+Department of Education (Northern Ireland),government-organisation:D585,NA,NA
+Department of Social Security,government-organisation:D584,NA,NA
+Department for Education and Skills,government-organisation:D583,NA,NA
+Scottish Office,government-organisation:D582,NA,NA
+Queen's Harbour Master,government-organisation:OT581,NA,NA
+National Crime Agency Remuneration Review Body,government-organisation:PB580,NA,NA
+Independent Case Examiner,government-organisation:OT579,NA,NA
+Social Science Research Committee,government-organisation:PB578,NA,NA
+General Advisory Committee on Science,government-organisation:PB577,NA,NA
+"Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment",government-organisation:PB576,NA,NA
+Advisory Committee on the Microbiological Safety of Food,government-organisation:PB575,NA,NA
+Advisory Committee on Novel Foods and Processes,government-organisation:PB574,NA,NA
+Advisory Committee on Animal Feedingstuffs,government-organisation:PB573,NA,NA
+Wave Hub,government-organisation:OT572,NA,NA
+Tate,government-organisation:PB571,NA,NA
+Driver and Vehicle Standards Agency,government-organisation:EA570,NA,NA
+Better Regulation Delivery Office,government-organisation:OT569,NA,NA
+Centre for the Protection of National Infrastructure,government-organisation:OT567,NA,NA
+Open Public Services,government-organisation:OT566,NA,NA
+Morecambe Bay Investigation,government-organisation:OT565,NA,NA
+Bona Vacantia,government-organisation:OT564,NA,NA
+CESG,government-organisation:OT563,NA,NA
+Healthcare UK,government-organisation:OT559,NA,NA
+National Crime Agency,government-organisation:PB558,NA,NA
+Export Control Organisation,government-organisation:OT557,NA,NA
+Legal Aid Agency,government-organisation:EA556,NA,NA
+Government Office for Science,government-organisation:OT555,NA,NA
+UK Visas and Immigration,government-organisation:OT554,NA,NA
+Office of the Regulator of Community Interest Companies,government-organisation:OT553,NA,NA
+Surveillance Camera Commissioner,government-organisation:OT552,NA,NA
+Groceries Code Adjudicator,government-organisation:OT551,NA,NA
+Competition and Markets Authority,government-organisation:D550,NA,NA
+Government Estates Management,government-organisation:OT549,NA,NA
+Biometrics Commissioner,government-organisation:OT548,NA,NA
+Yorkshire Dales National Park Authority,government-organisation:OT547,NA,NA
+South Downs National Park Authority,government-organisation:OT546,NA,NA
+Peak District National Park Authority,government-organisation:OT545,NA,NA
+Northumberland National Park Authority,government-organisation:OT543,NA,NA
+National College for Teaching and Leadership,government-organisation:EA541,NA,NA
+Infrastructure UK,government-organisation:OT540,NA,NA
+Health Education England,government-organisation:OT539,NA,NA
+Health and Social Care Information Centre,government-organisation:OT538,NA,NA
+Deputy Prime Minister's Office,government-organisation:OT537,NA,NA
+Forensic Science Regulator,government-organisation:OT536,NA,NA
+Border Force,government-organisation:OT535,NA,NA
+Animals in Science Committee,government-organisation:PB534,NA,NA
+Broadmoor Hospital investigation,government-organisation:OT533,NA,NA
+"Prime Minister's Office, 10 Downing Street",government-organisation:OT532,NA,NA
+NHS Pay Review Body,government-organisation:PB531,NA,NA
+Review Body on Doctors' and Dentists' Remuneration,government-organisation:PB530,NA,NA
+NHS Business Services Authority,government-organisation:OT529,NA,NA
+Independent Reconfiguration Panel,government-organisation:PB527,NA,NA
+"Committee on Mutagenicity of Chemicals in Food, Consumer Products and the Environment",government-organisation:PB526,NA,NA
+Commission on Human Medicines,government-organisation:PB525,NA,NA
+British Pharmacopoeia Commission,government-organisation:PB524,NA,NA
+Administration of Radioactive Substances Advisory Committee,government-organisation:PB523,NA,NA
+Advisory Committee on Clinical Excellence Awards,government-organisation:OT522,NA,NA
+Insolvency Practitioners Tribunal,government-organisation:PB521,NA,NA
+Behavioural Insights Team,government-organisation:OT520,NA,NA
+The Parliamentary and Health Service Ombudsman,government-organisation:OT519,NA,NA
+The McKay Commission,government-organisation:OT518,NA,NA
+Commissioner for Public Appointments,government-organisation:OT517,NA,NA
+Criminal Procedure Rule Committee,government-organisation:PB516,NA,NA
+Office of the Parliamentary Counsel,government-organisation:OT515,NA,NA
+Office for Low Emission Vehicles,government-organisation:OT514,NA,NA
+Interception of Communications Commissioner,government-organisation:OT513,NA,NA
+Intelligence Services Commissioner,government-organisation:OT512,NA,NA
+Independent Reviewer of Terrorism Legislation,government-organisation:OT511,NA,NA
+Social Mobility and Child Poverty Commission,government-organisation:PB510,NA,NA
+Disclosure and Barring Service,government-organisation:PB509,NA,NA
+Board of Trustees of the Royal Botanic Gardens Kew,government-organisation:PB508,NA,NA
+Efficiency and Reform Group,government-organisation:OT507,NA,NA
+Government Equalities Office,government-organisation:OT506,NA,NA
+National security and intelligence,government-organisation:OT505,NA,NA
+Chief Fire and Rescue Adviser,government-organisation:OT504,NA,NA
+Local Government Ombudsman,government-organisation:PB503,NA,NA
+Office for Life Sciences,government-organisation:OT502,NA,NA
+West Northamptonshire Development Corporation,government-organisation:PB501,NA,NA
+The Shareholder Executive,government-organisation:PB500,NA,NA
+Joint Forces Command,government-organisation:OT498,NA,NA
+Defence Infrastructure Organisation,government-organisation:OT496,NA,NA
+Defence Equipment and Support,government-organisation:OT495,NA,NA
+Airports Commission,government-organisation:OT494,NA,NA
+London and Continental Railways Ltd,government-organisation:PC493,NA,NA
+Chevening Scholarship Programme,government-organisation:OT492,NA,NA
+Advisory Panel on Public Sector Information,government-organisation:PB491,NA,NA
+NHS Litigation Authority,government-organisation:OT488,NA,NA
+NHS Blood and Transplant,government-organisation:OT486,NA,NA
+NHS Trust Development Authority,government-organisation:OT484,NA,NA
+Health Research Authority,government-organisation:OT483,NA,NA
+NHS England,government-organisation:PB481,NA,NA
+Public Health England,government-organisation:EA480,NA,NA
+Review Board for Government Contracts,government-organisation:PB477,NA,NA
+National Institute for Health and Care Excellence,government-organisation:PB474,NA,NA
+Marine Accident Investigation Branch,government-organisation:PC472,NA,NA
+Civil Aviation Authority,government-organisation:PC469,NA,NA
+Trust ports,government-organisation:PC468,NA,NA
+BRB (Residuary) Ltd,government-organisation:PC467,NA,NA
+Railway Heritage Committee,government-organisation:PB466,NA,NA
+Traffic Commissioners for Great Britain,government-organisation:PB465,NA,NA
+Passenger Focus,government-organisation:PB464,NA,NA
+Northern Lighthouse Board,government-organisation:PB463,NA,NA
+Trinity House,government-organisation:PB462,NA,NA
+British Transport Police Authority,government-organisation:PB461,NA,NA
+High Speed Two (HS2) Limited,government-organisation:PB460,NA,NA
+Directly Operated Railways Limited,government-organisation:PB459,NA,NA
+Police Negotiating Board,government-organisation:PB458,NA,NA
+Office of Surveillance Commissioners,government-organisation:PB457,NA,NA
+Independent Police Complaints Commission,government-organisation:PB456,NA,NA
+Tribunal Procedure Committee,government-organisation:PB448,NA,NA
+Prison Service Pay Review Body,government-organisation:PB446,NA,NA
+Insolvency Rules Committee,government-organisation:PB445,NA,NA
+"Independent Monitoring Boards of Prisons, Immigration, Removal Centres and Short Term Holding Rooms",government-organisation:OT444,NA,NA
+Independent Advisory Panel on Deaths in Custody,government-organisation:PB443,NA,NA
+Family Procedure Rule Committee,government-organisation:PB442,NA,NA
+Family Justice Council,government-organisation:PB441,NA,NA
+Civil Procedure Rule Committee,government-organisation:PB440,NA,NA
+The Advisory Council on National Records and Archives,government-organisation:PB438,NA,NA
+Advisory Committees on Justices of the Peace,government-organisation:PB437,NA,NA
+Administrative Justice and Tribunals Council,government-organisation:PB436,NA,NA
+Supreme Court of the United Kingdom,government-organisation:D435,NA,NA
+Royal Mint Advisory Committee,government-organisation:PB434,NA,NA
+The Adjudicator’s Office,government-organisation:OT433,NA,NA
+Boundary Commission for Wales,government-organisation:OT432,NA,NA
+Boundary Commission for Scotland,government-organisation:OT431,NA,NA
+Parades Commission for Northern Ireland,government-organisation:OT430,NA,NA
+Northern Ireland Human Rights Commission,government-organisation:OT429,NA,NA
+Boundary Commission for Northern Ireland,government-organisation:OT428,NA,NA
+BBC World Service,government-organisation:PC427,NA,NA
+Great Britain-China Centre,government-organisation:PB426,NA,NA
+Drinking Water Inspectorate,government-organisation:OT425,NA,NA
+Plant Varieties and Seeds Tribunal,government-organisation:PB423,NA,NA
+Agricultural Dwelling House Advisory Committees (x16),government-organisation:PB421,NA,NA
+Agricultural Wages Committee,government-organisation:PB420,NA,NA
+National Forest Company,government-organisation:PB415,NA,NA
+School Teachers' Review Body,government-organisation:PB414,NA,NA
+Office of the Children's Commissioner,government-organisation:PB413,NA,NA
+Defence Sixth Form College,government-organisation:OT411,NA,NA
+Royal Navy Submarine Museum,government-organisation:OT409,NA,NA
+"Defence, Press and Broadcasting Advisory Committee",government-organisation:OT408,NA,NA
+Service Prosecuting Authority,government-organisation:OT406,NA,NA
+Defence Academy of the United Kingdom,government-organisation:OT405,NA,NA
+Service Complaints Commissioner,government-organisation:OT404,NA,NA
+Veterans Advisory and Pensions Committees,government-organisation:PB403,NA,NA
+Scientific Advisory Committee on the Medical Implications of Less-Lethal Weapons,government-organisation:PB402,NA,NA
+The Oil and Pipelines Agency,government-organisation:PB401,NA,NA
+Nuclear Research Advisory Council,government-organisation:PB400,NA,NA
+National Employer Advisory Board,government-organisation:PB399,NA,NA
+Defence Scientific Advisory Council,government-organisation:PB397,NA,NA
+Defence Nuclear Safety Committee,government-organisation:PB396,NA,NA
+Central Advisory Committee on Pensions and Compensation,government-organisation:PB395,NA,NA
+Armed Forces' Pay Review Body,government-organisation:PB394,NA,NA
+Advisory Group on Military Medicine,government-organisation:PB393,NA,NA
+Advisory Committee on Conscientious Objectors,government-organisation:PB392,NA,NA
+Heritage Lottery Fund (administered by the NHMF),government-organisation:PC390,NA,NA
+Historic Royal Palaces,government-organisation:PC389,NA,NA
+BBC,government-organisation:PC388,NA,NA
+S4C,government-organisation:PC387,NA,NA
+Channel 4,government-organisation:PC386,NA,NA
+Ofcom,government-organisation:OT385,NA,NA
+Treasure Valuation Committee,government-organisation:PB383,NA,NA
+The Reviewing Committee on the Export of Works of Art and Objects of Cultural Interest,government-organisation:PB382,NA,NA
+The Theatres Trust,government-organisation:PB380,NA,NA
+Victoria and Albert Museum,government-organisation:PB378,NA,NA
+UK Anti-Doping,government-organisation:PB377,NA,NA
+VisitEngland,government-organisation:PB376,NA,NA
+Valuation Tribunal Service,government-organisation:PB375,NA,NA
+London Thames Gateway Development Corporation,government-organisation:PB374,NA,NA
+Leasehold Advisory Service,government-organisation:PB373,NA,NA
+Housing Ombudsman,government-organisation:PB372,NA,NA
+Senior Salaries Review Body,government-organisation:PB368,NA,NA
+Security Vetting Appeals Panel,government-organisation:PB367,NA,NA
+Civil Service Commission,government-organisation:PB366,NA,NA
+Government Procurement Service,government-organisation:EA365,NA,NA
+UK Green Investment Bank,government-organisation:OT360,NA,NA
+Land Registration Rule Committee,government-organisation:PB358,NA,NA
+Export Guarantees Advisory Council,government-organisation:PB357,NA,NA
+Consumer Futures,government-organisation:PB356,NA,NA
+Copyright Tribunal,government-organisation:PB355,NA,NA
+Regulatory Policy Committee,government-organisation:PB354,NA,NA
+Competition Commission,government-organisation:PB353,NA,NA
+Office of Fair Trading,government-organisation:D352,NA,NA
+Remploy Ltd,government-organisation:PB350,NA,NA
+Independent Living Fund,government-organisation:PB349,NA,NA
+Pension Protection Fund,government-organisation:PB348,NA,NA
+HM Crown Prosecution Service Inspectorate,government-organisation:OT347,NA,NA
+Audit Commission,government-organisation:PC343,NA,NA
+Privy Council Office,government-organisation:OT342,NA,NA
+House of Lords Appointments Commission,government-organisation:IM341,NA,NA
+Boundary Commission for England,government-organisation:PB337,NA,NA
+Advisory Committee on Business Appointments,government-organisation:PB336,NA,NA
+Independent Commission for Aid Impact,government-organisation:IM335,NA,NA
+Judicial Appointments and Conduct Ombudsman,government-organisation:IM333,NA,NA
+Legal Services Board,government-organisation:IM332,NA,NA
+The Legal Ombudsman,government-organisation:IM329,NA,NA
+Official Solicitor and Public Trustee,government-organisation:OT328,NA,NA
+Prisons and Probation Ombudsman,government-organisation:IM327,NA,NA
+Victims' Commissioner,government-organisation:PB326,NA,NA
+HM Inspectorate of Probation,government-organisation:IM325,NA,NA
+HM Inspectorate of Prisons,government-organisation:IM324,NA,NA
+HM Prison Service,government-organisation:EA321,NA,NA
+Criminal Cases Review Commission,government-organisation:IM320,NA,NA
+Competition Service,government-organisation:PB318,NA,NA
+Biotechnology and Biological Sciences Research Council,government-organisation:PB317,NA,NA
+Westminster Foundation for Democracy,government-organisation:OT316,NA,NA
+Marshall Aid Commemoration Commission,government-organisation:OT315,NA,NA
+British Council,government-organisation:OT313,NA,NA
+Fleet Air Arm Museum,government-organisation:PB311,NA,NA
+Royal Marines Museum,government-organisation:PB310,NA,NA
+Royal Air Force Museum,government-organisation:PB308,NA,NA
+National Army Museum,government-organisation:PB307,NA,NA
+Government Communications Headquarters,government-organisation:OT306,NA,NA
+Secret Intelligence Service,government-organisation:OT305,NA,NA
+The Security Service,government-organisation:OT304,NA,NA
+Office for National Statistics,government-organisation:D303,NA,NA
+Youth Justice Board for England and Wales,government-organisation:PB302,NA,NA
+Parole Board,government-organisation:PB301,NA,NA
+Legal Services Commission,government-organisation:PB300,NA,NA
+Judicial Appointments Commission,government-organisation:PB299,NA,NA
+Information Commissioner's Office,government-organisation:PB298,NA,NA
+Criminal Injuries Compensation Authority,government-organisation:PB297,NA,NA
+Victims' Advisory Panel,government-organisation:PB296,NA,NA
+Sentencing Council for England and Wales,government-organisation:PB295,NA,NA
+Law Commission,government-organisation:PB294,NA,NA
+Civil Justice Council,government-organisation:PB293,NA,NA
+Royal Museums Greenwich,government-organisation:PB291,NA,NA
+National Museum of the Royal Navy,government-organisation:PB290,NA,NA
+Independent Chief Inspector of Borders and Immigration,government-organisation:OT284,NA,NA
+HM Inspectorate of Constabulary,government-organisation:OT281,NA,NA
+Police Discipline Appeals Tribunal,government-organisation:PB278,NA,NA
+Police Arbitration Tribunal,government-organisation:PB277,NA,NA
+National DNA Database Ethics Group,government-organisation:PB276,NA,NA
+Migration Advisory Committee,government-organisation:PB275,NA,NA
+Technical Advisory Board,government-organisation:PB274,NA,NA
+Police Advisory Board for England and Wales,government-organisation:PB273,NA,NA
+Advisory Council on the Misuse of Drugs,government-organisation:PB271,NA,NA
+Investigatory Powers Tribunal,government-organisation:PB270,NA,NA
+Equality and Human Rights Commission,government-organisation:OT269,NA,NA
+Office of Manpower Economics,government-organisation:PB266,NA,NA
+Serious Organised Crime Agency,government-organisation:PB265,NA,NA
+Security Industry Authority,government-organisation:PB264,NA,NA
+Office of the Immigration Services Commissioner,government-organisation:PB263,NA,NA
+Office of Tax Simplification,government-organisation:OT261,NA,NA
+Office for Budget Responsibility,government-organisation:PB260,NA,NA
+UK Financial Investments Limited,government-organisation:PC259,NA,NA
+Foreign Compensation Commission,government-organisation:PB257,NA,NA
+Monitor,government-organisation:PB255,NA,NA
+Human Tissue Authority,government-organisation:PB254,NA,NA
+Human Fertilisation and Embryology Authority,government-organisation:PB253,NA,NA
+Care Quality Commission,government-organisation:PB251,NA,NA
+Rail Accident Investigation Branch,government-organisation:OT249,NA,NA
+Air Accidents Investigation Branch,government-organisation:OT248,NA,NA
+Disabled Persons Transport Advisory Committee,government-organisation:PB247,NA,NA
+The Children and Family Court Advisory and Support Service,government-organisation:PB246,NA,NA
+Standards and Testing Agency,government-organisation:EA243,NA,NA
+Education Funding Agency,government-organisation:EA242,NA,NA
+UK Export Finance,government-organisation:D241,NA,NA
+The Water Services Regulation Authority,government-organisation:D240,NA,NA
+National Employment Savings Trust (NEST) Corporation,government-organisation:OT237,NA,NA
+Pensions Ombudsman,government-organisation:PB236,NA,NA
+Pension Protection Fund Ombudsman,government-organisation:PB235,NA,NA
+The Pensions Regulator,government-organisation:PB234,NA,NA
+The Pensions Advisory Service,government-organisation:PB233,NA,NA
+Social Security Advisory Committee,government-organisation:PB232,NA,NA
+Industrial Injuries Advisory Council,government-organisation:PB231,NA,NA
+Equality 2025,government-organisation:PB230,NA,NA
+Commonwealth Scholarship Commission in the UK,government-organisation:PB226,NA,NA
+North York Moors National Park Authority,government-organisation:OT223,NA,NA
+New Forest National Park Authority,government-organisation:OT222,NA,NA
+Lake District National Park Authority,government-organisation:OT220,NA,NA
+Exmoor National Park Authority,government-organisation:OT219,NA,NA
+Dartmoor National Park Authority,government-organisation:OT217,NA,NA
+Broads Authority,government-organisation:OT216,NA,NA
+Covent Garden Market Authority,government-organisation:OT214,NA,NA
+Veterinary Products Committee,government-organisation:PB212,NA,NA
+Science Advisory Council,government-organisation:PB211,NA,NA
+Independent Agricultural Appeals Panel,government-organisation:PB210,NA,NA
+Advisory Committee on Releases to the Environment,government-organisation:PB209,NA,NA
+Advisory Committee on Pesticides,government-organisation:PB208,NA,NA
+Health and Safety Executive,government-organisation:PB207,NA,NA
+Sea Fish Industry Authority,government-organisation:OT205,NA,NA
+Agriculture and Horticulture Development Board,government-organisation:OT204,NA,NA
+Natural England,government-organisation:PB202,NA,NA
+Joint Nature Conservation Committee,government-organisation:PB201,NA,NA
+Gangmasters Licensing Authority,government-organisation:PB200,NA,NA
+Environment Agency,government-organisation:EA199,NA,NA
+Consumer Council for Water,government-organisation:PB198,NA,NA
+Nuclear Decommissioning Authority,government-organisation:PB197,NA,NA
+Committee on Climate Change,government-organisation:PB196,NA,NA
+Coal Authority,government-organisation:PB195,NA,NA
+Civil Nuclear Police Authority,government-organisation:PB194,NA,NA
+Nuclear Liabilities Financing Assurance Board,government-organisation:PB193,NA,NA
+Fuel Poverty Advisory Group,government-organisation:PB192,NA,NA
+Committee on Radioactive Waste Management,government-organisation:PB191,NA,NA
+Sport England,government-organisation:PB190,NA,NA
+British Film Institute,government-organisation:PB189,NA,NA
+Big Lottery Fund,government-organisation:PB188,NA,NA
+Wallace Collection,government-organisation:PB187,NA,NA
+VisitBritain,government-organisation:PB186,NA,NA
+UK Sport,government-organisation:PB185,NA,NA
+Sports Grounds Safety Authority,government-organisation:PB184,NA,NA
+Sir John Soane's Museum,government-organisation:PB183,NA,NA
+Royal Armouries Museum,government-organisation:PB182,NA,NA
+Olympic Delivery Authority,government-organisation:PB181,NA,NA
+Natural History Museum,government-organisation:PB180,NA,NA
+National Portrait Gallery,government-organisation:PB179,NA,NA
+National Museums Liverpool,government-organisation:PB178,NA,NA
+Science Museum Group,government-organisation:PB177,NA,NA
+National Heritage Memorial Fund,government-organisation:PB175,NA,NA
+National Gallery,government-organisation:PB174,NA,NA
+Imperial War Museum,government-organisation:PB172,NA,NA
+Horniman Public Museum and Public Park Trust,government-organisation:PB171,NA,NA
+Geffrye Museum,government-organisation:PB170,NA,NA
+Gambling Commission,government-organisation:PB169,NA,NA
+English Heritage,government-organisation:PB168,NA,NA
+British Museum,government-organisation:PB167,NA,NA
+British Library,government-organisation:PB166,NA,NA
+Arts Council England,government-organisation:PB165,NA,NA
+Architects Registration Board,government-organisation:PC163,NA,NA
+Homes and Communities Agency,government-organisation:PB161,NA,NA
+Building Regulations Advisory Committee,government-organisation:PB160,NA,NA
+Committee on Standards in Public Life,government-organisation:PB158,NA,NA
+Industrial Development Advisory Board,government-organisation:OT152,NA,NA
+Central Arbitration Committee,government-organisation:PB148,NA,NA
+Capital for Enterprise Limited,government-organisation:PB147,NA,NA
+Competition Appeal Tribunal,government-organisation:PB140,NA,NA
+Certification Officer,government-organisation:PB139,NA,NA
+UK Commission for Employment and Skills,government-organisation:PB138,NA,NA
+UK Atomic Energy Authority,government-organisation:PB137,NA,NA
+Technology Strategy Board,government-organisation:PB136,NA,NA
+Science and Technology Facilities Council,government-organisation:PB135,NA,NA
+Office for Fair Access,government-organisation:PB134,NA,NA
+Natural Environment Research Council,government-organisation:PB133,NA,NA
+Medical Research Council,government-organisation:PB132,NA,NA
+Engineering Construction Industry Training Board,government-organisation:PB131,NA,NA
+Engineering and Physical Sciences Research Council,government-organisation:PB130,NA,NA
+Economic and Social Research Council,government-organisation:PB129,NA,NA
+Construction Industry Training Board,government-organisation:PB126,NA,NA
+British Hallmarking Council,government-organisation:PB124,NA,NA
+Arts and Humanities Research Council,government-organisation:PB123,NA,NA
+Low Pay Commission,government-organisation:PB122,NA,NA
+Council for Science and Technology,government-organisation:PB121,NA,NA
+Higher Education Funding Council for England,government-organisation:PB120,NA,NA
+Horserace Betting Levy Board,government-organisation:PB118,NA,NA
+UK Trade & Investment,government-organisation:D117,NA,NA
+UK Statistics Authority,government-organisation:D116,NA,NA
+Serious Fraud Office,government-organisation:D115,NA,NA
+Royal Mint,government-organisation:EA114,NA,NA
+Office of Rail Regulation,government-organisation:D110,NA,NA
+Ofqual,government-organisation:D109,NA,NA
+Ofgem,government-organisation:D108,NA,NA
+Ofsted,government-organisation:D106,NA,NA
+NS&I,government-organisation:EA104,NA,NA
+Government Actuary's Department,government-organisation:D103,NA,NA
+Food Standards Agency,government-organisation:D102,NA,NA
+Crown Prosecution Service,government-organisation:D101,NA,NA
+The Crown Estate,government-organisation:OT100,NA,NA
+The Charity Commission,government-organisation:D98,NA,NA
+Valuation Office Agency,government-organisation:EA87,NA,NA
+Skills Funding Agency,government-organisation:EA86,NA,NA
+Forestry Commission,government-organisation:D85,NA,NA
+UK Debt Management Office,government-organisation:EA82,NA,NA
+Vehicle Certification Agency,government-organisation:EA80,NA,NA
+Vehicle and Operator Services Agency,government-organisation:EA79,NA,NA
+Maritime and Coastguard Agency,government-organisation:EA78,NA,NA
+Highways Agency,government-organisation:EA77,NA,NA
+Driving Standards Agency,government-organisation:EA75,NA,NA
+Driver and Vehicle Licensing Agency,government-organisation:EA74,NA,NA
+HM Courts & Tribunals Service,government-organisation:EA73,NA,NA
+Office of the Public Guardian,government-organisation:EA72,NA,NA
+The National Archives,government-organisation:EA71,NA,NA
+National Offender Management Service,government-organisation:EA70,NA,NA
+HM Land Registry,government-organisation:D69,NA,NA
+UK Border Agency,government-organisation:EA67,NA,NA
+HM Passport Office,government-organisation:EA66,NA,NA
+Medicines and Healthcare products Regulatory Agency,government-organisation:EA63,NA,NA
+Wilton Park,government-organisation:EA62,NA,NA
+FCO Services,government-organisation:EA61,NA,NA
+Veterinary Medicines Directorate,government-organisation:EA60,NA,NA
+Rural Payments Agency,government-organisation:EA58,NA,NA
+Marine Management Organisation,government-organisation:PB57,NA,NA
+The Food and Environment Research Agency,government-organisation:EA56,NA,NA
+Forest Enterprise (England),government-organisation:EA55,NA,NA
+Forest Research,government-organisation:EA54,NA,NA
+"Centre for Environment, Fisheries and Aquaculture Science",government-organisation:EA53,NA,NA
+Animal Health and Veterinary Laboratories Agency,government-organisation:EA52,NA,NA
+UK Hydrographic Office,government-organisation:EA51,NA,NA
+Service Personnel and Veterans Agency,government-organisation:EA50,NA,NA
+Service Children's Education,government-organisation:EA49,NA,NA
+Met Office,government-organisation:EA46,NA,NA
+Defence Support Group,government-organisation:EA44,NA,NA
+Defence Science and Technology Laboratory,government-organisation:EA42,NA,NA
+Royal Parks,government-organisation:EA41,NA,NA
+Queen Elizabeth II Conference Centre,government-organisation:EA40,NA,NA
+Planning Inspectorate,government-organisation:EA39,NA,NA
+Ordnance Survey,government-organisation:D38,NA,NA
+Fire Service College,government-organisation:EA37,NA,NA
+Intellectual Property Office,government-organisation:EA34,NA,NA
+National Measurement Office,government-organisation:EA33,NA,NA
+The Insolvency Service,government-organisation:EA32,NA,NA
+UK Space Agency,government-organisation:EA31,NA,NA
+Treasury Solicitor’s Department,government-organisation:D30,NA,NA
+National Fraud Authority,government-organisation:PB29,NA,NA
+"Advisory, Conciliation and Arbitration Service",government-organisation:PB28,NA,NA
+Student Loans Company,government-organisation:PB27,NA,NA
+Companies House,government-organisation:EA26,NA,NA
+HM Revenue & Customs,government-organisation:D25,NA,NA
+Office of the Secretary of State for Wales,government-organisation:D24,NA,NA
+Scotland Office,government-organisation:D23,NA,NA
+Office of the Leader of the House of Lords,government-organisation:D22,NA,NA
+Office of the Leader of the House of Commons,government-organisation:D21,NA,NA
+Office of the Advocate General for Scotland,government-organisation:D20,NA,NA
+Northern Ireland Office,government-organisation:D19,NA,NA
+Ministry of Justice,government-organisation:D18,NA,NA
+Ministry of Defence,government-organisation:D17,NA,NA
+Home Office,government-organisation:D16,NA,NA
+HM Treasury,government-organisation:D15,NA,NA
+Foreign & Commonwealth Office,government-organisation:D13,NA,NA
+Department of Health,government-organisation:D12,NA,NA
+Department of Energy & Climate Change,government-organisation:D11,NA,NA
+Department for Work and Pensions,government-organisation:D10,NA,NA
+Department for Transport,government-organisation:D9,NA,NA
+Department for International Development,government-organisation:D8,NA,NA
+"Department for Environment, Food & Rural Affairs",government-organisation:D7,NA,NA
+Department for Education,government-organisation:D6,NA,NA
+Department for Communities and Local Government,government-organisation:D4,NA,NA
+"Department for Business, Innovation & Skills",government-organisation:D3,NA,NA
+Cabinet Office,government-organisation:D2,NA,NA
+Attorney General's Office,government-organisation:D1,NA,NA
