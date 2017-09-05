@@ -64,7 +64,10 @@ server <- function(input, output, session) {
                          selected = "")
     }
     target <<- record$name
-    output$target <- renderText(record$name)
+    updateRadioButtons(session,
+                       "target",
+                       choices = record$name,
+                       selected = record$name)
   })
   save_state <- function() {
     if (isolate(input$match) != "") {
@@ -113,7 +116,10 @@ ui <- pageWithSidebar(
                  max = nrow(join_file))
   ),
   mainPanel(
-    textOutput("target", container = strong),
+    radioButtons("target",
+                 label = NULL,
+                 choices = ""),
+    div(),
     radioButtons("match",
                  label = NULL,
                  choices = c(c("None selected" = ""), "Please wait ..."),
