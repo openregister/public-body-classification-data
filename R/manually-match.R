@@ -33,6 +33,17 @@ target <- ""
 # Server code used for all examples
 server <- function(input, output, session) {
   observe({
+    if (is.na(input$record)) {
+      return()
+    }
+    if (input$record < 1) {
+      updateNumericInput(session, "record", value = 1)
+      return()
+    }
+    if (input$record > nrow(join_file)) {
+      updateNumericInput(session, "record", value = nrow(join_file))
+      return()
+    }
     n = input$n_candidates
     record <- slice(join_file, input$record)
     if(!is.na(record$name_1))  n = n + 1
@@ -83,16 +94,26 @@ server <- function(input, output, session) {
     input$nextButton
     save_state()
     # TODO: don't respond to change from NULL to 1 when the app first starts
-    if (isolate(input$record) < nrow(join_file)) {
+    if (is.na(isolate(input$record))) {
+      updateNumericInput(session, "record", value = 1)
+      return()
+    }
+    if (isolate(isolate(input$record)) < nrow(join_file)) {
       updateNumericInput(session, "record", value = isolate(input$record) + 1)
+      return()
     }
   })
   observe({
     input$previousButton
     save_state()
+    if (is.na(isolate(input$record))) {
+      updateNumericInput(session, "record", value = 1)
+      return()
+    }
     # TODO: don't respond to change from NULL to 1 when the app first starts
     if (isolate(input$record) > 1) {
       updateNumericInput(session, "record", value = isolate(input$record) - 1)
+      return()
     }
   })
   observe({
@@ -106,9 +127,9 @@ ui <- fluidPage(
     width = 2,
     selectInput("method",
               "Matching algorithm",
-              "jw",
               c("osa", "lv", "dl", "hamming", "lcs", "qgram", "cosine",
-                "jaccard", "jw", "soundex")),
+                "jaccard", "jw", "soundex"),
+              "jw"),
     sliderInput("n_candidates",
                  "Number of candidates to choose from",
                  5,
