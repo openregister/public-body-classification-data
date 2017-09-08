@@ -13,6 +13,13 @@
 # The file lists/manually-joined.csv is first created by copying the file
 # lists/auto-joined.csv
 
+# TODO: Fix printing of dates in candidate matches table in ui.  Test case:1900
+# Greater London Authority.
+
+# Notes for Show & Tell
+# * 2125 Bolton Council = Bolton Metropolitan Borough Council, no match by JW,
+# top match by cosine and soundex.
+
 # Load packages
 library(shiny)
 library(dplyr)
@@ -46,7 +53,7 @@ server <- function(input, output, session) {
     }
     n = input$n_candidates
     record <- slice(join_file, input$record)
-    if(!is.na(record$name_1))  n = n + 1
+    if((!is.na(record$name_1)) && record$name_1 != "")  n = n + 1
     top_candidate_ids <-
       tibble(candidate = candidates$name,
              distance = stringdist(record$name,
@@ -87,8 +94,10 @@ server <- function(input, output, session) {
   save_state <- function() {
     if (isolate(input$match) != "") {
       join_file[join_file$name == target, "name_1"] <<- isolate(input$match)
-      write_csv(join_file, join_path)
+    } else {
+      join_file[join_file$name == target, "name_1"] <<- NA
     }
+    write_csv(join_file, join_path)
   }
   observe({
     input$nextButton
