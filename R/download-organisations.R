@@ -20,7 +20,7 @@ sct <-
   mutate(organisation = paste0("local-authority-sct:", `local-authority-sct`))
 wls <-
   rr_records("principal-local-authority") %>%
-  mutate(organisation = paste0("principa-local-authority:", `principal-local-authority`))
+  mutate(organisation = paste0("principal-local-authority:", `principal-local-authority`))
 
 bind_rows(eng, sct, wls) %>%
   select(`official-name`, organisation, `start-date`, `end-date`) %>%

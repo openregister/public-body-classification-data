@@ -385,28 +385,28 @@ The Angus Council,local-authority-sct:ANS,1996-04-01,NA
 The Argyll and Bute Council,local-authority-sct:AGB,1996-04-01,NA
 The Aberdeen City Council,local-authority-sct:ABE,1996-04-01,NA
 The Aberdeenshire Council,local-authority-sct:ABD,1996-04-01,NA
-Rhondda Cynon Taf County Borough Council,principa-local-authority:RCT,1996-04-01,NA
-Wrexham County Borough Council,principa-local-authority:WRX,1996-04-01,NA
-Vale of Glamorgan Council,principa-local-authority:VGL,1996-04-01,NA
-Torfaen County Borough Council,principa-local-authority:TOF,1996-04-01,NA
-City and County of Swansea Council,principa-local-authority:SWA,1996-04-01,NA
-Powys County Council,principa-local-authority:POW,1996-04-01,NA
-Pembrokeshire County Council,principa-local-authority:PEM,1996-04-01,NA
-Newport City Council,principa-local-authority:NWP,1996-04-01,NA
-Neath Port Talbot County Borough Council,principa-local-authority:NTL,1996-04-01,NA
-Merthyr Tydfil County Borough Council,principa-local-authority:MTY,1996-04-01,NA
-Monmouthshire County Council,principa-local-authority:MON,1996-04-01,NA
-Gwynedd Council,principa-local-authority:GWN,1996-04-01,NA
-Flintshire County Council,principa-local-authority:FLN,1996-04-01,NA
-Denbighshire County Council,principa-local-authority:DEN,1996-04-01,NA
-Conwy County Borough Council,principa-local-authority:CWY,1996-04-01,NA
-City of Cardiff Council,principa-local-authority:CRF,1996-04-01,NA
-Carmarthenshire County Council,principa-local-authority:CMN,1996-04-01,NA
-Ceredigion County Council,principa-local-authority:CGN,1996-04-01,NA
-Caerphilly County Borough Council,principa-local-authority:CAY,1996-04-01,NA
-Blaenau Gwent County Borough Council,principa-local-authority:BGW,1996-04-01,NA
-Bridgend County Borough Council,principa-local-authority:BGE,1996-04-01,NA
-Isle of Anglesey County Council,principa-local-authority:AGY,1996-04-01,NA
+Rhondda Cynon Taf County Borough Council,principal-local-authority:RCT,1996-04-01,NA
+Wrexham County Borough Council,principal-local-authority:WRX,1996-04-01,NA
+Vale of Glamorgan Council,principal-local-authority:VGL,1996-04-01,NA
+Torfaen County Borough Council,principal-local-authority:TOF,1996-04-01,NA
+City and County of Swansea Council,principal-local-authority:SWA,1996-04-01,NA
+Powys County Council,principal-local-authority:POW,1996-04-01,NA
+Pembrokeshire County Council,principal-local-authority:PEM,1996-04-01,NA
+Newport City Council,principal-local-authority:NWP,1996-04-01,NA
+Neath Port Talbot County Borough Council,principal-local-authority:NTL,1996-04-01,NA
+Merthyr Tydfil County Borough Council,principal-local-authority:MTY,1996-04-01,NA
+Monmouthshire County Council,principal-local-authority:MON,1996-04-01,NA
+Gwynedd Council,principal-local-authority:GWN,1996-04-01,NA
+Flintshire County Council,principal-local-authority:FLN,1996-04-01,NA
+Denbighshire County Council,principal-local-authority:DEN,1996-04-01,NA
+Conwy County Borough Council,principal-local-authority:CWY,1996-04-01,NA
+City of Cardiff Council,principal-local-authority:CRF,1996-04-01,NA
+Carmarthenshire County Council,principal-local-authority:CMN,1996-04-01,NA
+Ceredigion County Council,principal-local-authority:CGN,1996-04-01,NA
+Caerphilly County Borough Council,principal-local-authority:CAY,1996-04-01,NA
+Blaenau Gwent County Borough Council,principal-local-authority:BGW,1996-04-01,NA
+Bridgend County Borough Council,principal-local-authority:BGE,1996-04-01,NA
+Isle of Anglesey County Council,principal-local-authority:AGY,1996-04-01,NA
 "Department for Digital, Culture, Media and Sport",government-organisation:D5,NA,NA
 Scottish Government,government-organisation:DA1020,NA,NA
 Regulator of Social Housing,government-organisation:PB1218,NA,NA
