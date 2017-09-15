@@ -81,6 +81,7 @@ server <- function(input, output, session) {
                          choices = top_candidates,
                          selected = "")
     }
+    output$context <- renderTable(record)
     output$table <-
       renderTable(left_join(data_frame(name = unname(top_candidates)),
                              candidates,
@@ -167,8 +168,7 @@ ui <- fluidPage(
     actionButton("saveButton", "Save")),
   mainPanel(
     width = 6,
-    br(),
-    br(),
+    tableOutput("context"),
     tableOutput("table")
   )
 )
