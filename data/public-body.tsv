@@ -774,14 +774,14 @@ public-body	name	organisation	public-body-classification	start-date	end-date
 1773	National Treatment Agency	government-organisation:EA692	S.1311	NA	2013-04-01T00:00:00Z
 1774	Social Security Agency (Northern Ireland)	government-organisation:EA756	S.1311	NA	NA
 1775	Northern Ireland Local Government Officer’s Superannuation Committee	government-organisation:OT758	S.1311	NA	NA
-1776	Civil Nuclear Police Authority (including Civil Nuclear Constabulary)	NA	S.1311	2005-04-01T00:00:00Z	NA
+1776	Civil Nuclear Police Authority (including Civil Nuclear Constabulary)	government-organisation:OT1063;government-organisation:PB194	S.1311	2005-04-01T00:00:00Z	NA
 1777	Criminal Justice Inspection Northern Ireland / the Chief Inspector of Criminal Justice in Northern Ireland	government-organisation:OT772	S.1311	NA	NA
 1778	Heritage Lottery Fund	government-organisation:PC390	S.1311	NA	NA
 1779	School Teachers’ Review Body	government-organisation:PB414	S.1311	NA	NA
 1780	Service Children’s Education	government-organisation:EA49	S.1311	NA	2013-03-01T00:00:00Z
 1781	Advisory Conciliation and Arbitration Service	government-organisation:PB28	S.1311	NA	NA
 1782	Royal Mint Advisory Committee on the Design of Coins, Medals, Seals and Decorations	government-organisation:PB434	S.1311	NA	NA
-1783	UK Statistics Authority - including the Office for National Statistics	NA	S.1311	NA	NA
+1783	UK Statistics Authority - including the Office for National Statistics	government-organisation:D116;government-organisation:D303	S.1311	NA	NA
 1784	Rhondda Cynon Taff County Borough Council	principal-local-authority:RCT	S.1313	NA	NA
 1785	Museums Libraries and Archives Council	government-organisation:OT936	S.1311	NA	2012-05-01T00:00:00Z
 1786	Sir John Soane’s Museum	government-organisation:PB183	S.1311	NA	NA
@@ -998,7 +998,7 @@ public-body	name	organisation	public-body-classification	start-date	end-date
 1997	Abbeyfield Shanklin Society Limited (The)	NA	S.11001	1996-07-24T00:00:00Z	NA
 1998	Abbeyfield Sidmouth Society Limited (The)	NA	S.11001	1996-07-24T00:00:00Z	NA
 1999	Abbeyfield Society (The)	NA	S.11001	1996-07-24T00:00:00Z	NA
-2e3	Abbeyfield Sodbury Vale Society Limited (The)	NA	S.11001	1996-07-24T00:00:00Z	NA
+2000	Abbeyfield Sodbury Vale Society Limited (The)	NA	S.11001	1996-07-24T00:00:00Z	NA
 2001	Abbeyfield Solent Society Limited (The)	NA	S.11001	1996-07-24T00:00:00Z	NA
 2002	Abbeyfield South Downs Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
 2003	Abbeyfield South Molton Society Limited (The)	NA	S.11001	1996-07-24T00:00:00Z	NA
@@ -1998,7 +1998,7 @@ public-body	name	organisation	public-body-classification	start-date	end-date
 2997	Leta-Claudia Streets Housing Co-operative Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
 2998	Lewisham Family Co-operative Association Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
 2999	Lewisham Homes Ltd	NA	S.11001	NA	NA
-3e3	Leytonstone Housing Co-operative Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
+3000	Leytonstone Housing Co-operative Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
 3001	Library and Information Commission	NA	S.1311	NA	NA
 3002	Library and Information Services Council (Wales)	NA	S.1311	NA	NA
 3003	Lien Viet Housing Association Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
@@ -2998,7 +2998,7 @@ public-body	name	organisation	public-body-classification	start-date	end-date
 3997	Charity Commission for England and Wales	NA	S.1311	NA	NA
 3998	Charity Commission of Northern Ireland	NA	S.1311	2009-06-01T00:00:00Z	NA
 3999	Charity Jonathan & Rebecca Edwards	NA	S.11001	1996-07-24T00:00:00Z	NA
-4e3	Charity of Alice Dale	NA	S.11001	1996-07-24T00:00:00Z	NA
+4000	Charity of Alice Dale	NA	S.11001	1996-07-24T00:00:00Z	NA
 4001	Charity of Annie Kew	NA	S.11001	1996-07-24T00:00:00Z	NA
 4002	Charity of Elizabeth Owen, Llanfair	NA	S.11001	1996-07-24T00:00:00Z	NA
 4003	Charity Of Elizabeth Wadsworth	NA	S.11001	1996-07-24T00:00:00Z	NA
@@ -3998,7 +3998,7 @@ public-body	name	organisation	public-body-classification	start-date	end-date
 4997	Places for People Living+ Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
 4998	Planning Appeals Commission	NA	S.1311	NA	NA
 4999	Planning Service (Northern Ireland)	NA	S.1311	NA	2011-04-01T00:00:00Z
-5e3	Platinum Skies Living Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
+5000	Platinum Skies Living Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
 5001	Plexus UK (First Project) Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
 5002	Plumlife Homes Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
 5003	Plus Dane (Cheshire) Housing Association Limited	NA	S.11001	1996-07-24T00:00:00Z	NA
