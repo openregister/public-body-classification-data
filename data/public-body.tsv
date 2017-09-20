@@ -1,4 +1,4 @@
-public-body	name	organisation	public-body-classification	start-date	end-date
+public-body	name	organisation	public-body-classifications	start-date	end-date
 1001	Administration of Radioactive Substances Advisory Committee	NA	S.1311	NA	NA
 1002	Adult Learning Inspectorate	government-organisation:OT786	S.1311	NA	NA
 1003	Adur District Council	local-authority-eng:ADU	S.1313	NA	NA
