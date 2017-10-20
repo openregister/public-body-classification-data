@@ -774,14 +774,14 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 1773		government-organisation:EA692	S.1311		2013-04-01
 1774		government-organisation:EA756	S.1311		
 1775		government-organisation:OT758	S.1311		
-1776		government-organisation:OT1063;government-organisation:PB194	S.1311	2005-04-01	
+1776		government-organisation:PB194	S.1311	2005-04-01	
 1777		government-organisation:OT772	S.1311		
 1778		government-organisation:PC390	S.1311		
 1779		government-organisation:PB414	S.1311		
 1780		government-organisation:EA49	S.1311		2013-03-01
 1781		government-organisation:PB28	S.1311		
 1782		government-organisation:PB434	S.1311		
-1783		government-organisation:D116;government-organisation:D303	S.1311		
+1783		government-organisation:D116	S.1311		
 1784		principal-local-authority:RCT	S.1313		
 1785		government-organisation:OT936	S.1311		2012-05-01
 1786		government-organisation:PB183	S.1311		
@@ -846,7 +846,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 1845		local-authority-sct:SCB	S.1313		
 1846	HM Inspectorate of Education		S.1311		2011-04-01
 1847		government-organisation:EA51	S.11001		
-1848	Appointments Commission		S.1311		2012-10-01
+1848		government-organisation:OT801	S.1311		2012-10-01
 1849		local-authority-sct:AGB	S.1313		
 1850		government-organisation:EA843	S.1311		
 1851		government-organisation:OT941	S.1311		
@@ -1674,7 +1674,6 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 2673	Historic Environment Advisory Council		S.1311		2010-07-01
 2674	Historic Environment Scotland		S.1311	2015-10-01	
 2675	Historic Monuments Council (Northern Ireland)		S.1311		
-2676		government-organisation:PC389	S.11001		
 2677	Historic Scotland		S.1311		2015-04-01
 2678	Historical Manuscripts Commission (The Royal Commission on Historical Manuscripts)		S.1311		
 2679	Hjaltland Housing Association Ltd		S.11001	2001-07-18	
@@ -2436,7 +2435,6 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 3435	North Connel (Oban) Aerodrome		S.1313		
 3436	North Devon Council		S.1313		
 3437	North Devon Homes Limited		S.11001	1996-07-24	
-3438	North Devon Homes Limited		S.11001		
 3439	North East of Scotland Transport Partnership (NESTRANS)		S.1313	2005-12-01	
 3440	North East Wales Careers Service Ltd		S.1311	2013-04-01	
 3441	North Eastern Region Electricity Consumers’ Committee		S.1311		
@@ -2978,7 +2976,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 3977	Central Rail Users Consultative Committee (CRUCC)		S.1311		
 3978	Central Scotland Fire Board		S.1313		1905-06-27
 3979	Centre for Ecology and Hydrology		S.1311		
-3980	Centre for Environment Fisheries and Aquaculture Science Technology Ltd		S.11001		
+3980		government-organisation:EA53	S.11001		
 3981	Centre for Management and Policy Studies		S.1311		
 3982	Centre House Productions Ltd (CHP) - (s BBC)		S.11001		
 3983	Centrepoint		S.11001	1996-07-24	
@@ -3313,7 +3311,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 4312	Defence Codification Agency		S.1311		
 4313	Defence Dental Agency		S.1311		2005-04-01
 4314	Defence Estates Organisation		S.1311		
-4315	Defence Evaluation and Research Agency		S.11001		
+4315	Defence Evaluation and Research Agency		S.11001		2001-07-01
 4316	Defence Geographical and Imaging Intelligence Agency		S.1311		2005-04-01
 4317	Defence Housing Executive		S.1311		2004-04-01
 4318	Defence Medical Training Organisation		S.1311		2008-04-01
@@ -3342,7 +3340,6 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 4341	Derwentside Homes		S.11001	1996-07-24	
 4342	Design Council (incorporating CABE)		S.1311		2011-04-01
 4343	DEVCO		S.11001	1996-07-24	
-4344	Developing Initiatives for Support in the Community		S.11001		
 4345	Developing Initiatives for Support in the Community		S.11001	1996-07-24	
 4346	Development Awareness Working Group		S.1311		2001-04-01
 4347	Development Board for Rural Wales		S.11001		
@@ -3990,7 +3987,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 4989	Pinner House Society Limited		S.11001	1996-07-24	
 4990	Pioneer Co-operative Housing (Redditch) Limited		S.11001	1996-07-24	
 4991	Pioneer Housing and Community Group Limited (The)		S.11001	1996-07-24	
-4992	Pirbright Institute		S.1311		2013-12-01
+4992	Pirbright Institute		S.1311	2012-10-02	2013-12-01
 4993	Pittenweem Port		S.1313		
 4994	Place Names Advisory Committee		S.1311		
 4995	Places for People Group Limited		S.11001	1996-07-24	
@@ -4845,5 +4842,4 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 5844	Trinity House Lighthouse Service		S.1311	1905-04-29	
 5845	Trinity House National Lighthouse Centre Ltd		S.1313		2006-08-01
 5846	Trinity Housing Association Limited		S.11001	1996-07-24	
-5847	Tristar Homes Limited		S.11001	1996-07-24	
-5848	Tristar Homes Ltd		S.11001		2010-12-01
+5847	Tristar Homes Limited		S.11001	1996-07-24	2010-11-30
