@@ -3,6 +3,7 @@ library(stringr)
 library(here)
 
 data_path <- here("data", "public-body.tsv")
+map_path <- here("lists", "name-to-curie-map.tsv")
 
 original <-
   read_csv(file.path(here(), "lists", "public-body.csv")) %>%
@@ -64,6 +65,8 @@ combined <-
 
 # Should have 4848 rows altogether
 nrow(combined) == 4848
+
+write_tsv(combined, map_path)
 
 # when a public body is classified 'Former X', then the 'Classification applies
 # from' date should be used as the end-date, rather than the start-date, which
