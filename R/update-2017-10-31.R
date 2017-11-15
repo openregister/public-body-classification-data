@@ -77,7 +77,7 @@ new_records <-
   bind_rows(tibble(`public-body` = "4613",
                    name = "Forth Estuary Transport Authority",
                    organisations = NA,
-                   `public-body-classification` = "S.1311",
+                   `public-body-classifications` = "S.1311",
                    `start-date` = "2008-02-01",
                    `end-date` = "2015-04-30"))
 
@@ -94,7 +94,8 @@ removed_by_curie <- anti_join(removed, removed_by_name, by = "name")
 
 new_map <-
   new_list %>%
-  left_join(distinct(old_map, name, `public-body`, organisation)) %>%
+  rename(`public-body-classifications` = `esa-2010`) %>%
+  left_join(distinct(old_map, name, `public-body`, organisations)) %>%
   filter(!is.na(`public-body`),
          !(`public-body` %in% id_of_duplicates),
          !(`public-body` %in% id_to_remove)) %>%
@@ -105,6 +106,7 @@ new_map <-
   mutate(`start-date` = if_else(str_sub(sector, 1, 6) == "Former",
                                 as.POSIXct(NA_real_, origin = "1970-01-01"),
                                 `start-date`)) %>%
+  select(-sector) %>%
   mutate(`public-body` = as.character(`public-body`),
          `start-date` = format(`start-date`, "%Y-%m-%d"),
          `end-date` = format(`end-date`, "%Y-%m-%d")) %>%
@@ -114,4 +116,5 @@ new_register <-
   new_map %>%
   mutate(name = ifelse(!is.na(organisations), NA_character_, name)) %>%
   arrange(desc(name), desc(organisations)) %>%
+  select(`public-body`, name, organisations, `public-body-classifications`, `start-date`, `end-date`) %>%
   write_tsv(public_body_path, na = "")
