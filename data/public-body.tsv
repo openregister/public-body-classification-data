@@ -219,7 +219,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 3631	Ulster American Folk Park		S.1311		
 3630	Ullapool Harbour		S.11001		2015-12-02
 1856	UK Trade and Investment		S.1311		
-1783	UK Statistics Authority - including the Office for National Statistics		S.1311		
+1783	UK Statistics Authority		S.1311		
 1656	UK Space Agency		S.1311	2011-04-01	
 3629	UK Robotic Ltd - (s BNFL)		S.11001		
 3628	UK Programme Distribution Ltd (95%) (s BBCW)		S.11001		
@@ -242,7 +242,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 3605	TS Prestwick Holdco Ltd		S.1311	2013-11-14	
 3604	Trust Ports in Northern Ireland (En Bloc)		S.11001		
 3602	Truro Port		S.1313		
-5848	Tristar Homes Ltd		S.11001		2010-12-01
+5848	Tristar Homes Ltd		S.11001	1996-07-04	2010-12-01
 5845	Trinity House National Lighthouse Centre Ltd		S.1313		2006-08-01
 5844	Trinity House Lighthouse Service		S.1311	1905-04-29	
 5839	Tribunals Service, the		S.1311		2011-04-01
@@ -2278,7 +2278,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 1853	Defence Intelligence and Security Agency		S.1311		2005-04-01
 4317	Defence Housing Executive		S.1311		2004-04-01
 4316	Defence Geographical and Imaging Intelligence Agency		S.1311		2005-04-01
-4315	Defence Evaluation and Research Agency		S.11001		
+4315	Defence Evaluation and Research Agency		S.11001		2001-07-01
 4314	Defence Estates Organisation		S.1311		
 1162	Defence Estates		S.1311		2007-04-01
 4313	Defence Dental Agency		S.1311		2005-04-01
@@ -2487,7 +2487,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 4087	Civil Service Appeal Board		S.1311		
 4086	Civil Service Annuities Assurance Society, The		S.12801		2003-05-01
 1111	Civil Procedure Rule Committee		S.1311		
-1776	Civil Nuclear Police Authority (including Civil Nuclear Constabulary)		S.1311	2005-04-01	
+1776	Civil Nuclear Police Authority		S.1311	2005-04-01	
 1110	Civil Justice Council		S.1311		
 4085	Civil Aviation Authority International Ltd (CAA International Ltd)		S.11001	2000-11-01	
 1752	Civil Aviation Authority (CAA)		S.11001		
@@ -2879,7 +2879,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 2196	Architectural Heritage Fund		S.1311		
 1020	Architects Registration Board		S.11001		
 2194	Arbroath Harbour		S.1313		
-1848	Appointments Commission		S.1311		2012-10-01
+1848		government-organisation:OT801	S.1311		2012-10-01
 2191	Apple and Pear Research Council (APRC)		S.1311		
 2190	Appeals Service		S.1311		2006-04-01
 2189	Appeal Body (DVTA)		S.1311		
