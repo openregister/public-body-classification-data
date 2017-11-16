@@ -995,7 +995,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 3598	Offshore Industry Liaison Committee		S.1311		
 3597	Offshore Energy Technology Board		S.1311		
 3596	Office of Water Services (OFWAT)		S.1311		
-1492	Office of the Secretary of State for Wales		S.1311		
+1492		government-organisation:D24	S.1311		
 3595	Office of the Scottish Parliamentary Standards Commissioner		S.1311		2011-04-01
 3594	Office of the Scottish Charity Regulator (OSCR)		S.1311	2003-12-01	
 3593	Office of the Rail Regulator and International Rail Regulator (ORR)		S.1311		
