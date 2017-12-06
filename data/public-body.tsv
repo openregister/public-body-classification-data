@@ -573,7 +573,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 4136	Commission for Local Administration in Wales	NA	S.1311	NA	NA
 4137	Commission for New Towns	NA	S.1311	NA	NA
 1116	NA	government-organisation:OT822	S.1311	NA	2008-06-01
-1117	NA	government-organisation:OT890	S.1311	NA	NA
+1117		government-organisation:OT890	S.1311	NA	2013-03-31
 1768	NA	government-organisation:OT824	S.1311	NA	2009-03-01
 4138	Commission for the New Economy Ltd	NA	S.1313	NA	NA
 4139	Commission for Victims and Survivors	NA	S.1311	2008-05-01	NA
@@ -585,7 +585,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 4143	Commissioners of Taxes for the City of London	NA	S.1313	NA	NA
 4144	Committee for Monitoring Agreements On Tobacco Advertising Sponsorship	NA	S.1311	NA	NA
 4145	Committee of Investigation for Great Britain	NA	S.1311	NA	NA
-4146	Committee on Agricultural Valuation	NA	S.1311	NA	NA
+4146	Committee on Agricultural Valuation		S.1311		2014-04-23
 4147	Committee on Appeals Criteria and Miscarriages of Justice	NA	S.1311	NA	NA
 4148	Committee on Carcinogenicity of Chemicals in Food, Consumer Products and the Environment	NA	S.1311	NA	NA
 1118	NA	government-organisation:PB196	S.1311	NA	NA
@@ -1009,7 +1009,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 4600	Folkestone Sports Centre Trust Ltd	NA	S.1313	NA	NA
 4601	Food Advisory Committee	NA	S.1311	NA	NA
 1880	NA	government-organisation:EA56	S.1311	NA	2015-03-31
-1239	NA	government-organisation:OT793	S.1.311	NA	NA
+1239	NA	government-organisation:OT793	S.1.311	NA	2014-07-18
 1240	NA	government-organisation:D102	S.1311	NA	NA
 4602	Food Standards Scotland	NA	S.1311	2015-04-01	NA
 1241	NA	government-organisation:OT787	S.1311	NA	NA
@@ -2170,7 +2170,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 5070	Prestwick Aviation Holdings Limited	NA	S.1311	2013-11-22	NA
 5071	Primary Care Trusts (En Bloc)	NA	S.1311	NA	2013-04-01
 5075	Priority Sites Ltd	NA	S.11001	2008-09-01	NA
-5860	Private registered providers (PRPs) of social housing in England	NA	S.11001	1996-07-24	NA
+5860	Private registered providers' of social housing (including most housing associations) in England	NA	S.11001	1996-07-24T00:00:00Z	2017-11-16T00:00:00Z
 1522	NA	government-organisation:OT342	S.1311	NA	NA
 1523	NA	government-organisation:OT659	S.1311	NA	NA
 5076	Probation Trusts	NA	S.1311	NA	NA
@@ -3019,3 +3019,4 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 1711	NA	government-organisation:PB302	S.1311	NA	NA
 3946	Zetland Transport Partnership	NA	S.1313	2005-12-01	NA
 3947	Zoos Forum	NA	S.1311	NA	NA
+5864	Crown Estate Scotland (Interim Management)		S.11001	2017-04-01T00:00:00Z	NA
