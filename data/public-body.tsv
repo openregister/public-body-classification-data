@@ -190,7 +190,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 2261	Aylesham and District Community Workshop Trust	NA	S.1313	NA	NA
 1033	NA	local-authority-eng:BAB	S.1313	NA	NA
 2266	Baileyfield Switch and Crossing Works	NA	S.11001	NA	NA
-2267	Bainsdown Ltd (s MA)	NA	S.11001/03	2013-02-01	NA
+2267	Bainsdown Ltd (s MA)	NA	S.11001;S.11003	2013-02-01	NA
 1034	NA	government-organisation:OT1016	S.121	NA	NA
 2275	Bank of Scotland plc	NA	S.12201	NA	2014-03-01
 2276	Banking Department	NA	S.121	NA	NA
@@ -303,10 +303,10 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 1050	NA	government-organisation:OT428	S.1311	NA	NA
 1051	NA	government-organisation:OT431	S.1311	NA	NA
 1885	NA	government-organisation:PB337	S.1311	NA	NA
-2428	Bournemouth Airport Property Investments (Industrial) Ltd	NA	S.11001/3	2013-02-01	NA
-2429	Bournemouth Airport Property Investments (Offices) Ltd	NA	S.11001/3	2013-02-01	NA
+2428	Bournemouth Airport Property Investments (Industrial) Ltd	NA	S.11001;S.11003	2013-02-01	NA
+2429	Bournemouth Airport Property Investments (Offices) Ltd	NA	S.11001;S.11003	2013-02-01	NA
 1052	NA	local-authority-eng:BMH	S.1313	NA	NA
-2431	Bournemouth International Airport Ltd (s MA)	NA	S.11001/3	2013-02-01	NA
+2431	Bournemouth International Airport Ltd (s MA)	NA	S.11001;S.11003	2013-02-01	NA
 2432	Bournemouth Transport Ltd	NA	S.11001	NA	NA
 2437	BPE Mechanical and Electrical Engineering Consultancy	NA	S.11001	NA	NA
 2438	BPEX Ltd	NA	S.1311	NA	NA
@@ -860,11 +860,11 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 1200	NA	local-authority-eng:ELI	S.1313	NA	NA
 4420	East London Waste Authority	NA	S.1313	1986-01-01	NA
 1870	NA	local-authority-sct:ELN	S.1313	NA	NA
-4422	East Midlands Airport (s MA)	NA	S.11001/3	2013-02-01	NA
-4423	East Midlands Airport Nottingham Derby Leicester Ltd	NA	S.11001/3	2013-02-01	NA
-4424	East Midlands Airport Property Investments (Hotels) Ltd	NA	S.11001/3	2013-02-01	NA
-4425	East Midlands Airport Property Investments (Industrial) Ltd	NA	S.11001/3	2013-02-01	NA
-4426	East Midlands Airport Property Investments (Offices) Ltd	NA	S.11001/3	2013-02-01	NA
+4422	East Midlands Airport (s MA)	NA	S.11001;S.11003	2013-02-01	NA
+4423	East Midlands Airport Nottingham Derby Leicester Ltd	NA	S.11001;S.11003	2013-02-01	NA
+4424	East Midlands Airport Property Investments (Hotels) Ltd	NA	S.11001;S.11003	2013-02-01	NA
+4425	East Midlands Airport Property Investments (Industrial) Ltd	NA	S.11001;S.11003	2013-02-01	NA
+4426	East Midlands Airport Property Investments (Offices) Ltd	NA	S.11001;S.11003	2013-02-01	NA
 4427	East Midlands Cultural Consortium	NA	S.1311	NA	2010-09-01
 1740	NA	government-organisation:EA912	S.1311	NA	2012-07-01
 4429	East Midlands International Airport	NA	S.11001	NA	NA
@@ -1009,7 +1009,7 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 4600	Folkestone Sports Centre Trust Ltd	NA	S.1313	NA	NA
 4601	Food Advisory Committee	NA	S.1311	NA	NA
 1880	NA	government-organisation:EA56	S.1311	NA	2015-03-31
-1239	NA	government-organisation:OT793	S.1.311	NA	2014-07-18
+1239	NA	government-organisation:OT793	S.1311	NA	2014-07-18
 1240	NA	government-organisation:D102	S.1311	NA	NA
 4602	Food Standards Scotland	NA	S.1311	2015-04-01	NA
 1241	NA	government-organisation:OT787	S.1311	NA	NA
@@ -1571,14 +1571,14 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 3147	Manchester (Barton) Aerodrome	NA	S.1313	NA	NA
 3148	Manchester Airport Building Ltd (s MA)	NA	S.11001	NA	2006-07-01
 3149	Manchester Airport Employment Services Ltd (s MA)	NA	S.11001	NA	2006-07-01
-3150	Manchester Airport Finance Holdings Ltd	NA	S.11001/3	2013-02-01	NA
+3150	Manchester Airport Finance Holdings Ltd	NA	S.11001;S.11003	2013-02-01	NA
 3151	Manchester Airport Finance Ltd (s MA)	NA	S.11001	NA	2006-07-01
-3152	Manchester Airport Group Finance Ltd	NA	S.11001/3	2013-02-01	NA
-3153	Manchester Airport Group plc	NA	S.11001/3	2013-02-01	NA
-3154	Manchester Airport Group Property Developments Ltd	NA	S.11001/3	2013-02-01	NA
-3155	Manchester Airport Group Property Services Ltd	NA	S.11001/3	2013-02-01	NA
-3156	Manchester Airport Holdings Limited	NA	S.12701/03	2013-02-01	NA
-3157	Manchester Airport plc	NA	S.11001/3	2013-02-01	NA
+3152	Manchester Airport Group Finance Ltd	NA	S.11001;S.11003	2013-02-01	NA
+3153	Manchester Airport Group plc	NA	S.11001;S.11003	2013-02-01	NA
+3154	Manchester Airport Group Property Developments Ltd	NA	S.11001;S.11003	2013-02-01	NA
+3155	Manchester Airport Group Property Services Ltd	NA	S.11001;S.11003	2013-02-01	NA
+3156	Manchester Airport Holdings Limited	NA	S.12701;S.12703	2013-02-01	NA
+3157	Manchester Airport plc	NA	S.11001;S.11003	2013-02-01	NA
 1380	NA	local-authority-eng:MAN	S.1313	NA	NA
 3159	Manchester Investment and Development Agency Service Ltd	NA	S.1313	NA	NA
 1381	NA	local-authority-eng:MAS	S.1313	NA	NA
@@ -2280,8 +2280,8 @@ public-body	name	organisations	public-body-classifications	start-date	end-date
 1536	NA	local-authority-eng:RIB	S.1313	NA	NA
 1537	NA	local-authority-eng:RIH	S.1313	NA	NA
 5208	Ringway Developments Ltd	NA	S.1313	NA	NA
-5209	Ringway Handling Limited (s MA)	NA	S.11001/3	2013-02-01	NA
-5210	Ringway Handling Services Ltd (s MA)	NA	S.11001/3	2013-02-01	NA
+5209	Ringway Handling Limited (s MA)	NA	S.11001;S.11003	2013-02-01	NA
+5210	Ringway Handling Services Ltd (s MA)	NA	S.11001;S.11003	2013-02-01	NA
 5214	River Nith Navigation	NA	S.11001	NA	2015-12-02
 5215	River Yealm Harbour Authority	NA	S.11001	NA	NA
 5216	Rivers Agency (Northern Ireland)	NA	S.1311	NA	NA
