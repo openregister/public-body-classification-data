@@ -1,4 +1,4 @@
-# Update the list with the data from 2017-10-31,
+# Update the list with the data from 2017-12-29,
 # in particular combining all housing associations into a single 'en bloc'
 # record.
 
@@ -10,18 +10,15 @@ library(lubridate)
 library(here)
 
 map_path <- here("lists", "name-to-curie-map.tsv")
-old_list_path <- here("lists", "list-2017-10-31.xls")
-new_list_path <- here("lists", "list-2017-11-30.xls")
-new_records_path <- here("lists", "new-records-2017-11-30.tsv")
+old_list_path <- here("lists", "list-2017-11-30.xls")
+new_list_path <- here("lists", "list-2017-12-29.xls")
+new_records_path <- here("lists", "new-records-2017-12-29.tsv")
 public_body_path <- here("data", "public-body.tsv")
 
 old_map <- read_tsv(map_path)
 old_register <-
-  rr_records("public-body", "alpha") %>%
-  select(`public-body`, name, organisations, `public-body-classifications`, `start-date`, `end-date`)
-# old_register <-
-#   read_tsv(here("lists", "register-2017-12-06.tsv")) %>%
-#   select(`public-body`, name, organisations, `public-body-classifications`, `start-date`, `end-date`)
+  rr_records("public-body-account", "alpha") %>%
+  select(`public-body-account`, name, organisation, `public-body-account-classifications`, `start-date`, `end-date`)
 
 old_list <-
   read_excel(old_list_path, sheet = 8, range = "A5:D3025") %>%
@@ -57,6 +54,8 @@ new_sector <- filter(still_exist, `sector.x` != `sector.y`)
 different_start_date <- filter(still_exist, `start-date.x` != `start-date.y`)
 new_start_date <- filter(still_exist, is.na(`start-date.x`), !is.na(`start-date.y`))
 removed_start_date <- filter(still_exist, !is.na(`start-date.x`), is.na(`start-date.y`))
+
+old_list %>% filter(str_detect(name, "Private registered"))
 
 # Look at the changes
 removed
@@ -95,24 +94,24 @@ removed_start_date
 # should map to a government organisation
 old_register_with_all_maps <-
   old_register %>%
-  left_join(select(old_map, `public-body`, name, organisation), by = "public-body") %>%
-  mutate(organisations = if_else(is.na(organisations), organisation, organisations)) %>%
-  select(-organisation, -name.y) %>%
+  left_join(select(old_map, `public-body-account`, name, organisation), by = "public-body-account") %>%
+  mutate(organisation = if_else(is.na(organisation.x), organisation.y, organisation.x)) %>%
+  select(-organisation.x, -organisation.y, -name.y) %>%
   rename(name = name.x) %>%
-  mutate(name = if_else(is.na(organisations), name, NA_character_))
+  mutate(name = if_else(is.na(organisation), name, NA_character_))
 write_tsv(old_register_with_all_maps, here("data", "new-register-with-all-maps.tsv"))
 
 # Records in the old register that aren't in the map
 old_register_unmapped <-
   old_register_with_all_maps %>%
-  left_join(select(old_map, `public-body`, name), by = "public-body") %>%
+  left_join(select(old_map, `public-body-account`, name), by = "public-body-account") %>%
   filter(is.na(name.y))
 
 # Compare old register with new list
 old_register_with_all_names <-
   old_register_with_all_maps %>%
-  left_join(select(old_map, `public-body`, name), by = "public-body") %>%
-  select(`public-body`, name = name.y, `esa-2010` = `public-body-classifications`, `start-date`, `end-date`)
+  left_join(select(old_map, `public-body-account`, name), by = "public-body-account") %>%
+  select(`public-body-account`, name = name.y, `esa-2010` = `public-body-account-classifications`, `start-date`, `end-date`)
 
 still_exist <- inner_join(old_register_with_all_names, new_list, by = "name")
 removed <- anti_join(old_register_with_all_names, new_list, by = "name")
@@ -134,4 +133,4 @@ new_classification
 # "Green Investment Bank" actually just needs to be added to the map file (it's already there under a different name)
 # "Food From Britain" has already been covered by the old/new-list comparison.
 
-max(old_register$`public-body`)
+max(old_register$`public-body-account`)
